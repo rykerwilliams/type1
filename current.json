@@ -1,14 +1,14 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-10-11",
+ "as_of": "1994-11-02",
  "as_of_precision": "day",
- "effective": "1994-10-11",
+ "effective": "1994-11-02",
  "announced": null,
- "era": 10,
- "era_name": "\"93/94\" Magic",
+ "era": null,
+ "era_name": null,
  "announcement": null,
- "sequence": 7,
+ "sequence": 8,
  "restricted_count": 31,
  "restricted": [
   {
@@ -180,23 +180,6 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
-  },
-  {
-   "name": "Falling Star",
-   "type_line": "Sorcery",
-   "mana_cost": "{2}{R}",
-   "oracle_id": "f5ca7b13-8003-4361-b827-7095c89f2750",
-   "original_printing": {
-    "set": "LEG",
-    "set_name": "Legends",
-    "released_at": "1994-06-01",
-    "collector_number": "145",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/f/2/f2b9983e-20d4-4d12-9e2c-ec6d9a345787.jpg?1783948056",
-    "scryfall_uri": "https://scryfall.com/card/leg/145/falling-star?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/f2b9983e-20d4-4d12-9e2c-ec6d9a345787/rulings"
   },
   {
    "name": "Feldon's Cane",
@@ -534,6 +517,23 @@
    },
    "total_paper_printings": 9,
    "rulings_uri": "https://api.scryfall.com/cards/67b369c4-faa8-45c8-a1b9-98f228b69682/rulings"
+  },
+  {
+   "name": "Zuran Orb",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+   "original_printing": {
+    "set": "ICE",
+    "set_name": "Ice Age",
+    "released_at": "1995-06-03",
+    "collector_number": "350",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+    "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+   },
+   "total_paper_printings": 4,
+   "rulings_uri": "https://api.scryfall.com/cards/3a9d1082-a862-45d4-9e5e-392e879fead6/rulings"
   }
  ],
  "banned_cards": [
@@ -638,6 +638,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5/rulings"
+  },
+  {
+   "name": "Falling Star",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{R}",
+   "oracle_id": "f5ca7b13-8003-4361-b827-7095c89f2750",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "145",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/2/f2b9983e-20d4-4d12-9e2c-ec6d9a345787.jpg?1783948056",
+    "scryfall_uri": "https://scryfall.com/card/leg/145/falling-star?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/f2b9983e-20d4-4d12-9e2c-ec6d9a345787/rulings"
   },
   {
    "name": "Jeweled Bird",

@@ -429,6 +429,33 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 8,
+   "date": "1994-11-02",
+   "date_precision": "day",
+   "effective": "1994-11-02",
+   "announced": null,
+   "era": null,
+   "era_name": null,
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Falling Star",
+     "action": "ban",
+     "resolved_from": "mtgwiki",
+     "note": "from the wiki"
+    },
+    {
+     "card": "Zuran Orb",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "from the wiki; chart records only the 1997 unrestriction"
+    }
+   ],
+   "sources": [
+    "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline"
+   ]
   }
  ]
 }
