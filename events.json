@@ -535,6 +535,41 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 12,
+   "date": "1996-03-31",
+   "date_precision": "day",
+   "effective": "1996-03-31",
+   "announced": null,
+   "era": 16,
+   "era_name": "Type II Havoc",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Time Vault",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Ali from Cairo",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Black Vise",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Sword of the Ages",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

@@ -1,37 +1,16 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1996-01-31",
+ "as_of": "1996-03-31",
  "as_of_precision": "day",
- "effective": "1996-01-31",
- "announced": "1995-01-01",
- "era": 15,
- "era_name": "Necro Winter",
- "announcement": {
-  "url": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3",
-  "label": "Duelists' Convocation Rules Update January 1, 1995",
-  "archived": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3"
- },
- "sequence": 11,
- "restricted_count": 31,
+ "effective": "1996-03-31",
+ "announced": null,
+ "era": 16,
+ "era_name": "Type II Havoc",
+ "announcement": null,
+ "sequence": 12,
+ "restricted_count": 28,
  "restricted": [
-  {
-   "name": "Ali from Cairo",
-   "type_line": "Creature \u2014 Human",
-   "mana_cost": "{2}{R}{R}",
-   "oracle_id": "6517edb3-30e2-40ba-b6e4-4554b4bbb342",
-   "original_printing": {
-    "set": "ARN",
-    "set_name": "Arabian Nights",
-    "released_at": "1993-12-17",
-    "collector_number": "36",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/4/2/42027613-d261-4ce2-8ba1-7a2480c660f8.jpg?1783948384",
-    "scryfall_uri": "https://scryfall.com/card/arn/36/ali-from-cairo?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/42027613-d261-4ce2-8ba1-7a2480c660f8/rulings"
-  },
   {
    "name": "Ancestral Recall",
    "type_line": "Instant",
@@ -99,23 +78,6 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe/rulings"
-  },
-  {
-   "name": "Black Vise",
-   "type_line": "Artifact",
-   "mana_cost": "{1}",
-   "oracle_id": "de7839fb-7040-48ab-a6d4-d1952972943d",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "233",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/7/6/76ac72f8-5b1e-4d67-a796-ef69cde27424.jpg?1783948669",
-    "scryfall_uri": "https://scryfall.com/card/lea/233/black-vise?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/76ac72f8-5b1e-4d67-a796-ef69cde27424/rulings"
   },
   {
    "name": "Braingeyser",
@@ -436,23 +398,6 @@
    },
    "total_paper_printings": 134,
    "rulings_uri": "https://api.scryfall.com/cards/c4300d24-1cae-4dd5-be7e-38cc677cf5bd/rulings"
-  },
-  {
-   "name": "Sword of the Ages",
-   "type_line": "Artifact",
-   "mana_cost": "{6}",
-   "oracle_id": "201f2434-96b3-408c-a5ce-74d0675920ed",
-   "original_printing": {
-    "set": "LEG",
-    "set_name": "Legends",
-    "released_at": "1994-06-01",
-    "collector_number": "296",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/b/3/b37fd4cc-ab5c-4c65-80ff-8f905b31e801.jpg?1783948025",
-    "scryfall_uri": "https://scryfall.com/card/leg/296/sword-of-the-ages?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/b37fd4cc-ab5c-4c65-80ff-8f905b31e801/rulings"
   },
   {
    "name": "Time Walk",
@@ -778,23 +723,6 @@
    },
    "total_paper_printings": 4,
    "rulings_uri": "https://api.scryfall.com/cards/eb562143-fdf0-4eed-83ac-551627c576d2/rulings"
-  },
-  {
-   "name": "Time Vault",
-   "type_line": "Artifact",
-   "mana_cost": "{2}",
-   "oracle_id": "99d4d99d-cf56-45aa-aa39-a250695612f2",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "274",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/9/0/902441dc-c976-4c92-b897-6376eaa0fe38.jpg?1783948660",
-    "scryfall_uri": "https://scryfall.com/card/lea/274/time-vault?utm_source=api"
-   },
-   "total_paper_printings": 3,
-   "rulings_uri": "https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38/rulings"
   },
   {
    "name": "Timmerian Fiends",
