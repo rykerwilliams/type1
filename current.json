@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-01-26",
+ "as_of": "1994-03-04",
  "as_of_precision": "day",
- "effective": "1994-01-26",
+ "effective": "1994-03-04",
  "announced": null,
  "era": 3,
  "era_name": "Constructed Magic Begins",
  "announcement": null,
- "sequence": 1,
- "restricted_count": 19,
+ "sequence": 2,
+ "restricted_count": 17,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -231,40 +231,6 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/82da0972-b17b-4600-9efd-e9430a0db04b/rulings"
-  },
-  {
-   "name": "Orcish Oriflamme",
-   "type_line": "Enchantment",
-   "mana_cost": "{3}{R}",
-   "oracle_id": "0b16a650-68b0-44dc-a9e1-15b7966e0b18",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "166",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/9/1/911538ea-322c-4c40-a9c3-35e47fe60fce.jpg?1783948683",
-    "scryfall_uri": "https://scryfall.com/card/lea/166/orcish-oriflamme?utm_source=api"
-   },
-   "total_paper_printings": 16,
-   "rulings_uri": "https://api.scryfall.com/cards/911538ea-322c-4c40-a9c3-35e47fe60fce/rulings"
-  },
-  {
-   "name": "Rukh Egg",
-   "type_line": "Creature \u2014 Bird Egg",
-   "mana_cost": "{3}{R}",
-   "oracle_id": "98116aec-2ab1-4bee-b727-9feff6274825",
-   "original_printing": {
-    "set": "ARN",
-    "set_name": "Arabian Nights",
-    "released_at": "1993-12-17",
-    "collector_number": "43",
-    "rarity": "common",
-    "image": "https://cards.scryfall.io/normal/front/b/2/b28f9e63-e5e4-44b5-a17e-8301ff17c623.jpg?1783948383",
-    "scryfall_uri": "https://scryfall.com/card/arn/43/rukh-egg?utm_source=api"
-   },
-   "total_paper_printings": 6,
-   "rulings_uri": "https://api.scryfall.com/cards/b28f9e63-e5e4-44b5-a17e-8301ff17c623/rulings"
   },
   {
    "name": "Sol Ring",

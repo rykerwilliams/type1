@@ -199,6 +199,31 @@
     "https://magic.wizards.com/en/news/announcements",
     "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline"
    ]
+  },
+  {
+   "seq": 2,
+   "date": "1994-03-04",
+   "date_precision": "day",
+   "effective": "1994-03-04",
+   "announced": null,
+   "era": 3,
+   "era_name": "Constructed Magic Begins",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Orcish Oriflamme",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Rukh Egg",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
