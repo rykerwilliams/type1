@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1996-03-31",
+ "as_of": "1996-09-30",
  "as_of_precision": "day",
- "effective": "1996-03-31",
+ "effective": "1996-09-30",
  "announced": null,
- "era": 16,
- "era_name": "Type II Havoc",
+ "era": 18,
+ "era_name": "Force of Will Era Begins",
  "announcement": null,
- "sequence": 12,
- "restricted_count": 28,
+ "sequence": 13,
+ "restricted_count": 29,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -146,6 +146,23 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
+  },
+  {
+   "name": "Fastbond",
+   "type_line": "Enchantment",
+   "mana_cost": "{G}",
+   "oracle_id": "e27193b7-1a47-4555-865d-b1fd4c6d597f",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "192",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/5/a575a9af-e1de-4a1d-91d8-440585377e4f.jpg?1783948678",
+    "scryfall_uri": "https://scryfall.com/card/lea/192/fastbond?utm_source=api"
+   },
+   "total_paper_printings": 6,
+   "rulings_uri": "https://api.scryfall.com/cards/a575a9af-e1de-4a1d-91d8-440585377e4f/rulings"
   },
   {
    "name": "Feldon's Cane",

@@ -570,6 +570,26 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 13,
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "effective": "1996-09-30",
+   "announced": null,
+   "era": 18,
+   "era_name": "Force of Will Era Begins",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Fastbond",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
