@@ -1,15 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-06-13",
+ "as_of": "1994-08-08",
  "as_of_precision": "day",
- "effective": "1994-06-13",
- "announced": null,
- "era": 6,
- "era_name": "Mind Twist Metagame",
- "announcement": null,
- "sequence": 5,
- "restricted_count": 23,
+ "effective": "1994-08-08",
+ "announced": "1994-06-13",
+ "era": 7,
+ "era_name": "Creatureless Era Begins",
+ "announcement": {
+  "url": "https://groups.google.com/forum/#!msg/rec.games.deckmaster/_eDtnxy4_mQ/KWwx5bRfMdgJ",
+  "label": "Duelists' Convocation Rules Update June 13, 1994",
+  "archived": "http://web.archive.org/web/20261012110737/https://groups.google.com/forum/",
+  "archived_at": "20261012110737"
+ },
+ "sequence": 6,
+ "restricted_count": 30,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -131,6 +136,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
   },
   {
+   "name": "Chaos Orb",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "edb455f4-8dc9-4b7c-b25c-cb51b7dfbb41",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "235",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1783948669",
+    "scryfall_uri": "https://scryfall.com/card/lea/235/chaos-orb?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/92274971-7c4a-4326-b0fe-75e2d124f718/rulings"
+  },
+  {
    "name": "Copy Artifact",
    "type_line": "Enchantment",
    "mana_cost": "{1}{U}",
@@ -163,6 +185,23 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
+  },
+  {
+   "name": "Falling Star",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{R}",
+   "oracle_id": "f5ca7b13-8003-4361-b827-7095c89f2750",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "145",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/2/f2b9983e-20d4-4d12-9e2c-ec6d9a345787.jpg?1783948056",
+    "scryfall_uri": "https://scryfall.com/card/leg/145/falling-star?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/f2b9983e-20d4-4d12-9e2c-ec6d9a345787/rulings"
   },
   {
    "name": "Feldon's Cane",
@@ -213,6 +252,40 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
+  },
+  {
+   "name": "Mind Twist",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{B}",
+   "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "115",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693",
+    "scryfall_uri": "https://scryfall.com/card/lea/115/mind-twist?utm_source=api"
+   },
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739/rulings"
+  },
+  {
+   "name": "Mirror Universe",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "8d231d2f-5274-4b55-8262-9eb95654d183",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "287",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/8/a8f05d5e-bb7d-4554-b880-f0c6b4688357.jpg?1783948026",
+    "scryfall_uri": "https://scryfall.com/card/leg/287/mirror-universe?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/a8f05d5e-bb7d-4554-b880-f0c6b4688357/rulings"
   },
   {
    "name": "Mishra's Workshop",
@@ -316,6 +389,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/82da0972-b17b-4600-9efd-e9430a0db04b/rulings"
   },
   {
+   "name": "Recall",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{X}{U}",
+   "oracle_id": "4158f397-4ee4-4f53-90f2-3b64bfe4f9b8",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "70",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/3/33296718-0625-4422-a65c-b21cf99c52ec.jpg?1783948072",
+    "scryfall_uri": "https://scryfall.com/card/leg/70/recall?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/33296718-0625-4422-a65c-b21cf99c52ec/rulings"
+  },
+  {
    "name": "Regrowth",
    "type_line": "Sorcery",
    "mana_cost": "{1}{G}",
@@ -350,6 +440,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/c4300d24-1cae-4dd5-be7e-38cc677cf5bd/rulings"
   },
   {
+   "name": "Sword of the Ages",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "201f2434-96b3-408c-a5ce-74d0675920ed",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "296",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/b/3/b37fd4cc-ab5c-4c65-80ff-8f905b31e801.jpg?1783948025",
+    "scryfall_uri": "https://scryfall.com/card/leg/296/sword-of-the-ages?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/b37fd4cc-ab5c-4c65-80ff-8f905b31e801/rulings"
+  },
+  {
    "name": "Time Walk",
    "type_line": "Sorcery",
    "mana_cost": "{1}{U}",
@@ -382,6 +489,23 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/9a49dc44-616e-4bdd-8220-0bb71eccc512/rulings"
+  },
+  {
+   "name": "Underworld Dreams",
+   "type_line": "Enchantment",
+   "mana_cost": "{B}{B}{B}",
+   "oracle_id": "967cf377-ae26-464d-85ac-8448b5a911f7",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "124",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/a/0/a0e8f8d8-eac0-451c-a167-be84667a8e3d.jpg?1783948061",
+    "scryfall_uri": "https://scryfall.com/card/leg/124/underworld-dreams?utm_source=api"
+   },
+   "total_paper_printings": 12,
+   "rulings_uri": "https://api.scryfall.com/cards/a0e8f8d8-eac0-451c-a167-be84667a8e3d/rulings"
   },
   {
    "name": "Wheel of Fortune",
@@ -488,6 +612,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/fd891fc6-d9d6-494e-ae65-8bea8f44b575/rulings"
   },
   {
+   "name": "Divine Intervention",
+   "type_line": "Enchantment",
+   "mana_cost": "{6}{W}{W}",
+   "oracle_id": "0158a440-6573-4f12-958b-a5f0cf190d5b",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "8",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/e/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5.jpg?1783948087",
+    "scryfall_uri": "https://scryfall.com/card/leg/8/divine-intervention?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5/rulings"
+  },
+  {
    "name": "Jeweled Bird",
    "type_line": "Artifact",
    "mana_cost": "{1}",
@@ -537,6 +678,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/0014def3-4063-4929-ac51-76aef1bb2a68/rulings"
+  },
+  {
+   "name": "Tempest Efreet",
+   "type_line": "Creature \u2014 Efreet",
+   "mana_cost": "{1}{R}{R}{R}",
+   "oracle_id": "272016e1-df1e-4376-9851-af8b1ecba2f4",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "166",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/b/eb562143-fdf0-4eed-83ac-551627c576d2.jpg?1783948052",
+    "scryfall_uri": "https://scryfall.com/card/leg/166/tempest-efreet?utm_source=api"
+   },
+   "total_paper_printings": 4,
+   "rulings_uri": "https://api.scryfall.com/cards/eb562143-fdf0-4eed-83ac-551627c576d2/rulings"
   },
   {
    "name": "Time Vault",

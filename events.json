@@ -344,6 +344,71 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 6,
+   "date": "1994-08-08",
+   "date_precision": "day",
+   "effective": "1994-08-08",
+   "announced": "1994-06-13",
+   "era": 7,
+   "era_name": "Creatureless Era Begins",
+   "announcement": {
+    "url": "https://groups.google.com/forum/#!msg/rec.games.deckmaster/_eDtnxy4_mQ/KWwx5bRfMdgJ",
+    "label": "Duelists' Convocation Rules Update June 13, 1994",
+    "archived": "http://web.archive.org/web/20261012110737/https://groups.google.com/forum/",
+    "archived_at": "20261012110737"
+   },
+   "actions": [
+    {
+     "card": "Divine Intervention",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Tempest Efreet",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Chaos Orb",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Falling Star",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind Twist",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mirror Universe",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Recall",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Sword of the Ages",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Underworld Dreams",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
