@@ -1011,6 +1011,35 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 23,
+   "date": "2003-06-30",
+   "date_precision": "day",
+   "effective": "2003-06-30",
+   "announced": "2003-06-01",
+   "era": 49,
+   "era_name": "1st Gush Era Continues",
+   "announcement": {
+    "url": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a",
+    "label": "Banned & Restricted List Update June 1, 2003",
+    "archived": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a"
+   },
+   "actions": [
+    {
+     "card": "Gush",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind's Desire",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
