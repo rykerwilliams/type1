@@ -1,15 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1999-01-01",
+ "as_of": "1999-04-01",
  "as_of_precision": "day",
- "effective": "1999-01-01",
- "announced": null,
- "era": 28,
- "era_name": "Type 1 is Broken: Combo Rising",
- "announcement": null,
- "sequence": 17,
- "restricted_count": 29,
+ "effective": "1999-04-01",
+ "announced": "1999-03-01",
+ "era": 30,
+ "era_name": "A Jarring Month",
+ "announcement": {
+  "url": "http://members.tripod.com/blue_midget/Gossip/banned.htm",
+  "label": "Banned & Restricted List Update March 1, 1999"
+ },
+ "sequence": 18,
+ "restricted_count": 30,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -198,20 +201,21 @@
    "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
   },
   {
-   "name": "Maze of Ith",
-   "type_line": "Land",
-   "oracle_id": "38a12bd7-4394-44a8-91a0-6a4ff7fa4f71",
+   "name": "Memory Jar",
+   "type_line": "Artifact",
+   "mana_cost": "{5}",
+   "oracle_id": "eb9c9a34-88a8-4afe-a053-806f6b29834f",
    "original_printing": {
-    "set": "DRK",
-    "set_name": "The Dark",
-    "released_at": "1994-08-01",
-    "collector_number": "117",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/4/2/42dcceee-2a47-4eaa-a6a3-2931b3d50244.jpg?1783947922",
-    "scryfall_uri": "https://scryfall.com/card/drk/117/maze-of-ith?utm_source=api"
+    "set": "ULG",
+    "set_name": "Urza's Legacy",
+    "released_at": "1999-02-15",
+    "collector_number": "129",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/1/a15d33d6-7213-4482-a1be-ac0a73644af6.jpg?1783946221",
+    "scryfall_uri": "https://scryfall.com/card/ulg/129/memory-jar?utm_source=api"
    },
-   "total_paper_printings": 9,
-   "rulings_uri": "https://api.scryfall.com/cards/42dcceee-2a47-4eaa-a6a3-2931b3d50244/rulings"
+   "total_paper_printings": 2,
+   "rulings_uri": "https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6/rulings"
   },
   {
    "name": "Mirror Universe",
@@ -398,6 +402,23 @@
    },
    "total_paper_printings": 9,
    "rulings_uri": "https://api.scryfall.com/cards/a5423cb8-38a2-4769-8999-de6ab5ebc294/rulings"
+  },
+  {
+   "name": "Time Spiral",
+   "type_line": "Sorcery",
+   "mana_cost": "{4}{U}{U}",
+   "oracle_id": "cac55e46-b730-4569-b92c-a4b5922fc20c",
+   "original_printing": {
+    "set": "USG",
+    "set_name": "Urza's Saga",
+    "released_at": "1998-10-12",
+    "collector_number": "103",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1783946354",
+    "scryfall_uri": "https://scryfall.com/card/usg/103/time-spiral?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/f3d62dbd-63db-4ac9-950f-9852627f23f2/rulings"
   },
   {
    "name": "Time Walk",

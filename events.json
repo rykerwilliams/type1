@@ -705,6 +705,39 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 18,
+   "date": "1999-04-01",
+   "date_precision": "day",
+   "effective": "1999-04-01",
+   "announced": "1999-03-01",
+   "era": 30,
+   "era_name": "A Jarring Month",
+   "announcement": {
+    "url": "http://members.tripod.com/blue_midget/Gossip/banned.htm",
+    "label": "Banned & Restricted List Update March 1, 1999"
+   },
+   "actions": [
+    {
+     "card": "Memory Jar",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Time Spiral",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Maze of Ith",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
