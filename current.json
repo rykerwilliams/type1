@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1995-04-20",
+ "as_of": "1995-10-31",
  "as_of_precision": "day",
- "effective": "1995-04-20",
+ "effective": "1995-10-31",
  "announced": null,
- "era": 12,
- "era_name": "\"The Deck\" Dominates",
+ "era": 14,
+ "era_name": "Prelude to Bannings",
  "announcement": null,
- "sequence": 9,
- "restricted_count": 33,
+ "sequence": 10,
+ "restricted_count": 31,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -129,40 +129,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/35a335bf-7358-460f-b7c9-1e8bc4300f64/rulings"
-  },
-  {
-   "name": "Channel",
-   "type_line": "Sorcery",
-   "mana_cost": "{G}{G}",
-   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "188",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
-    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
-   },
-   "total_paper_printings": 14,
-   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
-  },
-  {
-   "name": "Chaos Orb",
-   "type_line": "Artifact",
-   "mana_cost": "{2}",
-   "oracle_id": "edb455f4-8dc9-4b7c-b25c-cb51b7dfbb41",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "235",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1783948669",
-    "scryfall_uri": "https://scryfall.com/card/lea/235/chaos-orb?utm_source=api"
-   },
-   "total_paper_printings": 3,
-   "rulings_uri": "https://api.scryfall.com/cards/92274971-7c4a-4326-b0fe-75e2d124f718/rulings"
   },
   {
    "name": "Copy Artifact",
@@ -604,6 +570,40 @@
    },
    "total_paper_printings": 5,
    "rulings_uri": "https://api.scryfall.com/cards/6fb10552-dd47-4f8a-ac7c-8c2b61e56736/rulings"
+  },
+  {
+   "name": "Channel",
+   "type_line": "Sorcery",
+   "mana_cost": "{G}{G}",
+   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "188",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
+    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
+  },
+  {
+   "name": "Chaos Orb",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "edb455f4-8dc9-4b7c-b25c-cb51b7dfbb41",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "235",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1783948669",
+    "scryfall_uri": "https://scryfall.com/card/lea/235/chaos-orb?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/92274971-7c4a-4326-b0fe-75e2d124f718/rulings"
   },
   {
    "name": "Contract from Below",

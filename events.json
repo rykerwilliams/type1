@@ -481,6 +481,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 10,
+   "date": "1995-10-31",
+   "date_precision": "day",
+   "effective": "1995-10-31",
+   "announced": null,
+   "era": 14,
+   "era_name": "Prelude to Bannings",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Channel",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Chaos Orb",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
