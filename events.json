@@ -506,6 +506,35 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 11,
+   "date": "1996-01-31",
+   "date_precision": "day",
+   "effective": "1996-01-31",
+   "announced": "1995-01-01",
+   "era": 15,
+   "era_name": "Necro Winter",
+   "announcement": {
+    "url": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3",
+    "label": "Duelists' Convocation Rules Update January 1, 1995",
+    "archived": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3"
+   },
+   "actions": [
+    {
+     "card": "Mind Twist",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Black Vise",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
