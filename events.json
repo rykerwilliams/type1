@@ -1073,6 +1073,46 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 25,
+   "date": "2004-10-19",
+   "date_precision": "day",
+   "effective": "2004-10-19",
+   "announced": "2004-09-03",
+   "era": 54,
+   "era_name": "The End of Type 1",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+    "label": "Banned & Restricted List Update September 3, 2004",
+    "archived": "http://web.archive.org/web/20220807213330/https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+    "archived_at": "20220807213330"
+   },
+   "actions": [
+    {
+     "card": "Braingeyser",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Doomsday",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Earthcraft",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Fork",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

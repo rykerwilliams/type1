@@ -1,18 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2003-12-31",
+ "as_of": "2004-10-19",
  "as_of_precision": "day",
- "effective": "2003-12-31",
- "announced": "2003-12-01",
- "era": 51,
- "era_name": "Burning Tendrils Flames Out",
+ "effective": "2004-10-19",
+ "announced": "2004-09-03",
+ "era": 54,
+ "era_name": "The End of Type 1",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01",
-  "label": "Banned & Restricted List Update December 1, 2003"
+  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+  "label": "Banned & Restricted List Update September 3, 2004",
+  "archived": "http://web.archive.org/web/20220807213330/https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+  "archived_at": "20220807213330"
  },
- "sequence": 24,
- "restricted_count": 54,
+ "sequence": 25,
+ "restricted_count": 50,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -81,23 +83,6 @@
    },
    "total_paper_printings": 11,
    "rulings_uri": "https://api.scryfall.com/cards/76ac72f8-5b1e-4d67-a796-ef69cde27424/rulings"
-  },
-  {
-   "name": "Braingeyser",
-   "type_line": "Sorcery",
-   "mana_cost": "{X}{U}{U}",
-   "oracle_id": "9908e597-9470-4c13-8387-39431b380138",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "50",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/6/2/62b19a12-6914-430e-81ce-dcfca47884df.jpg?1783948707",
-    "scryfall_uri": "https://scryfall.com/card/lea/50/braingeyser?utm_source=api"
-   },
-   "total_paper_printings": 8,
-   "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
    "name": "Burning Wish",
@@ -202,23 +187,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
   },
   {
-   "name": "Doomsday",
-   "type_line": "Sorcery",
-   "mana_cost": "{B}{B}{B}",
-   "oracle_id": "721eb5a2-d7cf-4db0-8013-ef3f596c52a5",
-   "original_printing": {
-    "set": "WTH",
-    "set_name": "Weatherlight",
-    "released_at": "1997-06-09",
-    "collector_number": "66",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/5/b/5b3c6d87-9383-450b-bba5-33435b6b0d08.jpg?1783946736",
-    "scryfall_uri": "https://scryfall.com/card/wth/66/doomsday?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/5b3c6d87-9383-450b-bba5-33435b6b0d08/rulings"
-  },
-  {
    "name": "Dream Halls",
    "type_line": "Enchantment",
    "mana_cost": "{3}{U}{U}",
@@ -234,23 +202,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238/rulings"
-  },
-  {
-   "name": "Earthcraft",
-   "type_line": "Enchantment",
-   "mana_cost": "{1}{G}",
-   "oracle_id": "50aa7aff-1f01-4224-9a83-01f74d703ec2",
-   "original_printing": {
-    "set": "TMP",
-    "set_name": "Tempest",
-    "released_at": "1997-10-14",
-    "collector_number": "222",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/9/d/9dda7531-82a1-4f49-8858-601ddbc6e2bc.jpg?1783946620",
-    "scryfall_uri": "https://scryfall.com/card/tmp/222/earthcraft?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/9dda7531-82a1-4f49-8858-601ddbc6e2bc/rulings"
   },
   {
    "name": "Enlightened Tutor",
@@ -319,23 +270,6 @@
    },
    "total_paper_printings": 6,
    "rulings_uri": "https://api.scryfall.com/cards/a575a9af-e1de-4a1d-91d8-440585377e4f/rulings"
-  },
-  {
-   "name": "Fork",
-   "type_line": "Instant",
-   "mana_cost": "{R}{R}",
-   "oracle_id": "50c53ae0-51ba-4046-ac74-87c65e688032",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "152",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686",
-    "scryfall_uri": "https://scryfall.com/card/lea/152/fork?utm_source=api"
-   },
-   "total_paper_printings": 6,
-   "rulings_uri": "https://api.scryfall.com/cards/e6b43916-fe2d-417a-a550-d7c795023297/rulings"
   },
   {
    "name": "Frantic Search",
