@@ -650,6 +650,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 16,
+   "date": "1998-01-01",
+   "date_precision": "day",
+   "effective": "1998-01-01",
+   "announced": "1998-01-01",
+   "era": 24,
+   "era_name": "Blue Zoo Moment",
+   "announcement": {
+    "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+    "label": "Banned & Restricted List Update January 1, 1998",
+    "archived": "http://web.archive.org/web/20250814090652/https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+    "archived_at": "20250814090652"
+   },
+   "actions": [
+    {
+     "card": "Strip Mine",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

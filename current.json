@@ -1,15 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1997-09-30",
+ "as_of": "1998-01-01",
  "as_of_precision": "day",
- "effective": "1997-09-30",
- "announced": null,
- "era": 22,
- "era_name": "Inquest Summer",
- "announcement": null,
- "sequence": 15,
- "restricted_count": 25,
+ "effective": "1998-01-01",
+ "announced": "1998-01-01",
+ "era": 24,
+ "era_name": "Blue Zoo Moment",
+ "announcement": {
+  "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+  "label": "Banned & Restricted List Update January 1, 1998",
+  "archived": "http://web.archive.org/web/20250814090652/https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+  "archived_at": "20250814090652"
+ },
+ "sequence": 16,
+ "restricted_count": 26,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -365,6 +370,22 @@
    },
    "total_paper_printings": 134,
    "rulings_uri": "https://api.scryfall.com/cards/c4300d24-1cae-4dd5-be7e-38cc677cf5bd/rulings"
+  },
+  {
+   "name": "Strip Mine",
+   "type_line": "Land",
+   "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "82a",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+    "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+   },
+   "total_paper_printings": 17,
+   "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
   },
   {
    "name": "Time Walk",
