@@ -1,19 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2003-06-30",
+ "as_of": "2003-12-31",
  "as_of_precision": "day",
- "effective": "2003-06-30",
- "announced": "2003-06-01",
- "era": 49,
- "era_name": "1st Gush Era Continues",
+ "effective": "2003-12-31",
+ "announced": "2003-12-01",
+ "era": 51,
+ "era_name": "Burning Tendrils Flames Out",
  "announcement": {
-  "url": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a",
-  "label": "Banned & Restricted List Update June 1, 2003",
-  "archived": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a"
+  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01",
+  "label": "Banned & Restricted List Update December 1, 2003"
  },
- "sequence": 23,
- "restricted_count": 51,
+ "sequence": 24,
+ "restricted_count": 54,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -101,6 +100,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
+   "name": "Burning Wish",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{R}",
+   "oracle_id": "13a884b5-8970-4d71-9082-a8b6c8db9a01",
+   "original_printing": {
+    "set": "JUD",
+    "set_name": "Judgment",
+    "released_at": "2002-05-27",
+    "collector_number": "83",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/c/1c9b692a-e832-4612-a6ec-93b52f6a0410.jpg?1783945119",
+    "scryfall_uri": "https://scryfall.com/card/jud/83/burning-wish?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/1c9b692a-e832-4612-a6ec-93b52f6a0410/rulings"
+  },
+  {
    "name": "Channel",
    "type_line": "Sorcery",
    "mana_cost": "{G}{G}",
@@ -116,6 +132,23 @@
    },
    "total_paper_printings": 14,
    "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
+  },
+  {
+   "name": "Chrome Mox",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "ec3d4466-547c-4e02-b1b5-a156ec4637e9",
+   "original_printing": {
+    "set": "MRD",
+    "set_name": "Mirrodin",
+    "released_at": "2003-10-02",
+    "collector_number": "152",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/a/6a058e68-70af-4a64-859c-c881e5578368.jpg?1783944526",
+    "scryfall_uri": "https://scryfall.com/card/mrd/152/chrome-mox?utm_source=api"
+   },
+   "total_paper_printings": 12,
+   "rulings_uri": "https://api.scryfall.com/cards/6a058e68-70af-4a64-859c-c881e5578368/rulings"
   },
   {
    "name": "Crop Rotation",
@@ -370,6 +403,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
+  },
+  {
+   "name": "Lion's Eye Diamond",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "ee6099b0-fb1f-42f1-b862-7708c6e36d05",
+   "original_printing": {
+    "set": "MIR",
+    "set_name": "Mirage",
+    "released_at": "1996-10-08",
+    "collector_number": "307",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041",
+    "scryfall_uri": "https://scryfall.com/card/mir/307/lions-eye-diamond?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/63bacc32-d6ba-420c-9b49-299c08e5fb39/rulings"
   },
   {
    "name": "Lotus Petal",

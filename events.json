@@ -1040,6 +1040,39 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 24,
+   "date": "2003-12-31",
+   "date_precision": "day",
+   "effective": "2003-12-31",
+   "announced": "2003-12-01",
+   "era": 51,
+   "era_name": "Burning Tendrils Flames Out",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01",
+    "label": "Banned & Restricted List Update December 1, 2003"
+   },
+   "actions": [
+    {
+     "card": "Burning Wish",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Chrome Mox",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Lion's Eye Diamond",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
