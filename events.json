@@ -890,6 +890,59 @@
     "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 20,
+   "date": "2000-09-30",
+   "date_precision": "day",
+   "effective": "2000-09-30",
+   "announced": "2000-09-01",
+   "era": 37,
+   "era_name": "Trix Dominant",
+   "announcement": {
+    "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+    "label": "Banned & Restricted List Update September 1, 2000",
+    "archived": "http://web.archive.org/web/20250823045431/http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+    "archived_at": "20250823045431"
+   },
+   "actions": [
+    {
+     "card": "Channel",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "unbanned to restricted"
+    },
+    {
+     "card": "Demonic Consultation",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind Twist",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "unbanned to restricted"
+    },
+    {
+     "card": "Necropotence",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Channel",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind Twist",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

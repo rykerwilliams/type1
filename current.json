@@ -1,18 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1999-09-30",
+ "as_of": "2000-09-30",
  "as_of_precision": "day",
- "effective": "1999-09-30",
- "announced": "1999-09-01",
- "era": 33,
- "era_name": "Academy's Swan Song",
+ "effective": "2000-09-30",
+ "announced": "2000-09-01",
+ "era": 37,
+ "era_name": "Trix Dominant",
  "announcement": {
-  "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-990901.txt",
-  "label": "Banned & Restricted List Update September 1, 1999"
+  "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+  "label": "Banned & Restricted List Update September 1, 2000",
+  "archived": "http://web.archive.org/web/20250823045431/http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+  "archived_at": "20250823045431"
  },
- "sequence": 19,
- "restricted_count": 45,
+ "sequence": 20,
+ "restricted_count": 49,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -117,6 +119,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
+   "name": "Channel",
+   "type_line": "Sorcery",
+   "mana_cost": "{G}{G}",
+   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "188",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
+    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
+  },
+  {
    "name": "Crop Rotation",
    "type_line": "Instant",
    "mana_cost": "{G}",
@@ -132,6 +151,23 @@
    },
    "total_paper_printings": 16,
    "rulings_uri": "https://api.scryfall.com/cards/6563f790-862c-465a-b963-7a61f2385516/rulings"
+  },
+  {
+   "name": "Demonic Consultation",
+   "type_line": "Instant",
+   "mana_cost": "{B}",
+   "oracle_id": "9a1412db-45ad-46ea-8f12-a85d203113d8",
+   "original_printing": {
+    "set": "ICE",
+    "set_name": "Ice Age",
+    "released_at": "1995-06-03",
+    "collector_number": "121",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/8/d/8d727b9b-6114-414d-9172-16b6e1db41cc.jpg?1783947504",
+    "scryfall_uri": "https://scryfall.com/card/ice/121/demonic-consultation?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/8d727b9b-6114-414d-9172-16b6e1db41cc/rulings"
   },
   {
    "name": "Demonic Tutor",
@@ -388,6 +424,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/6e091dd6-149f-46ea-bae0-224e79e3aacb/rulings"
   },
   {
+   "name": "Mind Twist",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{B}",
+   "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "115",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693",
+    "scryfall_uri": "https://scryfall.com/card/lea/115/mind-twist?utm_source=api"
+   },
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739/rulings"
+  },
+  {
    "name": "Mox Diamond",
    "type_line": "Artifact",
    "mana_cost": "{0}",
@@ -505,6 +558,23 @@
    },
    "total_paper_printings": 11,
    "rulings_uri": "https://api.scryfall.com/cards/5d98101f-e32a-4a4a-a649-faa920d111ee/rulings"
+  },
+  {
+   "name": "Necropotence",
+   "type_line": "Enchantment",
+   "mana_cost": "{B}{B}{B}",
+   "oracle_id": "94a844d2-0574-45a7-b347-e0e329767c42",
+   "original_printing": {
+    "set": "ICE",
+    "set_name": "Ice Age",
+    "released_at": "1995-06-03",
+    "collector_number": "154",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1783947497",
+    "scryfall_uri": "https://scryfall.com/card/ice/154/necropotence?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings"
   },
   {
    "name": "Recall",
@@ -813,23 +883,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/6fb10552-dd47-4f8a-ac7c-8c2b61e56736/rulings"
   },
   {
-   "name": "Channel",
-   "type_line": "Sorcery",
-   "mana_cost": "{G}{G}",
-   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "188",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
-    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
-   },
-   "total_paper_printings": 14,
-   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
-  },
-  {
    "name": "Chaos Orb",
    "type_line": "Artifact",
    "mana_cost": "{2}",
@@ -930,23 +983,6 @@
    },
    "total_paper_printings": 4,
    "rulings_uri": "https://api.scryfall.com/cards/bfffb65d-851d-4dc9-9233-d53abf955dcd/rulings"
-  },
-  {
-   "name": "Mind Twist",
-   "type_line": "Sorcery",
-   "mana_cost": "{X}{B}",
-   "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "115",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693",
-    "scryfall_uri": "https://scryfall.com/card/lea/115/mind-twist?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739/rulings"
   },
   {
    "name": "Rebirth",
