@@ -1113,6 +1113,33 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 26,
+   "date": "2005-02-19",
+   "date_precision": "day",
+   "effective": "2005-02-19",
+   "announced": null,
+   "era": 55,
+   "era_name": "Oath on Top",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Trinisphere",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "stated alongside a future-tense announcement the parser skips"
+    },
+    {
+     "card": "Stroke of Genius",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

@@ -1,19 +1,14 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2004-10-19",
+ "as_of": "2005-02-19",
  "as_of_precision": "day",
- "effective": "2004-10-19",
- "announced": "2004-09-03",
- "era": 54,
- "era_name": "The End of Type 1",
- "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
-  "label": "Banned & Restricted List Update September 3, 2004",
-  "archived": "http://web.archive.org/web/20220807213330/https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
-  "archived_at": "20220807213330"
- },
- "sequence": 25,
+ "effective": "2005-02-19",
+ "announced": null,
+ "era": 55,
+ "era_name": "Oath on Top",
+ "announcement": null,
+ "sequence": 26,
  "restricted_count": 50,
  "restricted": [
   {
@@ -661,23 +656,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
   },
   {
-   "name": "Stroke of Genius",
-   "type_line": "Instant",
-   "mana_cost": "{X}{2}{U}",
-   "oracle_id": "0cc6d683-366f-4ae4-be60-20ad9621fdaf",
-   "original_printing": {
-    "set": "JGP",
-    "set_name": "Judge Gift Cards 1998",
-    "released_at": "1998-01-01",
-    "collector_number": "2",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/a/5/a5423cb8-38a2-4769-8999-de6ab5ebc294.jpg?1783946579",
-    "scryfall_uri": "https://scryfall.com/card/jgp/2/stroke-of-genius?utm_source=api"
-   },
-   "total_paper_printings": 9,
-   "rulings_uri": "https://api.scryfall.com/cards/a5423cb8-38a2-4769-8999-de6ab5ebc294/rulings"
-  },
-  {
    "name": "Time Spiral",
    "type_line": "Sorcery",
    "mana_cost": "{4}{U}{U}",
@@ -760,6 +738,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887/rulings"
+  },
+  {
+   "name": "Trinisphere",
+   "type_line": "Artifact",
+   "mana_cost": "{3}",
+   "oracle_id": "69d994f2-b8f6-425f-9655-977c2144d40c",
+   "original_printing": {
+    "set": "DST",
+    "set_name": "Darksteel",
+    "released_at": "2004-02-06",
+    "collector_number": "154",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/d/4/d465597a-362e-4bd0-b547-f11d8807e597.jpg?1783944416",
+    "scryfall_uri": "https://scryfall.com/card/dst/154/trinisphere?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/d465597a-362e-4bd0-b547-f11d8807e597/rulings"
   },
   {
    "name": "Vampiric Tutor",
