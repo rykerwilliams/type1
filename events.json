@@ -738,6 +738,158 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 19,
+   "date": "1999-09-30",
+   "date_precision": "day",
+   "effective": "1999-09-30",
+   "announced": "1999-09-01",
+   "era": 33,
+   "era_name": "Academy's Swan Song",
+   "announcement": {
+    "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-990901.txt",
+    "label": "Banned & Restricted List Update September 1, 1999"
+   },
+   "actions": [
+    {
+     "card": "Crop Rotation",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Doomsday",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Dream Halls",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Enlightened Tutor",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Frantic Search",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Grim Monolith",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Hurkyl's Recall",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Lotus Petal",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Mana Crypt",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Mana Vault",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Mind Over Matter",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Mox Diamond",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Mystical Tutor",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Tinker",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Vampiric Tutor",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Voltaic Key",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Yawgmoth's Bargain",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Yawgmoth's Will",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the eighteen)"
+    },
+    {
+     "card": "Divine Intervention",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Shahrazad",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Ivory Tower",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mirror Universe",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Underworld Dreams",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
