@@ -456,6 +456,31 @@
    "sources": [
     "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline"
    ]
+  },
+  {
+   "seq": 9,
+   "date": "1995-04-20",
+   "date_precision": "day",
+   "effective": "1995-04-20",
+   "announced": null,
+   "era": 12,
+   "era_name": "\"The Deck\" Dominates",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Balance",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Fork",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

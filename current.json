@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-11-02",
+ "as_of": "1995-04-20",
  "as_of_precision": "day",
- "effective": "1994-11-02",
+ "effective": "1995-04-20",
  "announced": null,
- "era": null,
- "era_name": null,
+ "era": 12,
+ "era_name": "\"The Deck\" Dominates",
  "announcement": null,
- "sequence": 8,
- "restricted_count": 31,
+ "sequence": 9,
+ "restricted_count": 33,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -44,6 +44,23 @@
    },
    "total_paper_printings": 7,
    "rulings_uri": "https://api.scryfall.com/cards/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b/rulings"
+  },
+  {
+   "name": "Balance",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{W}",
+   "oracle_id": "17fa98cd-ed8f-483f-9525-7e989a82ebb2",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "3",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/f/6f9ea46a-411f-40ce-a873-a905180093f4.jpg?1783948717",
+    "scryfall_uri": "https://scryfall.com/card/lea/3/balance?utm_source=api"
+   },
+   "total_paper_printings": 13,
+   "rulings_uri": "https://api.scryfall.com/cards/6f9ea46a-411f-40ce-a873-a905180093f4/rulings"
   },
   {
    "name": "Berserk",
@@ -197,6 +214,23 @@
    },
    "total_paper_printings": 11,
    "rulings_uri": "https://api.scryfall.com/cards/bb6af436-bcfd-4d47-a1aa-e84b587a725a/rulings"
+  },
+  {
+   "name": "Fork",
+   "type_line": "Instant",
+   "mana_cost": "{R}{R}",
+   "oracle_id": "50c53ae0-51ba-4046-ac74-87c65e688032",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "152",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686",
+    "scryfall_uri": "https://scryfall.com/card/lea/152/fork?utm_source=api"
+   },
+   "total_paper_printings": 6,
+   "rulings_uri": "https://api.scryfall.com/cards/e6b43916-fe2d-417a-a550-d7c795023297/rulings"
   },
   {
    "name": "Ivory Tower",
