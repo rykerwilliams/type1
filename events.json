@@ -967,6 +967,50 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 22,
+   "date": "2003-03-31",
+   "date_precision": "day",
+   "effective": "2003-03-31",
+   "announced": "2003-03-01",
+   "era": 48,
+   "era_name": "1st Gush Era",
+   "announcement": {
+    "url": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303",
+    "label": "Banned & Restricted List Update March 1, 2003",
+    "archived": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303"
+   },
+   "actions": [
+    {
+     "card": "Earthcraft",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Entomb",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Berserk",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Hurkyl's Recall",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Recall",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

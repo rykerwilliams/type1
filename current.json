@@ -1,19 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2002-01-01",
+ "as_of": "2003-03-31",
  "as_of_precision": "day",
- "effective": "2002-01-01",
- "announced": "2001-12-01",
- "era": 43,
- "era_name": "The Final Chapter on Fact or Fiction",
+ "effective": "2003-03-31",
+ "announced": "2003-03-01",
+ "era": 48,
+ "era_name": "1st Gush Era",
  "announcement": {
-  "url": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201",
-  "label": "Banned & Restricted List Update December 1, 2001",
-  "archived": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201"
+  "url": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303",
+  "label": "Banned & Restricted List Update March 1, 2003",
+  "archived": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303"
  },
- "sequence": 21,
- "restricted_count": 50,
+ "sequence": 22,
+ "restricted_count": 49,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -48,23 +48,6 @@
    },
    "total_paper_printings": 13,
    "rulings_uri": "https://api.scryfall.com/cards/6f9ea46a-411f-40ce-a873-a905180093f4/rulings"
-  },
-  {
-   "name": "Berserk",
-   "type_line": "Instant",
-   "mana_cost": "{G}",
-   "oracle_id": "8b67d192-9a05-4a47-82ae-5fc4b7834d88",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "185",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/e/1/e173c8ce-2352-405e-ad00-e3bb94ced1ad.jpg?1783948679",
-    "scryfall_uri": "https://scryfall.com/card/lea/185/berserk?utm_source=api"
-   },
-   "total_paper_printings": 10,
-   "rulings_uri": "https://api.scryfall.com/cards/e173c8ce-2352-405e-ad00-e3bb94ced1ad/rulings"
   },
   {
    "name": "Black Lotus",
@@ -220,6 +203,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238/rulings"
   },
   {
+   "name": "Earthcraft",
+   "type_line": "Enchantment",
+   "mana_cost": "{1}{G}",
+   "oracle_id": "50aa7aff-1f01-4224-9a83-01f74d703ec2",
+   "original_printing": {
+    "set": "TMP",
+    "set_name": "Tempest",
+    "released_at": "1997-10-14",
+    "collector_number": "222",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/d/9dda7531-82a1-4f49-8858-601ddbc6e2bc.jpg?1783946620",
+    "scryfall_uri": "https://scryfall.com/card/tmp/222/earthcraft?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/9dda7531-82a1-4f49-8858-601ddbc6e2bc/rulings"
+  },
+  {
    "name": "Enlightened Tutor",
    "type_line": "Instant",
    "mana_cost": "{W}",
@@ -235,6 +235,23 @@
    },
    "total_paper_printings": 10,
    "rulings_uri": "https://api.scryfall.com/cards/cbac1d27-15e2-4e2f-82ab-625a16e096cb/rulings"
+  },
+  {
+   "name": "Entomb",
+   "type_line": "Instant",
+   "mana_cost": "{B}",
+   "oracle_id": "299fc083-0834-4064-8344-f895aff68867",
+   "original_printing": {
+    "set": "ODY",
+    "set_name": "Odyssey",
+    "released_at": "2001-10-01",
+    "collector_number": "132",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/6/f60a2091-fb97-4f04-911b-fce9b6351044.jpg?1783945246",
+    "scryfall_uri": "https://scryfall.com/card/ody/132/entomb?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/f60a2091-fb97-4f04-911b-fce9b6351044/rulings"
   },
   {
    "name": "Fact or Fiction",
@@ -320,23 +337,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280/rulings"
-  },
-  {
-   "name": "Hurkyl's Recall",
-   "type_line": "Instant",
-   "mana_cost": "{1}{U}",
-   "oracle_id": "ed1e5d24-c8a8-48fe-a88f-1003ad432477",
-   "original_printing": {
-    "set": "ATQ",
-    "set_name": "Antiquities",
-    "released_at": "1994-03-04",
-    "collector_number": "10",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/f/3/f32373dd-06d8-45d1-8777-3b1411bcb30a.jpg?1783948372",
-    "scryfall_uri": "https://scryfall.com/card/atq/10/hurkyls-recall?utm_source=api"
-   },
-   "total_paper_printings": 10,
-   "rulings_uri": "https://api.scryfall.com/cards/f32373dd-06d8-45d1-8777-3b1411bcb30a/rulings"
   },
   {
    "name": "Library of Alexandria",
@@ -591,23 +591,6 @@
    },
    "total_paper_printings": 10,
    "rulings_uri": "https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings"
-  },
-  {
-   "name": "Recall",
-   "type_line": "Sorcery",
-   "mana_cost": "{X}{X}{U}",
-   "oracle_id": "4158f397-4ee4-4f53-90f2-3b64bfe4f9b8",
-   "original_printing": {
-    "set": "LEG",
-    "set_name": "Legends",
-    "released_at": "1994-06-01",
-    "collector_number": "70",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/3/3/33296718-0625-4422-a65c-b21cf99c52ec.jpg?1783948072",
-    "scryfall_uri": "https://scryfall.com/card/leg/70/recall?utm_source=api"
-   },
-   "total_paper_printings": 5,
-   "rulings_uri": "https://api.scryfall.com/cards/33296718-0625-4422-a65c-b21cf99c52ec/rulings"
   },
   {
    "name": "Regrowth",
