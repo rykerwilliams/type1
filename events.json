@@ -610,6 +610,46 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 15,
+   "date": "1997-09-30",
+   "date_precision": "day",
+   "effective": "1997-09-30",
+   "announced": null,
+   "era": 22,
+   "era_name": "Inquest Summer",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Candelabra of Tawnos",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Copy Artifact",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Feldon's Cane",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mishra's Workshop",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Zuran Orb",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

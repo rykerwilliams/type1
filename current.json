@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1997-06-30",
+ "as_of": "1997-09-30",
  "as_of_precision": "day",
- "effective": "1997-06-30",
+ "effective": "1997-09-30",
  "announced": null,
- "era": 21,
- "era_name": "Prosperty Combo Era",
+ "era": 22,
+ "era_name": "Inquest Summer",
  "announcement": null,
- "sequence": 14,
- "restricted_count": 30,
+ "sequence": 15,
+ "restricted_count": 25,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -114,40 +114,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
-   "name": "Candelabra of Tawnos",
-   "type_line": "Artifact",
-   "mana_cost": "{1}",
-   "oracle_id": "c7c7bffa-442d-4ba5-b778-ad394c192f27",
-   "original_printing": {
-    "set": "ATQ",
-    "set_name": "Antiquities",
-    "released_at": "1994-03-04",
-    "collector_number": "43",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/3/5/35a335bf-7358-460f-b7c9-1e8bc4300f64.jpg?1783948364",
-    "scryfall_uri": "https://scryfall.com/card/atq/43/candelabra-of-tawnos?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/35a335bf-7358-460f-b7c9-1e8bc4300f64/rulings"
-  },
-  {
-   "name": "Copy Artifact",
-   "type_line": "Enchantment",
-   "mana_cost": "{1}{U}",
-   "oracle_id": "80bc56a9-40e0-48da-ae86-190e39c8a4a3",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "53",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1783948707",
-    "scryfall_uri": "https://scryfall.com/card/lea/53/copy-artifact?utm_source=api"
-   },
-   "total_paper_printings": 10,
-   "rulings_uri": "https://api.scryfall.com/cards/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063/rulings"
-  },
-  {
    "name": "Demonic Tutor",
    "type_line": "Sorcery",
    "mana_cost": "{1}{B}",
@@ -180,23 +146,6 @@
    },
    "total_paper_printings": 6,
    "rulings_uri": "https://api.scryfall.com/cards/a575a9af-e1de-4a1d-91d8-440585377e4f/rulings"
-  },
-  {
-   "name": "Feldon's Cane",
-   "type_line": "Artifact",
-   "mana_cost": "{1}",
-   "oracle_id": "9b884dfd-59f4-45c0-bf1e-6ad9f5b58895",
-   "original_printing": {
-    "set": "ATQ",
-    "set_name": "Antiquities",
-    "released_at": "1994-03-04",
-    "collector_number": "50",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/b/b/bb6af436-bcfd-4d47-a1aa-e84b587a725a.jpg?1783948362",
-    "scryfall_uri": "https://scryfall.com/card/atq/50/feldons-cane?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/bb6af436-bcfd-4d47-a1aa-e84b587a725a/rulings"
   },
   {
    "name": "Fork",
@@ -280,22 +229,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/a8f05d5e-bb7d-4554-b880-f0c6b4688357/rulings"
-  },
-  {
-   "name": "Mishra's Workshop",
-   "type_line": "Land",
-   "oracle_id": "ba284fe6-bb29-455c-8321-9714a0cdc05e",
-   "original_printing": {
-    "set": "ATQ",
-    "set_name": "Antiquities",
-    "released_at": "1994-03-04",
-    "collector_number": "81",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/1/3/135de5c7-6ac9-4b68-8f1a-97f120a4b125.jpg?1783948355",
-    "scryfall_uri": "https://scryfall.com/card/atq/81/mishras-workshop?utm_source=api"
-   },
-   "total_paper_printings": 2,
-   "rulings_uri": "https://api.scryfall.com/cards/135de5c7-6ac9-4b68-8f1a-97f120a4b125/rulings"
   },
   {
    "name": "Mox Emerald",
@@ -500,23 +433,6 @@
    },
    "total_paper_printings": 9,
    "rulings_uri": "https://api.scryfall.com/cards/67b369c4-faa8-45c8-a1b9-98f228b69682/rulings"
-  },
-  {
-   "name": "Zuran Orb",
-   "type_line": "Artifact",
-   "mana_cost": "{0}",
-   "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
-   "original_printing": {
-    "set": "ICE",
-    "set_name": "Ice Age",
-    "released_at": "1995-06-03",
-    "collector_number": "350",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
-    "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
-   },
-   "total_paper_printings": 4,
-   "rulings_uri": "https://api.scryfall.com/cards/3a9d1082-a862-45d4-9e5e-392e879fead6/rulings"
   }
  ],
  "banned_cards": [
