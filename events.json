@@ -274,6 +274,56 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 4,
+   "date": "1994-05-02",
+   "date_precision": "day",
+   "effective": "1994-05-02",
+   "announced": null,
+   "era": 5,
+   "era_name": "Library of Alexandria Era",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Bronze Tablet",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Candelabra of Tawnos",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Feldon's Cane",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Ivory Tower",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Library of Alexandria",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Dingus Egg",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gauntlet of Might",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

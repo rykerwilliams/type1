@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-03-23",
+ "as_of": "1994-05-02",
  "as_of_precision": "day",
- "effective": "1994-03-23",
+ "effective": "1994-05-02",
  "announced": null,
- "era": 4,
- "era_name": "Antiquities Arrives",
+ "era": 5,
+ "era_name": "Library of Alexandria Era",
  "announcement": null,
- "sequence": 3,
- "restricted_count": 20,
+ "sequence": 4,
+ "restricted_count": 22,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -97,6 +97,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
+   "name": "Candelabra of Tawnos",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "c7c7bffa-442d-4ba5-b778-ad394c192f27",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "43",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/5/35a335bf-7358-460f-b7c9-1e8bc4300f64.jpg?1783948364",
+    "scryfall_uri": "https://scryfall.com/card/atq/43/candelabra-of-tawnos?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/35a335bf-7358-460f-b7c9-1e8bc4300f64/rulings"
+  },
+  {
    "name": "Channel",
    "type_line": "Sorcery",
    "mana_cost": "{G}{G}",
@@ -148,38 +165,54 @@
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
   },
   {
-   "name": "Dingus Egg",
+   "name": "Feldon's Cane",
    "type_line": "Artifact",
-   "mana_cost": "{4}",
-   "oracle_id": "1973f1e9-aa14-49dc-bafe-be17b30ba288",
+   "mana_cost": "{1}",
+   "oracle_id": "9b884dfd-59f4-45c0-bf1e-6ad9f5b58895",
    "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "241",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/6/5/65eb6cda-e512-40a8-9c1f-335b713409ff.jpg?1783948668",
-    "scryfall_uri": "https://scryfall.com/card/lea/241/dingus-egg?utm_source=api"
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "50",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/b/b/bb6af436-bcfd-4d47-a1aa-e84b587a725a.jpg?1783948362",
+    "scryfall_uri": "https://scryfall.com/card/atq/50/feldons-cane?utm_source=api"
    },
-   "total_paper_printings": 14,
-   "rulings_uri": "https://api.scryfall.com/cards/65eb6cda-e512-40a8-9c1f-335b713409ff/rulings"
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/bb6af436-bcfd-4d47-a1aa-e84b587a725a/rulings"
   },
   {
-   "name": "Gauntlet of Might",
+   "name": "Ivory Tower",
    "type_line": "Artifact",
-   "mana_cost": "{4}",
-   "oracle_id": "d38ad188-515e-4865-a0ed-5d0fd4c7b453",
+   "mana_cost": "{1}",
+   "oracle_id": "d416a4ed-9f16-4a8b-8aee-03c630e1eb6c",
    "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "244",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/d/a/da248001-ed75-4b68-9532-37d3cd5afc4c.jpg?1783948667",
-    "scryfall_uri": "https://scryfall.com/card/lea/244/gauntlet-of-might?utm_source=api"
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "53",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/a/5/a5f23039-45ca-4c15-af50-bfd40ea26453.jpg?1783948362",
+    "scryfall_uri": "https://scryfall.com/card/atq/53/ivory-tower?utm_source=api"
    },
-   "total_paper_printings": 3,
-   "rulings_uri": "https://api.scryfall.com/cards/da248001-ed75-4b68-9532-37d3cd5afc4c/rulings"
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/a5f23039-45ca-4c15-af50-bfd40ea26453/rulings"
+  },
+  {
+   "name": "Library of Alexandria",
+   "type_line": "Land",
+   "oracle_id": "2111588d-9af5-4a33-989e-b074d83f0463",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "76",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1783948374",
+    "scryfall_uri": "https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
   },
   {
    "name": "Mox Emerald",
@@ -369,6 +402,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/764ec6a8-a878-446c-b7e4-6026c2a3e9a4/rulings"
+  },
+  {
+   "name": "Bronze Tablet",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "a1ab033f-9605-4ca2-a98b-c0b2e1599609",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "42",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/f/6fb10552-dd47-4f8a-ac7c-8c2b61e56736.jpg?1783948364",
+    "scryfall_uri": "https://scryfall.com/card/atq/42/bronze-tablet?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/6fb10552-dd47-4f8a-ac7c-8c2b61e56736/rulings"
   },
   {
    "name": "Contract from Below",
