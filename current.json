@@ -1,20 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1998-01-01",
+ "as_of": "1999-01-01",
  "as_of_precision": "day",
- "effective": "1998-01-01",
- "announced": "1998-01-01",
- "era": 24,
- "era_name": "Blue Zoo Moment",
- "announcement": {
-  "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
-  "label": "Banned & Restricted List Update January 1, 1998",
-  "archived": "http://web.archive.org/web/20250814090652/https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
-  "archived_at": "20250814090652"
- },
- "sequence": 16,
- "restricted_count": 26,
+ "effective": "1999-01-01",
+ "announced": null,
+ "era": 28,
+ "era_name": "Type 1 is Broken: Combo Rising",
+ "announcement": null,
+ "sequence": 17,
+ "restricted_count": 29,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -388,6 +383,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
   },
   {
+   "name": "Stroke of Genius",
+   "type_line": "Instant",
+   "mana_cost": "{X}{2}{U}",
+   "oracle_id": "0cc6d683-366f-4ae4-be60-20ad9621fdaf",
+   "original_printing": {
+    "set": "JGP",
+    "set_name": "Judge Gift Cards 1998",
+    "released_at": "1998-01-01",
+    "collector_number": "2",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/5/a5423cb8-38a2-4769-8999-de6ab5ebc294.jpg?1783946579",
+    "scryfall_uri": "https://scryfall.com/card/jgp/2/stroke-of-genius?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/a5423cb8-38a2-4769-8999-de6ab5ebc294/rulings"
+  },
+  {
    "name": "Time Walk",
    "type_line": "Sorcery",
    "mana_cost": "{1}{U}",
@@ -422,6 +434,22 @@
    "rulings_uri": "https://api.scryfall.com/cards/9a49dc44-616e-4bdd-8220-0bb71eccc512/rulings"
   },
   {
+   "name": "Tolarian Academy",
+   "type_line": "Legendary Land",
+   "oracle_id": "dba4fd31-8931-42dd-bd86-45479c2abf74",
+   "original_printing": {
+    "set": "USG",
+    "set_name": "Urza's Saga",
+    "released_at": "1998-10-12",
+    "collector_number": "330",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/d/ad7ac9a5-340f-4509-826c-7b9416d47887.jpg?1783946296",
+    "scryfall_uri": "https://scryfall.com/card/usg/330/tolarian-academy?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887/rulings"
+  },
+  {
    "name": "Underworld Dreams",
    "type_line": "Enchantment",
    "mana_cost": "{B}{B}{B}",
@@ -454,6 +482,23 @@
    },
    "total_paper_printings": 9,
    "rulings_uri": "https://api.scryfall.com/cards/67b369c4-faa8-45c8-a1b9-98f228b69682/rulings"
+  },
+  {
+   "name": "Windfall",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{U}",
+   "oracle_id": "08becc07-28bc-4a2f-a6b0-28a2998d2f50",
+   "original_printing": {
+    "set": "USG",
+    "set_name": "Urza's Saga",
+    "released_at": "1998-10-12",
+    "collector_number": "111",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/2/a/2aef4608-5ba8-4636-b5e7-cac57c5c0608.jpg?1783946351",
+    "scryfall_uri": "https://scryfall.com/card/usg/111/windfall?utm_source=api"
+   },
+   "total_paper_printings": 20,
+   "rulings_uri": "https://api.scryfall.com/cards/2aef4608-5ba8-4636-b5e7-cac57c5c0608/rulings"
   }
  ],
  "banned_cards": [

@@ -675,6 +675,36 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 17,
+   "date": "1999-01-01",
+   "date_precision": "day",
+   "effective": "1999-01-01",
+   "announced": null,
+   "era": 28,
+   "era_name": "Type 1 is Broken: Combo Rising",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Stroke of Genius",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Tolarian Academy",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Windfall",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
