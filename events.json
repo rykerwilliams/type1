@@ -943,6 +943,30 @@
     "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 21,
+   "date": "2002-01-01",
+   "date_precision": "day",
+   "effective": "2002-01-01",
+   "announced": "2001-12-01",
+   "era": 43,
+   "era_name": "The Final Chapter on Fact or Fiction",
+   "announcement": {
+    "url": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201",
+    "label": "Banned & Restricted List Update December 1, 2001",
+    "archived": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201"
+   },
+   "actions": [
+    {
+     "card": "Fact or Fiction",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

@@ -1,20 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2000-09-30",
+ "as_of": "2002-01-01",
  "as_of_precision": "day",
- "effective": "2000-09-30",
- "announced": "2000-09-01",
- "era": 37,
- "era_name": "Trix Dominant",
+ "effective": "2002-01-01",
+ "announced": "2001-12-01",
+ "era": 43,
+ "era_name": "The Final Chapter on Fact or Fiction",
  "announcement": {
-  "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
-  "label": "Banned & Restricted List Update September 1, 2000",
-  "archived": "http://web.archive.org/web/20250823045431/http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
-  "archived_at": "20250823045431"
+  "url": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201",
+  "label": "Banned & Restricted List Update December 1, 2001",
+  "archived": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201"
  },
- "sequence": 20,
- "restricted_count": 49,
+ "sequence": 21,
+ "restricted_count": 50,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -236,6 +235,23 @@
    },
    "total_paper_printings": 10,
    "rulings_uri": "https://api.scryfall.com/cards/cbac1d27-15e2-4e2f-82ab-625a16e096cb/rulings"
+  },
+  {
+   "name": "Fact or Fiction",
+   "type_line": "Instant",
+   "mana_cost": "{3}{U}",
+   "oracle_id": "437b2dab-15e0-4b9a-a204-58622d37a3b3",
+   "original_printing": {
+    "set": "INV",
+    "set_name": "Invasion",
+    "released_at": "2000-10-02",
+    "collector_number": "57",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/7/f/7fd4d018-dcf3-4439-8445-02d66e44f7d3.jpg?1783945707",
+    "scryfall_uri": "https://scryfall.com/card/inv/57/fact-or-fiction?utm_source=api"
+   },
+   "total_paper_printings": 31,
+   "rulings_uri": "https://api.scryfall.com/cards/7fd4d018-dcf3-4439-8445-02d66e44f7d3/rulings"
   },
   {
    "name": "Fastbond",
