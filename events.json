@@ -224,6 +224,56 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 3,
+   "date": "1994-03-23",
+   "date_precision": "day",
+   "effective": "1994-03-23",
+   "announced": null,
+   "era": 4,
+   "era_name": "Antiquities Arrives",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Time Vault",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Channel",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Copy Artifact",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Demonic Tutor",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Regrowth",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Wheel of Fortune",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Icy Manipulator",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

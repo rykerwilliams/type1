@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-03-04",
+ "as_of": "1994-03-23",
  "as_of_precision": "day",
- "effective": "1994-03-04",
+ "effective": "1994-03-23",
  "announced": null,
- "era": 3,
- "era_name": "Constructed Magic Begins",
+ "era": 4,
+ "era_name": "Antiquities Arrives",
  "announcement": null,
- "sequence": 2,
- "restricted_count": 17,
+ "sequence": 3,
+ "restricted_count": 20,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -97,6 +97,57 @@
    "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
   },
   {
+   "name": "Channel",
+   "type_line": "Sorcery",
+   "mana_cost": "{G}{G}",
+   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "188",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
+    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
+  },
+  {
+   "name": "Copy Artifact",
+   "type_line": "Enchantment",
+   "mana_cost": "{1}{U}",
+   "oracle_id": "80bc56a9-40e0-48da-ae86-190e39c8a4a3",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "53",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1783948707",
+    "scryfall_uri": "https://scryfall.com/card/lea/53/copy-artifact?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063/rulings"
+  },
+  {
+   "name": "Demonic Tutor",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{B}",
+   "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "104",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696",
+    "scryfall_uri": "https://scryfall.com/card/lea/104/demonic-tutor?utm_source=api"
+   },
+   "total_paper_printings": 23,
+   "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
+  },
+  {
    "name": "Dingus Egg",
    "type_line": "Artifact",
    "mana_cost": "{4}",
@@ -129,23 +180,6 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/da248001-ed75-4b68-9532-37d3cd5afc4c/rulings"
-  },
-  {
-   "name": "Icy Manipulator",
-   "type_line": "Artifact",
-   "mana_cost": "{4}",
-   "oracle_id": "3608f1f7-8dc5-4dd1-ae91-c830e1de9529",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "248",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/2/9/29dc1596-a2e7-4d60-9f99-89babaef8a06.jpg?1783948666",
-    "scryfall_uri": "https://scryfall.com/card/lea/248/icy-manipulator?utm_source=api"
-   },
-   "total_paper_printings": 16,
-   "rulings_uri": "https://api.scryfall.com/cards/29dc1596-a2e7-4d60-9f99-89babaef8a06/rulings"
   },
   {
    "name": "Mox Emerald",
@@ -233,6 +267,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/82da0972-b17b-4600-9efd-e9430a0db04b/rulings"
   },
   {
+   "name": "Regrowth",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{G}",
+   "oracle_id": "e6e4a8bd-5c40-4654-8de1-0da9afed90fd",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "214",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/b/a/badc73ec-3728-4246-90c7-5f4eb7051ed5.jpg?1783948673",
+    "scryfall_uri": "https://scryfall.com/card/lea/214/regrowth?utm_source=api"
+   },
+   "total_paper_printings": 20,
+   "rulings_uri": "https://api.scryfall.com/cards/badc73ec-3728-4246-90c7-5f4eb7051ed5/rulings"
+  },
+  {
    "name": "Sol Ring",
    "type_line": "Artifact",
    "mana_cost": "{1}",
@@ -248,23 +299,6 @@
    },
    "total_paper_printings": 134,
    "rulings_uri": "https://api.scryfall.com/cards/c4300d24-1cae-4dd5-be7e-38cc677cf5bd/rulings"
-  },
-  {
-   "name": "Time Vault",
-   "type_line": "Artifact",
-   "mana_cost": "{2}",
-   "oracle_id": "99d4d99d-cf56-45aa-aa39-a250695612f2",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "274",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/9/0/902441dc-c976-4c92-b897-6376eaa0fe38.jpg?1783948660",
-    "scryfall_uri": "https://scryfall.com/card/lea/274/time-vault?utm_source=api"
-   },
-   "total_paper_printings": 3,
-   "rulings_uri": "https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38/rulings"
   },
   {
    "name": "Time Walk",
@@ -299,6 +333,23 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/9a49dc44-616e-4bdd-8220-0bb71eccc512/rulings"
+  },
+  {
+   "name": "Wheel of Fortune",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{R}",
+   "oracle_id": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "183",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679",
+    "scryfall_uri": "https://scryfall.com/card/lea/183/wheel-of-fortune?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/67b369c4-faa8-45c8-a1b9-98f228b69682/rulings"
   }
  ],
  "banned_cards": [
@@ -420,6 +471,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/0014def3-4063-4929-ac51-76aef1bb2a68/rulings"
+  },
+  {
+   "name": "Time Vault",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "99d4d99d-cf56-45aa-aa39-a250695612f2",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "274",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/0/902441dc-c976-4c92-b897-6376eaa0fe38.jpg?1783948660",
+    "scryfall_uri": "https://scryfall.com/card/lea/274/time-vault?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38/rulings"
   },
   {
    "name": "Timmerian Fiends",
