@@ -409,6 +409,26 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 7,
+   "date": "1994-10-11",
+   "date_precision": "day",
+   "effective": "1994-10-11",
+   "announced": null,
+   "era": 10,
+   "era_name": "\"93/94\" Magic",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Maze of Ith",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

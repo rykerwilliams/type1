@@ -1,0 +1,835 @@
+{
+ "format": "Vintage",
+ "also_known_as": "Type 1",
+ "as_of": "1994-10-11",
+ "as_of_precision": "day",
+ "effective": "1994-10-11",
+ "announced": null,
+ "era": 10,
+ "era_name": "\"93/94\" Magic",
+ "announcement": null,
+ "sequence": 7,
+ "restricted_count": 31,
+ "restricted": [
+  {
+   "name": "Ali from Cairo",
+   "type_line": "Creature \u2014 Human",
+   "mana_cost": "{2}{R}{R}",
+   "oracle_id": "6517edb3-30e2-40ba-b6e4-4554b4bbb342",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "36",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/4/2/42027613-d261-4ce2-8ba1-7a2480c660f8.jpg?1783948384",
+    "scryfall_uri": "https://scryfall.com/card/arn/36/ali-from-cairo?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/42027613-d261-4ce2-8ba1-7a2480c660f8/rulings"
+  },
+  {
+   "name": "Ancestral Recall",
+   "type_line": "Instant",
+   "mana_cost": "{U}",
+   "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "47",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/7/0/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b.jpg?1783948708",
+    "scryfall_uri": "https://scryfall.com/card/lea/47/ancestral-recall?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b/rulings"
+  },
+  {
+   "name": "Berserk",
+   "type_line": "Instant",
+   "mana_cost": "{G}",
+   "oracle_id": "8b67d192-9a05-4a47-82ae-5fc4b7834d88",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "185",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/e/1/e173c8ce-2352-405e-ad00-e3bb94ced1ad.jpg?1783948679",
+    "scryfall_uri": "https://scryfall.com/card/lea/185/berserk?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/e173c8ce-2352-405e-ad00-e3bb94ced1ad/rulings"
+  },
+  {
+   "name": "Black Lotus",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "232",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+    "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe/rulings"
+  },
+  {
+   "name": "Braingeyser",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{U}{U}",
+   "oracle_id": "9908e597-9470-4c13-8387-39431b380138",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "50",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/2/62b19a12-6914-430e-81ce-dcfca47884df.jpg?1783948707",
+    "scryfall_uri": "https://scryfall.com/card/lea/50/braingeyser?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/62b19a12-6914-430e-81ce-dcfca47884df/rulings"
+  },
+  {
+   "name": "Candelabra of Tawnos",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "c7c7bffa-442d-4ba5-b778-ad394c192f27",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "43",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/5/35a335bf-7358-460f-b7c9-1e8bc4300f64.jpg?1783948364",
+    "scryfall_uri": "https://scryfall.com/card/atq/43/candelabra-of-tawnos?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/35a335bf-7358-460f-b7c9-1e8bc4300f64/rulings"
+  },
+  {
+   "name": "Channel",
+   "type_line": "Sorcery",
+   "mana_cost": "{G}{G}",
+   "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "188",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/c/1/c1862c47-71cc-45a3-8805-a5ddc62e55ea.jpg?1783948678",
+    "scryfall_uri": "https://scryfall.com/card/lea/188/channel?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
+  },
+  {
+   "name": "Chaos Orb",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "edb455f4-8dc9-4b7c-b25c-cb51b7dfbb41",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "235",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1783948669",
+    "scryfall_uri": "https://scryfall.com/card/lea/235/chaos-orb?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/92274971-7c4a-4326-b0fe-75e2d124f718/rulings"
+  },
+  {
+   "name": "Copy Artifact",
+   "type_line": "Enchantment",
+   "mana_cost": "{1}{U}",
+   "oracle_id": "80bc56a9-40e0-48da-ae86-190e39c8a4a3",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "53",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1783948707",
+    "scryfall_uri": "https://scryfall.com/card/lea/53/copy-artifact?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063/rulings"
+  },
+  {
+   "name": "Demonic Tutor",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{B}",
+   "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "104",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696",
+    "scryfall_uri": "https://scryfall.com/card/lea/104/demonic-tutor?utm_source=api"
+   },
+   "total_paper_printings": 23,
+   "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
+  },
+  {
+   "name": "Falling Star",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{R}",
+   "oracle_id": "f5ca7b13-8003-4361-b827-7095c89f2750",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "145",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/2/f2b9983e-20d4-4d12-9e2c-ec6d9a345787.jpg?1783948056",
+    "scryfall_uri": "https://scryfall.com/card/leg/145/falling-star?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/f2b9983e-20d4-4d12-9e2c-ec6d9a345787/rulings"
+  },
+  {
+   "name": "Feldon's Cane",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "9b884dfd-59f4-45c0-bf1e-6ad9f5b58895",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "50",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/b/b/bb6af436-bcfd-4d47-a1aa-e84b587a725a.jpg?1783948362",
+    "scryfall_uri": "https://scryfall.com/card/atq/50/feldons-cane?utm_source=api"
+   },
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/bb6af436-bcfd-4d47-a1aa-e84b587a725a/rulings"
+  },
+  {
+   "name": "Ivory Tower",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "d416a4ed-9f16-4a8b-8aee-03c630e1eb6c",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "53",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/a/5/a5f23039-45ca-4c15-af50-bfd40ea26453.jpg?1783948362",
+    "scryfall_uri": "https://scryfall.com/card/atq/53/ivory-tower?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/a5f23039-45ca-4c15-af50-bfd40ea26453/rulings"
+  },
+  {
+   "name": "Library of Alexandria",
+   "type_line": "Land",
+   "oracle_id": "2111588d-9af5-4a33-989e-b074d83f0463",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "76",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1783948374",
+    "scryfall_uri": "https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
+  },
+  {
+   "name": "Maze of Ith",
+   "type_line": "Land",
+   "oracle_id": "38a12bd7-4394-44a8-91a0-6a4ff7fa4f71",
+   "original_printing": {
+    "set": "DRK",
+    "set_name": "The Dark",
+    "released_at": "1994-08-01",
+    "collector_number": "117",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/4/2/42dcceee-2a47-4eaa-a6a3-2931b3d50244.jpg?1783947922",
+    "scryfall_uri": "https://scryfall.com/card/drk/117/maze-of-ith?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/42dcceee-2a47-4eaa-a6a3-2931b3d50244/rulings"
+  },
+  {
+   "name": "Mind Twist",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{B}",
+   "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "115",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693",
+    "scryfall_uri": "https://scryfall.com/card/lea/115/mind-twist?utm_source=api"
+   },
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739/rulings"
+  },
+  {
+   "name": "Mirror Universe",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "8d231d2f-5274-4b55-8262-9eb95654d183",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "287",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/8/a8f05d5e-bb7d-4554-b880-f0c6b4688357.jpg?1783948026",
+    "scryfall_uri": "https://scryfall.com/card/leg/287/mirror-universe?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/a8f05d5e-bb7d-4554-b880-f0c6b4688357/rulings"
+  },
+  {
+   "name": "Mishra's Workshop",
+   "type_line": "Land",
+   "oracle_id": "ba284fe6-bb29-455c-8321-9714a0cdc05e",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "81",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/3/135de5c7-6ac9-4b68-8f1a-97f120a4b125.jpg?1783948355",
+    "scryfall_uri": "https://scryfall.com/card/atq/81/mishras-workshop?utm_source=api"
+   },
+   "total_paper_printings": 2,
+   "rulings_uri": "https://api.scryfall.com/cards/135de5c7-6ac9-4b68-8f1a-97f120a4b125/rulings"
+  },
+  {
+   "name": "Mox Emerald",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "376ee366-e082-402f-b4db-6592fcfcacd2",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "261",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/b/0/b0e1427c-05cd-465b-be59-97ed6e39f7ba.jpg?1783948663",
+    "scryfall_uri": "https://scryfall.com/card/lea/261/mox-emerald?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/b0e1427c-05cd-465b-be59-97ed6e39f7ba/rulings"
+  },
+  {
+   "name": "Mox Jet",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "0677f49e-f8bf-4349-af52-2ccde9287c2e",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "262",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/2/92bcd1ce-19b1-4d78-8b09-95242ca08d76.jpg?1783948663",
+    "scryfall_uri": "https://scryfall.com/card/lea/262/mox-jet?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/92bcd1ce-19b1-4d78-8b09-95242ca08d76/rulings"
+  },
+  {
+   "name": "Mox Pearl",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "824597b8-c89a-47ec-8526-7efc6e24ef0e",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "263",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/8/e/8ebe4be7-e12a-4596-a899-fbd5b152e879.jpg?1783948663",
+    "scryfall_uri": "https://scryfall.com/card/lea/263/mox-pearl?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/8ebe4be7-e12a-4596-a899-fbd5b152e879/rulings"
+  },
+  {
+   "name": "Mox Ruby",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "ed85fa82-e4fa-434b-92a8-36b6075708d1",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "264",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/8/9/8945585f-4773-493d-a0fe-d707db910b38.jpg?1783948662",
+    "scryfall_uri": "https://scryfall.com/card/lea/264/mox-ruby?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/8945585f-4773-493d-a0fe-d707db910b38/rulings"
+  },
+  {
+   "name": "Mox Sapphire",
+   "type_line": "Artifact",
+   "mana_cost": "{0}",
+   "oracle_id": "d5ed1233-df87-4b90-8918-13922ec95249",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "265",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/8/2/82da0972-b17b-4600-9efd-e9430a0db04b.jpg?1783948662",
+    "scryfall_uri": "https://scryfall.com/card/lea/265/mox-sapphire?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/82da0972-b17b-4600-9efd-e9430a0db04b/rulings"
+  },
+  {
+   "name": "Recall",
+   "type_line": "Sorcery",
+   "mana_cost": "{X}{X}{U}",
+   "oracle_id": "4158f397-4ee4-4f53-90f2-3b64bfe4f9b8",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "70",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/3/33296718-0625-4422-a65c-b21cf99c52ec.jpg?1783948072",
+    "scryfall_uri": "https://scryfall.com/card/leg/70/recall?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/33296718-0625-4422-a65c-b21cf99c52ec/rulings"
+  },
+  {
+   "name": "Regrowth",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{G}",
+   "oracle_id": "e6e4a8bd-5c40-4654-8de1-0da9afed90fd",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "214",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/b/a/badc73ec-3728-4246-90c7-5f4eb7051ed5.jpg?1783948673",
+    "scryfall_uri": "https://scryfall.com/card/lea/214/regrowth?utm_source=api"
+   },
+   "total_paper_printings": 20,
+   "rulings_uri": "https://api.scryfall.com/cards/badc73ec-3728-4246-90c7-5f4eb7051ed5/rulings"
+  },
+  {
+   "name": "Sol Ring",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "269",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661",
+    "scryfall_uri": "https://scryfall.com/card/lea/269/sol-ring?utm_source=api"
+   },
+   "total_paper_printings": 134,
+   "rulings_uri": "https://api.scryfall.com/cards/c4300d24-1cae-4dd5-be7e-38cc677cf5bd/rulings"
+  },
+  {
+   "name": "Sword of the Ages",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "201f2434-96b3-408c-a5ce-74d0675920ed",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "296",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/b/3/b37fd4cc-ab5c-4c65-80ff-8f905b31e801.jpg?1783948025",
+    "scryfall_uri": "https://scryfall.com/card/leg/296/sword-of-the-ages?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/b37fd4cc-ab5c-4c65-80ff-8f905b31e801/rulings"
+  },
+  {
+   "name": "Time Walk",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{U}",
+   "oracle_id": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "83",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701",
+    "scryfall_uri": "https://scryfall.com/card/lea/83/time-walk?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/e0139f60-d48e-46fb-9f5a-1e3d7558c834/rulings"
+  },
+  {
+   "name": "Timetwister",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{U}",
+   "oracle_id": "c823e687-6311-4c99-974b-fd77d204141a",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "84",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/a/9a49dc44-616e-4bdd-8220-0bb71eccc512.jpg?1783948700",
+    "scryfall_uri": "https://scryfall.com/card/lea/84/timetwister?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/9a49dc44-616e-4bdd-8220-0bb71eccc512/rulings"
+  },
+  {
+   "name": "Underworld Dreams",
+   "type_line": "Enchantment",
+   "mana_cost": "{B}{B}{B}",
+   "oracle_id": "967cf377-ae26-464d-85ac-8448b5a911f7",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "124",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/a/0/a0e8f8d8-eac0-451c-a167-be84667a8e3d.jpg?1783948061",
+    "scryfall_uri": "https://scryfall.com/card/leg/124/underworld-dreams?utm_source=api"
+   },
+   "total_paper_printings": 12,
+   "rulings_uri": "https://api.scryfall.com/cards/a0e8f8d8-eac0-451c-a167-be84667a8e3d/rulings"
+  },
+  {
+   "name": "Wheel of Fortune",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{R}",
+   "oracle_id": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "183",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679",
+    "scryfall_uri": "https://scryfall.com/card/lea/183/wheel-of-fortune?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/67b369c4-faa8-45c8-a1b9-98f228b69682/rulings"
+  }
+ ],
+ "banned_cards": [
+  {
+   "name": "Amulet of Quoz",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "a06f8476-0a23-413a-bc28-8dc2427fdc2a",
+   "original_printing": {
+    "set": "ICE",
+    "set_name": "Ice Age",
+    "released_at": "1995-06-03",
+    "collector_number": "308",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/7/6/764ec6a8-a878-446c-b7e4-6026c2a3e9a4.jpg?1783947462",
+    "scryfall_uri": "https://scryfall.com/card/ice/308/amulet-of-quoz?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/764ec6a8-a878-446c-b7e4-6026c2a3e9a4/rulings"
+  },
+  {
+   "name": "Bronze Tablet",
+   "type_line": "Artifact",
+   "mana_cost": "{6}",
+   "oracle_id": "a1ab033f-9605-4ca2-a98b-c0b2e1599609",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "42",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/f/6fb10552-dd47-4f8a-ac7c-8c2b61e56736.jpg?1783948364",
+    "scryfall_uri": "https://scryfall.com/card/atq/42/bronze-tablet?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/6fb10552-dd47-4f8a-ac7c-8c2b61e56736/rulings"
+  },
+  {
+   "name": "Contract from Below",
+   "type_line": "Sorcery",
+   "mana_cost": "{B}",
+   "oracle_id": "9e0ed4b0-28b5-44be-ab83-f1e8eb07138d",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "96",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/8/9853b0ce-4763-4877-9741-f9145a3659c6.jpg?1783948698",
+    "scryfall_uri": "https://scryfall.com/card/lea/96/contract-from-below?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/9853b0ce-4763-4877-9741-f9145a3659c6/rulings"
+  },
+  {
+   "name": "Darkpact",
+   "type_line": "Sorcery",
+   "mana_cost": "{B}{B}{B}",
+   "oracle_id": "74f10b9a-a286-49b2-bfa1-a427ff041bd4",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "99",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/7/e78db688-93a2-47f5-9aa5-9158a72cd973.jpg?1783948697",
+    "scryfall_uri": "https://scryfall.com/card/lea/99/darkpact?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/e78db688-93a2-47f5-9aa5-9158a72cd973/rulings"
+  },
+  {
+   "name": "Demonic Attorney",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{B}{B}",
+   "oracle_id": "65a9f643-063f-406a-8d5a-5ebbe0f04c3d",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "102",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/d/fd891fc6-d9d6-494e-ae65-8bea8f44b575.jpg?1783948696",
+    "scryfall_uri": "https://scryfall.com/card/lea/102/demonic-attorney?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/fd891fc6-d9d6-494e-ae65-8bea8f44b575/rulings"
+  },
+  {
+   "name": "Divine Intervention",
+   "type_line": "Enchantment",
+   "mana_cost": "{6}{W}{W}",
+   "oracle_id": "0158a440-6573-4f12-958b-a5f0cf190d5b",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "8",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/e/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5.jpg?1783948087",
+    "scryfall_uri": "https://scryfall.com/card/leg/8/divine-intervention?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5/rulings"
+  },
+  {
+   "name": "Jeweled Bird",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "89f5b21c-18da-4071-bc42-9cdc433734bf",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "66",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/b/f/bfffb65d-851d-4dc9-9233-d53abf955dcd.jpg?1783948377",
+    "scryfall_uri": "https://scryfall.com/card/arn/66/jeweled-bird?utm_source=api"
+   },
+   "total_paper_printings": 4,
+   "rulings_uri": "https://api.scryfall.com/cards/bfffb65d-851d-4dc9-9233-d53abf955dcd/rulings"
+  },
+  {
+   "name": "Rebirth",
+   "type_line": "Sorcery",
+   "mana_cost": "{3}{G}{G}{G}",
+   "oracle_id": "d17576b2-4a47-4848-8908-3152c8b4afe2",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "200",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/a/0/a0d3ce01-e344-4608-b709-320be3600019.jpg?1783948045",
+    "scryfall_uri": "https://scryfall.com/card/leg/200/rebirth?utm_source=api"
+   },
+   "total_paper_printings": 4,
+   "rulings_uri": "https://api.scryfall.com/cards/a0d3ce01-e344-4608-b709-320be3600019/rulings"
+  },
+  {
+   "name": "Shahrazad",
+   "type_line": "Sorcery",
+   "mana_cost": "{W}{W}",
+   "oracle_id": "fc04f621-338b-4d4c-bf57-5e5a00d990f0",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "10",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/0/0/0014def3-4063-4929-ac51-76aef1bb2a68.jpg?1783948393",
+    "scryfall_uri": "https://scryfall.com/card/arn/10/shahrazad?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/0014def3-4063-4929-ac51-76aef1bb2a68/rulings"
+  },
+  {
+   "name": "Tempest Efreet",
+   "type_line": "Creature \u2014 Efreet",
+   "mana_cost": "{1}{R}{R}{R}",
+   "oracle_id": "272016e1-df1e-4376-9851-af8b1ecba2f4",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "166",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/b/eb562143-fdf0-4eed-83ac-551627c576d2.jpg?1783948052",
+    "scryfall_uri": "https://scryfall.com/card/leg/166/tempest-efreet?utm_source=api"
+   },
+   "total_paper_printings": 4,
+   "rulings_uri": "https://api.scryfall.com/cards/eb562143-fdf0-4eed-83ac-551627c576d2/rulings"
+  },
+  {
+   "name": "Time Vault",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "99d4d99d-cf56-45aa-aa39-a250695612f2",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "274",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/0/902441dc-c976-4c92-b897-6376eaa0fe38.jpg?1783948660",
+    "scryfall_uri": "https://scryfall.com/card/lea/274/time-vault?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38/rulings"
+  },
+  {
+   "name": "Timmerian Fiends",
+   "type_line": "Creature \u2014 Horror",
+   "mana_cost": "{1}{B}{B}",
+   "oracle_id": "2d2fab27-8793-4212-a512-c4f0c8c55eeb",
+   "original_printing": {
+    "set": "HML",
+    "set_name": "Homelands",
+    "released_at": "1995-10-01",
+    "collector_number": "58",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/0/90643766-c92f-4a25-bd02-227f3c91f391.jpg?1783947288",
+    "scryfall_uri": "https://scryfall.com/card/hml/58/timmerian-fiends?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/90643766-c92f-4a25-bd02-227f3c91f391/rulings"
+  }
+ ],
+ "banned_categories": [
+  {
+   "name": "Ante",
+   "count": 9,
+   "since": "1994-01",
+   "rule": "Cards that reference playing for ante are banned.",
+   "cards": [
+    "Amulet of Quoz",
+    "Bronze Tablet",
+    "Contract from Below",
+    "Darkpact",
+    "Demonic Attorney",
+    "Jeweled Bird",
+    "Rebirth",
+    "Tempest Efreet",
+    "Timmerian Fiends"
+   ]
+  },
+  {
+   "name": "Conspiracy",
+   "count": 25,
+   "since": "2014-06-06",
+   "rule": "Cards with the card type Conspiracy are banned."
+  },
+  {
+   "name": "Offensive content",
+   "count": 7,
+   "since": "2020-06-10",
+   "rule": "Cards whose art, text or name is racially or culturally offensive are banned.",
+   "cards": [
+    "Cleanse",
+    "Crusade",
+    "Imprison",
+    "Invoke Prejudice",
+    "Jihad",
+    "Pradesh Gypsies",
+    "Stone-Throwing Devils"
+   ]
+  },
+  {
+   "name": "Stickers and Attractions",
+   "since": "2024-05-13",
+   "rule": "Cards that bring stickers or Attractions into play are banned."
+  }
+ ],
+ "pool_exclusions": [
+  {
+   "name": "Collectors' and International Edition",
+   "since": "1993-12-10",
+   "icon": "https://svgs.scryfall.io/sets/ced.svg?1791777600",
+   "note": "Square-bordered gift-set reprints; never tournament legal. Every card in them is a reprint of a card that was legal from Limited Edition, so excluding them changes no card's legality.",
+   "scryfall": "-st:memorabilia"
+  },
+  {
+   "name": "Silver-bordered and acorn",
+   "since": "1998-08-11",
+   "icon": "https://svgs.scryfall.io/sets/ugl.svg?1791777600",
+   "note": "Unglued onward. Never tournament legal in any format.",
+   "scryfall": "-is:funny"
+  },
+  {
+   "name": "Digital-only",
+   "since": "1997-04-01",
+   "icon": "https://svgs.scryfall.io/sets/past.svg?1791777600",
+   "note": "Astral Cards onward, through Magic Online and Arena/Alchemy. No paper printing, so never legal in paper Vintage.",
+   "scryfall": "-is:digital"
+  }
+ ],
+ "data_sources": {
+  "eternalcentral": {
+   "title": "Timeline of Vintage (Steve Menendian)",
+   "url": "https://www.eternalcentral.com/timeline-of-vintage/",
+   "note": "The era chart. Carries the dates, the era names and a link to each announcement."
+  },
+  "mtgwiki": {
+   "title": "MTG Wiki B&R timeline",
+   "url": "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
+   "note": "Used only where the chart does not enumerate a change, such as the first list and the 18 cards of September 1999."
+  },
+  "wotc": {
+   "title": "Wizards of the Coast announcement",
+   "url": "https://magic.wizards.com/en/news/announcements",
+   "note": "Primary source. Linked per announcement where the chart cites one, and for 2025 onward."
+  },
+  "scryfall": {
+   "title": "Scryfall",
+   "url": "https://scryfall.com",
+   "note": "Card identity, original printing, and the live list the replay is checked against."
+  }
+ }
+}
