@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1994-05-02",
+ "as_of": "1994-06-13",
  "as_of_precision": "day",
- "effective": "1994-05-02",
+ "effective": "1994-06-13",
  "announced": null,
- "era": 5,
- "era_name": "Library of Alexandria Era",
+ "era": 6,
+ "era_name": "Mind Twist Metagame",
  "announcement": null,
- "sequence": 4,
- "restricted_count": 22,
+ "sequence": 5,
+ "restricted_count": 23,
  "restricted": [
   {
    "name": "Ali from Cairo",
@@ -213,6 +213,22 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ee266113-34ce-4189-84e7-ee2c86a2722c/rulings"
+  },
+  {
+   "name": "Mishra's Workshop",
+   "type_line": "Land",
+   "oracle_id": "ba284fe6-bb29-455c-8321-9714a0cdc05e",
+   "original_printing": {
+    "set": "ATQ",
+    "set_name": "Antiquities",
+    "released_at": "1994-03-04",
+    "collector_number": "81",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/3/135de5c7-6ac9-4b68-8f1a-97f120a4b125.jpg?1783948355",
+    "scryfall_uri": "https://scryfall.com/card/atq/81/mishras-workshop?utm_source=api"
+   },
+   "total_paper_printings": 2,
+   "rulings_uri": "https://api.scryfall.com/cards/135de5c7-6ac9-4b68-8f1a-97f120a4b125/rulings"
   },
   {
    "name": "Mox Emerald",

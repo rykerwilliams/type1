@@ -324,6 +324,26 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 5,
+   "date": "1994-06-13",
+   "date_precision": "day",
+   "effective": "1994-06-13",
+   "announced": null,
+   "era": 6,
+   "era_name": "Mind Twist Metagame",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Mishra's Workshop",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
