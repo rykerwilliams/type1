@@ -590,6 +590,26 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 14,
+   "date": "1997-06-30",
+   "date_precision": "day",
+   "effective": "1997-06-30",
+   "announced": null,
+   "era": 21,
+   "era_name": "Prosperty Combo Era",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Black Vise",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

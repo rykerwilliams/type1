@@ -1,15 +1,15 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "1996-09-30",
+ "as_of": "1997-06-30",
  "as_of_precision": "day",
- "effective": "1996-09-30",
+ "effective": "1997-06-30",
  "announced": null,
- "era": 18,
- "era_name": "Force of Will Era Begins",
+ "era": 21,
+ "era_name": "Prosperty Combo Era",
  "announcement": null,
- "sequence": 13,
- "restricted_count": 29,
+ "sequence": 14,
+ "restricted_count": 30,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -78,6 +78,23 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe/rulings"
+  },
+  {
+   "name": "Black Vise",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "de7839fb-7040-48ab-a6d4-d1952972943d",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "233",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/7/6/76ac72f8-5b1e-4d67-a796-ef69cde27424.jpg?1783948669",
+    "scryfall_uri": "https://scryfall.com/card/lea/233/black-vise?utm_source=api"
+   },
+   "total_paper_printings": 11,
+   "rulings_uri": "https://api.scryfall.com/cards/76ac72f8-5b1e-4d67-a796-ef69cde27424/rulings"
   },
   {
    "name": "Braingeyser",
