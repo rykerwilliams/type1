@@ -1,0 +1,204 @@
+{
+ "sources": {
+  "eternalcentral": {
+   "title": "Timeline of Vintage (Steve Menendian)",
+   "url": "https://www.eternalcentral.com/timeline-of-vintage/",
+   "note": "The era chart. Carries the dates, the era names and a link to each announcement."
+  },
+  "mtgwiki": {
+   "title": "MTG Wiki B&R timeline",
+   "url": "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
+   "note": "Used only where the chart does not enumerate a change, such as the first list and the 18 cards of September 1999."
+  },
+  "wotc": {
+   "title": "Wizards of the Coast announcement",
+   "url": "https://magic.wizards.com/en/news/announcements",
+   "note": "Primary source. Linked per announcement where the chart cites one, and for 2025 onward."
+  },
+  "scryfall": {
+   "title": "Scryfall",
+   "url": "https://scryfall.com",
+   "note": "Card identity, original printing, and the live list the replay is checked against."
+  }
+ },
+ "events": [
+  {
+   "seq": 1,
+   "date": "1994-01-26",
+   "date_precision": "day",
+   "effective": "1994-01-26",
+   "announced": null,
+   "era": 3,
+   "era_name": "Constructed Magic Begins",
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Amulet of Quoz",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Contract from Below",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Darkpact",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Demonic Attorney",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Jeweled Bird",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Rebirth",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Shahrazad",
+     "action": "ban",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Timmerian Fiends",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Ali from Cairo",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Ancestral Recall",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Berserk",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Black Lotus",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Braingeyser",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Dingus Egg",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Gauntlet of Might",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Icy Manipulator",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Mox Emerald",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Mox Jet",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Mox Pearl",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Mox Ruby",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Mox Sapphire",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Orcish Oriflamme",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Rukh Egg",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Sol Ring",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Time Vault",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Time Walk",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    },
+    {
+     "card": "Timetwister",
+     "action": "restrict",
+     "resolved_from": "mtgwiki",
+     "note": "not enumerated in the chart (the first list)"
+    }
+   ],
+   "sources": [
+    "https://magic.wizards.com/en/news/announcements",
+    "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline"
+   ]
+  }
+ ]
+}
