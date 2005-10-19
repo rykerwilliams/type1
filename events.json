@@ -1140,6 +1140,39 @@
     "https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline",
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 27,
+   "date": "2005-10-19",
+   "date_precision": "day",
+   "effective": "2005-10-19",
+   "announced": "2005-09-01",
+   "era": 58,
+   "era_name": "Meandeck Gifts",
+   "announcement": {
+    "url": "http://www.wizards.com/default.asp?x=dci/announce/dci20050901a",
+    "label": "Banned & Restricted List Update September 1, 2005"
+   },
+   "actions": [
+    {
+     "card": "Imperial Seal",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Personal Tutor",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind Over Matter",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

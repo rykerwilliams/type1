@@ -1,15 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2005-02-19",
+ "as_of": "2005-10-19",
  "as_of_precision": "day",
- "effective": "2005-02-19",
- "announced": null,
- "era": 55,
- "era_name": "Oath on Top",
- "announcement": null,
- "sequence": 26,
- "restricted_count": 50,
+ "effective": "2005-10-19",
+ "announced": "2005-09-01",
+ "era": 58,
+ "era_name": "Meandeck Gifts",
+ "announcement": {
+  "url": "http://www.wizards.com/default.asp?x=dci/announce/dci20050901a",
+  "label": "Banned & Restricted List Update September 1, 2005"
+ },
+ "sequence": 27,
+ "restricted_count": 51,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -318,6 +321,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/e755bbef-bf34-49c0-ae72-d70e3599de52/rulings"
   },
   {
+   "name": "Imperial Seal",
+   "type_line": "Sorcery",
+   "mana_cost": "{B}",
+   "oracle_id": "16cd0b90-f70c-4efa-b252-8de8784ef9a3",
+   "original_printing": {
+    "set": "PTK",
+    "set_name": "Portal Three Kingdoms",
+    "released_at": "1999-05-01",
+    "collector_number": "78",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/8/2/822e30db-40c5-4099-868b-185ad9b7c7dc.jpg?1783946114",
+    "scryfall_uri": "https://scryfall.com/card/ptk/78/imperial-seal?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/822e30db-40c5-4099-868b-185ad9b7c7dc/rulings"
+  },
+  {
    "name": "Library of Alexandria",
    "type_line": "Land",
    "oracle_id": "2111588d-9af5-4a33-989e-b074d83f0463",
@@ -417,23 +437,6 @@
    },
    "total_paper_printings": 2,
    "rulings_uri": "https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6/rulings"
-  },
-  {
-   "name": "Mind Over Matter",
-   "type_line": "Enchantment",
-   "mana_cost": "{2}{U}{U}{U}{U}",
-   "oracle_id": "656afde2-cdf3-4907-a0fc-7ac93f5d3e03",
-   "original_printing": {
-    "set": "EXO",
-    "set_name": "Exodus",
-    "released_at": "1998-06-15",
-    "collector_number": "40",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-    "scryfall_uri": "https://scryfall.com/card/exo/40/mind-over-matter?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/6e091dd6-149f-46ea-bae0-224e79e3aacb/rulings"
   },
   {
    "name": "Mind Twist",
@@ -604,6 +607,23 @@
    },
    "total_paper_printings": 10,
    "rulings_uri": "https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings"
+  },
+  {
+   "name": "Personal Tutor",
+   "type_line": "Sorcery",
+   "mana_cost": "{U}",
+   "oracle_id": "90f54959-2c9b-4b8a-84c9-d6893eb43553",
+   "original_printing": {
+    "set": "POR",
+    "set_name": "Portal",
+    "released_at": "1997-05-01",
+    "collector_number": "64",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/1/e/1edc3917-fded-4773-8f8d-62bd861c1131.jpg?1783946837",
+    "scryfall_uri": "https://scryfall.com/card/por/64/personal-tutor?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/1edc3917-fded-4773-8f8d-62bd861c1131/rulings"
   },
   {
    "name": "Regrowth",
