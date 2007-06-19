@@ -1,18 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2005-10-19",
+ "as_of": "2007-06-19",
  "as_of_precision": "day",
- "effective": "2005-10-19",
- "announced": "2005-09-01",
- "era": 58,
- "era_name": "Meandeck Gifts",
+ "effective": "2007-06-19",
+ "announced": "2007-06-01",
+ "era": 67,
+ "era_name": "Flash Breaks Out",
  "announcement": {
-  "url": "http://www.wizards.com/default.asp?x=dci/announce/dci20050901a",
-  "label": "Banned & Restricted List Update September 1, 2005"
+  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+  "label": "Banned & Restricted List Update June 1, 2007",
+  "archived": "http://web.archive.org/web/20220626121913/https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+  "archived_at": "20220626121913"
  },
- "sequence": 27,
- "restricted_count": 51,
+ "sequence": 28,
+ "restricted_count": 48,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -64,23 +66,6 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe/rulings"
-  },
-  {
-   "name": "Black Vise",
-   "type_line": "Artifact",
-   "mana_cost": "{1}",
-   "oracle_id": "de7839fb-7040-48ab-a6d4-d1952972943d",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "233",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/7/6/76ac72f8-5b1e-4d67-a796-ef69cde27424.jpg?1783948669",
-    "scryfall_uri": "https://scryfall.com/card/lea/233/black-vise?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/76ac72f8-5b1e-4d67-a796-ef69cde27424/rulings"
   },
   {
    "name": "Burning Wish",
@@ -287,6 +272,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/1904db14-6df7-424f-afa5-e3dfab31300a/rulings"
   },
   {
+   "name": "Gifts Ungiven",
+   "type_line": "Instant",
+   "mana_cost": "{3}{U}",
+   "oracle_id": "58aec411-167d-4709-8560-793eaaed62c5",
+   "original_printing": {
+    "set": "CHK",
+    "set_name": "Champions of Kamigawa",
+    "released_at": "2004-10-01",
+    "collector_number": "62",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/2/32b91eb5-ea53-4a21-a2e5-9c545a42fa30.jpg?1783944328",
+    "scryfall_uri": "https://scryfall.com/card/chk/62/gifts-ungiven?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/32b91eb5-ea53-4a21-a2e5-9c545a42fa30/rulings"
+  },
+  {
    "name": "Grim Monolith",
    "type_line": "Artifact",
    "mana_cost": "{2}",
@@ -302,23 +304,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280/rulings"
-  },
-  {
-   "name": "Gush",
-   "type_line": "Instant",
-   "mana_cost": "{4}{U}",
-   "oracle_id": "16d8ee99-8ec8-429f-9ba7-818a74b6f910",
-   "original_printing": {
-    "set": "MMQ",
-    "set_name": "Mercadian Masques",
-    "released_at": "1999-10-04",
-    "collector_number": "82",
-    "rarity": "common",
-    "image": "https://cards.scryfall.io/normal/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1783945965",
-    "scryfall_uri": "https://scryfall.com/card/mmq/82/gush?utm_source=api"
-   },
-   "total_paper_printings": 7,
-   "rulings_uri": "https://api.scryfall.com/cards/e755bbef-bf34-49c0-ae72-d70e3599de52/rulings"
   },
   {
    "name": "Imperial Seal",
@@ -437,23 +422,6 @@
    },
    "total_paper_printings": 2,
    "rulings_uri": "https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6/rulings"
-  },
-  {
-   "name": "Mind Twist",
-   "type_line": "Sorcery",
-   "mana_cost": "{X}{B}",
-   "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "115",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693",
-    "scryfall_uri": "https://scryfall.com/card/lea/115/mind-twist?utm_source=api"
-   },
-   "total_paper_printings": 11,
-   "rulings_uri": "https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739/rulings"
   },
   {
    "name": "Mind's Desire",
@@ -792,23 +760,6 @@
    },
    "total_paper_printings": 14,
    "rulings_uri": "https://api.scryfall.com/cards/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d/rulings"
-  },
-  {
-   "name": "Voltaic Key",
-   "type_line": "Artifact",
-   "mana_cost": "{1}",
-   "oracle_id": "09aeea91-b1dc-443f-a509-4758f052c0a7",
-   "original_printing": {
-    "set": "USG",
-    "set_name": "Urza's Saga",
-    "released_at": "1998-10-12",
-    "collector_number": "314",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/1/a/1aa4baf7-4693-4c55-af04-2fa5d901d701.jpg?1783946301",
-    "scryfall_uri": "https://scryfall.com/card/usg/314/voltaic-key?utm_source=api"
-   },
-   "total_paper_printings": 5,
-   "rulings_uri": "https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701/rulings"
   },
   {
    "name": "Wheel of Fortune",

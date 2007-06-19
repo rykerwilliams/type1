@@ -1173,6 +1173,51 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 28,
+   "date": "2007-06-19",
+   "date_precision": "day",
+   "effective": "2007-06-19",
+   "announced": "2007-06-01",
+   "era": 67,
+   "era_name": "Flash Breaks Out",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+    "label": "Banned & Restricted List Update June 1, 2007",
+    "archived": "http://web.archive.org/web/20220626121913/https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+    "archived_at": "20220626121913"
+   },
+   "actions": [
+    {
+     "card": "Gifts Ungiven",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Black Vise",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gush",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mind Twist",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Voltaic Key",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
