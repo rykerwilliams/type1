@@ -1,19 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2007-06-19",
+ "as_of": "2007-10-19",
  "as_of_precision": "day",
- "effective": "2007-06-19",
- "announced": "2007-06-01",
- "era": 67,
- "era_name": "Flash Breaks Out",
+ "effective": "2007-10-19",
+ "announced": null,
+ "era": 68,
+ "era_name": "2nd Gush Era Begins",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
-  "label": "Banned & Restricted List Update June 1, 2007",
-  "archived": "http://web.archive.org/web/20220626121913/https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
-  "archived_at": "20220626121913"
+  "url": "https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+  "label": "Vintage Champs 2007 Coverage",
+  "archived": "http://web.archive.org/web/20220122080155/https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+  "archived_at": "20220122080155"
  },
- "sequence": 28,
+ "sequence": 29,
  "restricted_count": 48,
  "restricted": [
   {
@@ -983,6 +983,23 @@
    },
    "total_paper_printings": 4,
    "rulings_uri": "https://api.scryfall.com/cards/a0d3ce01-e344-4608-b709-320be3600019/rulings"
+  },
+  {
+   "name": "Shahrazad",
+   "type_line": "Sorcery",
+   "mana_cost": "{W}{W}",
+   "oracle_id": "fc04f621-338b-4d4c-bf57-5e5a00d990f0",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "10",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/0/0/0014def3-4063-4929-ac51-76aef1bb2a68.jpg?1783948393",
+    "scryfall_uri": "https://scryfall.com/card/arn/10/shahrazad?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/0014def3-4063-4929-ac51-76aef1bb2a68/rulings"
   },
   {
    "name": "Tempest Efreet",

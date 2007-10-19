@@ -1218,6 +1218,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 29,
+   "date": "2007-10-19",
+   "date_precision": "day",
+   "effective": "2007-10-19",
+   "announced": null,
+   "era": 68,
+   "era_name": "2nd Gush Era Begins",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+    "label": "Vintage Champs 2007 Coverage",
+    "archived": "http://web.archive.org/web/20220122080155/https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+    "archived_at": "20220122080155"
+   },
+   "actions": [
+    {
+     "card": "Shahrazad",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
