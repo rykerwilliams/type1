@@ -1243,6 +1243,49 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 30,
+   "date": "2008-06-19",
+   "date_precision": "day",
+   "effective": "2008-06-19",
+   "announced": "2008-06-13",
+   "era": 71,
+   "era_name": "End of the 2nd Gush Era",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/why-are-dual-lands-usually-allied-colored-2008-06-13",
+    "label": "Banned & Restricted List Update June 13, 2008"
+   },
+   "actions": [
+    {
+     "card": "Brainstorm",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Flash",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gush",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Merchant Scroll",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Ponder",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

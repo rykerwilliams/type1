@@ -1,20 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2007-10-19",
+ "as_of": "2008-06-19",
  "as_of_precision": "day",
- "effective": "2007-10-19",
- "announced": null,
- "era": 68,
- "era_name": "2nd Gush Era Begins",
+ "effective": "2008-06-19",
+ "announced": "2008-06-13",
+ "era": 71,
+ "era_name": "End of the 2nd Gush Era",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
-  "label": "Vintage Champs 2007 Coverage",
-  "archived": "http://web.archive.org/web/20220122080155/https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
-  "archived_at": "20220122080155"
+  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/why-are-dual-lands-usually-allied-colored-2008-06-13",
+  "label": "Banned & Restricted List Update June 13, 2008"
  },
- "sequence": 29,
- "restricted_count": 48,
+ "sequence": 30,
+ "restricted_count": 53,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -66,6 +64,23 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe/rulings"
+  },
+  {
+   "name": "Brainstorm",
+   "type_line": "Instant",
+   "mana_cost": "{U}",
+   "oracle_id": "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+   "original_printing": {
+    "set": "ICE",
+    "set_name": "Ice Age",
+    "released_at": "1995-06-03",
+    "collector_number": "61",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1783947518",
+    "scryfall_uri": "https://scryfall.com/card/ice/61/brainstorm?utm_source=api"
+   },
+   "total_paper_printings": 48,
+   "rulings_uri": "https://api.scryfall.com/cards/8d42d7aa-7f53-4cfc-842a-086aab2448d1/rulings"
   },
   {
    "name": "Burning Wish",
@@ -255,6 +270,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/a575a9af-e1de-4a1d-91d8-440585377e4f/rulings"
   },
   {
+   "name": "Flash",
+   "type_line": "Instant",
+   "mana_cost": "{1}{U}",
+   "oracle_id": "3e057471-e415-4105-9064-8236a0a5047d",
+   "original_printing": {
+    "set": "MIR",
+    "set_name": "Mirage",
+    "released_at": "1996-10-08",
+    "collector_number": "66",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/6/3/63af3c26-5b1f-46f6-9aa2-036c615bf5ea.jpg?1783947110",
+    "scryfall_uri": "https://scryfall.com/card/mir/66/flash?utm_source=api"
+   },
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/63af3c26-5b1f-46f6-9aa2-036c615bf5ea/rulings"
+  },
+  {
    "name": "Frantic Search",
    "type_line": "Instant",
    "mana_cost": "{2}{U}",
@@ -304,6 +336,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280/rulings"
+  },
+  {
+   "name": "Gush",
+   "type_line": "Instant",
+   "mana_cost": "{4}{U}",
+   "oracle_id": "16d8ee99-8ec8-429f-9ba7-818a74b6f910",
+   "original_printing": {
+    "set": "MMQ",
+    "set_name": "Mercadian Masques",
+    "released_at": "1999-10-04",
+    "collector_number": "82",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1783945965",
+    "scryfall_uri": "https://scryfall.com/card/mmq/82/gush?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/e755bbef-bf34-49c0-ae72-d70e3599de52/rulings"
   },
   {
    "name": "Imperial Seal",
@@ -422,6 +471,23 @@
    },
    "total_paper_printings": 2,
    "rulings_uri": "https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6/rulings"
+  },
+  {
+   "name": "Merchant Scroll",
+   "type_line": "Sorcery",
+   "mana_cost": "{1}{U}",
+   "oracle_id": "86cebe2a-95e7-4f22-99cc-e805aeaf347e",
+   "original_printing": {
+    "set": "HML",
+    "set_name": "Homelands",
+    "released_at": "1995-10-01",
+    "collector_number": "33",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1783947295",
+    "scryfall_uri": "https://scryfall.com/card/hml/33/merchant-scroll?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/d4133ceb-6176-411a-9eb8-51721c1bb435/rulings"
   },
   {
    "name": "Mind's Desire",
@@ -592,6 +658,23 @@
    },
    "total_paper_printings": 5,
    "rulings_uri": "https://api.scryfall.com/cards/1edc3917-fded-4773-8f8d-62bd861c1131/rulings"
+  },
+  {
+   "name": "Ponder",
+   "type_line": "Sorcery",
+   "mana_cost": "{U}",
+   "oracle_id": "02090581-61aa-4348-ad57-451be8ee91c2",
+   "original_printing": {
+    "set": "LRW",
+    "set_name": "Lorwyn",
+    "released_at": "2007-10-12",
+    "collector_number": "79",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.jpg?1783942899",
+    "scryfall_uri": "https://scryfall.com/card/lrw/79/ponder?utm_source=api"
+   },
+   "total_paper_printings": 31,
+   "rulings_uri": "https://api.scryfall.com/cards/ba6b6fc5-5077-4812-b8e9-906783dbaf67/rulings"
   },
   {
    "name": "Regrowth",
