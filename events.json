@@ -1286,6 +1286,56 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 31,
+   "date": "2008-10-01",
+   "date_precision": "day",
+   "effective": "2008-10-01",
+   "announced": "2008-09-24",
+   "era": 73,
+   "era_name": "The Storm Before the Tezzeret",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+    "label": "Banned & Restricted List Update September 24, 2008",
+    "archived": "http://web.archive.org/web/20220128155037/https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+    "archived_at": "20220128155037"
+   },
+   "actions": [
+    {
+     "card": "Time Vault",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Chrome Mox",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Dream Halls",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mox Diamond",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Personal Tutor",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Time Spiral",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

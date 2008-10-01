@@ -1,18 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2008-06-19",
+ "as_of": "2008-10-01",
  "as_of_precision": "day",
- "effective": "2008-06-19",
- "announced": "2008-06-13",
- "era": 71,
- "era_name": "End of the 2nd Gush Era",
+ "effective": "2008-10-01",
+ "announced": "2008-09-24",
+ "era": 73,
+ "era_name": "The Storm Before the Tezzeret",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/why-are-dual-lands-usually-allied-colored-2008-06-13",
-  "label": "Banned & Restricted List Update June 13, 2008"
+  "url": "https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+  "label": "Banned & Restricted List Update September 24, 2008",
+  "archived": "http://web.archive.org/web/20220128155037/https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+  "archived_at": "20220128155037"
  },
- "sequence": 30,
- "restricted_count": 53,
+ "sequence": 31,
+ "restricted_count": 49,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -117,23 +119,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/c1862c47-71cc-45a3-8805-a5ddc62e55ea/rulings"
   },
   {
-   "name": "Chrome Mox",
-   "type_line": "Artifact",
-   "mana_cost": "{0}",
-   "oracle_id": "ec3d4466-547c-4e02-b1b5-a156ec4637e9",
-   "original_printing": {
-    "set": "MRD",
-    "set_name": "Mirrodin",
-    "released_at": "2003-10-02",
-    "collector_number": "152",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/6/a/6a058e68-70af-4a64-859c-c881e5578368.jpg?1783944526",
-    "scryfall_uri": "https://scryfall.com/card/mrd/152/chrome-mox?utm_source=api"
-   },
-   "total_paper_printings": 12,
-   "rulings_uri": "https://api.scryfall.com/cards/6a058e68-70af-4a64-859c-c881e5578368/rulings"
-  },
-  {
    "name": "Crop Rotation",
    "type_line": "Instant",
    "mana_cost": "{G}",
@@ -183,23 +168,6 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
-  },
-  {
-   "name": "Dream Halls",
-   "type_line": "Enchantment",
-   "mana_cost": "{3}{U}{U}",
-   "oracle_id": "d901e17f-a5f4-49d9-8a6d-ab771949af24",
-   "original_printing": {
-    "set": "STH",
-    "set_name": "Stronghold",
-    "released_at": "1998-03-02",
-    "collector_number": "28",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/f/f/ff4a22d9-007b-4eb7-af9e-b5c2cae36238.jpg?1783946570",
-    "scryfall_uri": "https://scryfall.com/card/sth/28/dream-halls?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238/rulings"
   },
   {
    "name": "Enlightened Tutor",
@@ -507,23 +475,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f/rulings"
   },
   {
-   "name": "Mox Diamond",
-   "type_line": "Artifact",
-   "mana_cost": "{0}",
-   "oracle_id": "f3c5978a-70fa-431f-933b-b954bd0db0ea",
-   "original_printing": {
-    "set": "STH",
-    "set_name": "Stronghold",
-    "released_at": "1998-03-02",
-    "collector_number": "138",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1783946538",
-    "scryfall_uri": "https://scryfall.com/card/sth/138/mox-diamond?utm_source=api"
-   },
-   "total_paper_printings": 2,
-   "rulings_uri": "https://api.scryfall.com/cards/28028830-83ed-45e2-b495-3b9ad9d3e988/rulings"
-  },
-  {
    "name": "Mox Emerald",
    "type_line": "Artifact",
    "mana_cost": "{0}",
@@ -643,23 +594,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings"
   },
   {
-   "name": "Personal Tutor",
-   "type_line": "Sorcery",
-   "mana_cost": "{U}",
-   "oracle_id": "90f54959-2c9b-4b8a-84c9-d6893eb43553",
-   "original_printing": {
-    "set": "POR",
-    "set_name": "Portal",
-    "released_at": "1997-05-01",
-    "collector_number": "64",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/1/e/1edc3917-fded-4773-8f8d-62bd861c1131.jpg?1783946837",
-    "scryfall_uri": "https://scryfall.com/card/por/64/personal-tutor?utm_source=api"
-   },
-   "total_paper_printings": 5,
-   "rulings_uri": "https://api.scryfall.com/cards/1edc3917-fded-4773-8f8d-62bd861c1131/rulings"
-  },
-  {
    "name": "Ponder",
    "type_line": "Sorcery",
    "mana_cost": "{U}",
@@ -727,21 +661,21 @@
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
   },
   {
-   "name": "Time Spiral",
-   "type_line": "Sorcery",
-   "mana_cost": "{4}{U}{U}",
-   "oracle_id": "cac55e46-b730-4569-b92c-a4b5922fc20c",
+   "name": "Time Vault",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "99d4d99d-cf56-45aa-aa39-a250695612f2",
    "original_printing": {
-    "set": "USG",
-    "set_name": "Urza's Saga",
-    "released_at": "1998-10-12",
-    "collector_number": "103",
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "274",
     "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1783946354",
-    "scryfall_uri": "https://scryfall.com/card/usg/103/time-spiral?utm_source=api"
+    "image": "https://cards.scryfall.io/normal/front/9/0/902441dc-c976-4c92-b897-6376eaa0fe38.jpg?1783948660",
+    "scryfall_uri": "https://scryfall.com/card/lea/274/time-vault?utm_source=api"
    },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/f3d62dbd-63db-4ac9-950f-9852627f23f2/rulings"
+   "total_paper_printings": 3,
+   "rulings_uri": "https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38/rulings"
   },
   {
    "name": "Time Walk",
