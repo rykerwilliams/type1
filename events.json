@@ -1336,6 +1336,49 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 32,
+   "date": "2009-06-18",
+   "date_precision": "day",
+   "effective": "2009-06-18",
+   "announced": null,
+   "era": 76,
+   "era_name": "Tezzeret's Final Straw",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/crafting-vintage-2009-06-26",
+    "label": "Crafting a Vintage"
+   },
+   "actions": [
+    {
+     "card": "Thirst for Knowledge",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Crop Rotation",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Enlightened Tutor",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Entomb",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Grim Monolith",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
