@@ -1,18 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2009-06-18",
+ "as_of": "2010-09-30",
  "as_of_precision": "day",
- "effective": "2009-06-18",
- "announced": null,
- "era": 76,
- "era_name": "Tezzeret's Final Straw",
+ "effective": "2010-09-30",
+ "announced": "2010-09-20",
+ "era": 82,
+ "era_name": "Jace Controls Format",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/latest-developments/crafting-vintage-2009-06-26",
-  "label": "Crafting a Vintage"
+  "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20",
+  "label": "Banned & Restricted List Update September 20, 2010"
  },
- "sequence": 32,
- "restricted_count": 46,
+ "sequence": 33,
+ "restricted_count": 44,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -202,23 +202,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/63af3c26-5b1f-46f6-9aa2-036c615bf5ea/rulings"
   },
   {
-   "name": "Frantic Search",
-   "type_line": "Instant",
-   "mana_cost": "{2}{U}",
-   "oracle_id": "16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c",
-   "original_printing": {
-    "set": "ULG",
-    "set_name": "Urza's Legacy",
-    "released_at": "1999-02-15",
-    "collector_number": "32",
-    "rarity": "common",
-    "image": "https://cards.scryfall.io/normal/front/1/9/1904db14-6df7-424f-afa5-e3dfab31300a.jpg?1783946247",
-    "scryfall_uri": "https://scryfall.com/card/ulg/32/frantic-search?utm_source=api"
-   },
-   "total_paper_printings": 16,
-   "rulings_uri": "https://api.scryfall.com/cards/1904db14-6df7-424f-afa5-e3dfab31300a/rulings"
-  },
-  {
    "name": "Gifts Ungiven",
    "type_line": "Instant",
    "mana_cost": "{3}{U}",
@@ -234,23 +217,6 @@
    },
    "total_paper_printings": 8,
    "rulings_uri": "https://api.scryfall.com/cards/32b91eb5-ea53-4a21-a2e5-9c545a42fa30/rulings"
-  },
-  {
-   "name": "Gush",
-   "type_line": "Instant",
-   "mana_cost": "{4}{U}",
-   "oracle_id": "16d8ee99-8ec8-429f-9ba7-818a74b6f910",
-   "original_printing": {
-    "set": "MMQ",
-    "set_name": "Mercadian Masques",
-    "released_at": "1999-10-04",
-    "collector_number": "82",
-    "rarity": "common",
-    "image": "https://cards.scryfall.io/normal/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1783945965",
-    "scryfall_uri": "https://scryfall.com/card/mmq/82/gush?utm_source=api"
-   },
-   "total_paper_printings": 7,
-   "rulings_uri": "https://api.scryfall.com/cards/e755bbef-bf34-49c0-ae72-d70e3599de52/rulings"
   },
   {
    "name": "Imperial Seal",

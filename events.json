@@ -1379,6 +1379,34 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 33,
+   "date": "2010-09-30",
+   "date_precision": "day",
+   "effective": "2010-09-30",
+   "announced": "2010-09-20",
+   "era": 82,
+   "era_name": "Jace Controls Format",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20",
+    "label": "Banned & Restricted List Update September 20, 2010"
+   },
+   "actions": [
+    {
+     "card": "Frantic Search",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gush",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
