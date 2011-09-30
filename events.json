@@ -1407,6 +1407,29 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 34,
+   "date": "2011-09-30",
+   "date_precision": "day",
+   "effective": "2011-09-30",
+   "announced": "2011-09-20",
+   "era": 87,
+   "era_name": "Grudging the Metagame",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20",
+    "label": "Banned & Restricted List Update September 20, 2011"
+   },
+   "actions": [
+    {
+     "card": "Fact or Fiction",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

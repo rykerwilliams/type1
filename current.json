@@ -1,18 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2010-09-30",
+ "as_of": "2011-09-30",
  "as_of_precision": "day",
- "effective": "2010-09-30",
- "announced": "2010-09-20",
- "era": 82,
- "era_name": "Jace Controls Format",
+ "effective": "2011-09-30",
+ "announced": "2011-09-20",
+ "era": 87,
+ "era_name": "Grudging the Metagame",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20",
-  "label": "Banned & Restricted List Update September 20, 2010"
+  "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20",
+  "label": "Banned & Restricted List Update September 20, 2011"
  },
- "sequence": 33,
- "restricted_count": 44,
+ "sequence": 34,
+ "restricted_count": 43,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -149,23 +149,6 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
-  },
-  {
-   "name": "Fact or Fiction",
-   "type_line": "Instant",
-   "mana_cost": "{3}{U}",
-   "oracle_id": "437b2dab-15e0-4b9a-a204-58622d37a3b3",
-   "original_printing": {
-    "set": "INV",
-    "set_name": "Invasion",
-    "released_at": "2000-10-02",
-    "collector_number": "57",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/7/f/7fd4d018-dcf3-4439-8445-02d66e44f7d3.jpg?1783945707",
-    "scryfall_uri": "https://scryfall.com/card/inv/57/fact-or-fiction?utm_source=api"
-   },
-   "total_paper_printings": 31,
-   "rulings_uri": "https://api.scryfall.com/cards/7fd4d018-dcf3-4439-8445-02d66e44f7d3/rulings"
   },
   {
    "name": "Fastbond",
