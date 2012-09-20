@@ -1430,6 +1430,30 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 35,
+   "date": "2012-09-20",
+   "date_precision": "day",
+   "effective": "2012-09-20",
+   "announced": "2012-09-20",
+   "era": 92,
+   "era_name": "RUG Xerox Emerges",
+   "announcement": {
+    "url": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a",
+    "label": "Banned & Restricted List Update September 20, 2012",
+    "archived": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a"
+   },
+   "actions": [
+    {
+     "card": "Burning Wish",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

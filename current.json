@@ -1,18 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2011-09-30",
+ "as_of": "2012-09-20",
  "as_of_precision": "day",
- "effective": "2011-09-30",
- "announced": "2011-09-20",
- "era": 87,
- "era_name": "Grudging the Metagame",
+ "effective": "2012-09-20",
+ "announced": "2012-09-20",
+ "era": 92,
+ "era_name": "RUG Xerox Emerges",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20",
-  "label": "Banned & Restricted List Update September 20, 2011"
+  "url": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a",
+  "label": "Banned & Restricted List Update September 20, 2012",
+  "archived": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a"
  },
- "sequence": 34,
- "restricted_count": 43,
+ "sequence": 35,
+ "restricted_count": 42,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -81,23 +82,6 @@
    },
    "total_paper_printings": 48,
    "rulings_uri": "https://api.scryfall.com/cards/8d42d7aa-7f53-4cfc-842a-086aab2448d1/rulings"
-  },
-  {
-   "name": "Burning Wish",
-   "type_line": "Sorcery",
-   "mana_cost": "{1}{R}",
-   "oracle_id": "13a884b5-8970-4d71-9082-a8b6c8db9a01",
-   "original_printing": {
-    "set": "JUD",
-    "set_name": "Judgment",
-    "released_at": "2002-05-27",
-    "collector_number": "83",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/1/c/1c9b692a-e832-4612-a6ec-93b52f6a0410.jpg?1783945119",
-    "scryfall_uri": "https://scryfall.com/card/jud/83/burning-wish?utm_source=api"
-   },
-   "total_paper_printings": 3,
-   "rulings_uri": "https://api.scryfall.com/cards/1c9b692a-e832-4612-a6ec-93b52f6a0410/rulings"
   },
   {
    "name": "Channel",
