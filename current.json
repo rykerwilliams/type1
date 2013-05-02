@@ -1,19 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2012-09-20",
+ "as_of": "2013-05-02",
  "as_of_precision": "day",
- "effective": "2012-09-20",
- "announced": "2012-09-20",
- "era": 92,
- "era_name": "RUG Xerox Emerges",
+ "effective": "2013-05-02",
+ "announced": "2013-04-22",
+ "era": 94,
+ "era_name": "The Burning Oath Moment",
  "announcement": {
-  "url": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a",
-  "label": "Banned & Restricted List Update September 20, 2012",
-  "archived": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a"
+  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+  "label": "Banned & Restricted List Update April 22, 2013",
+  "archived": "http://web.archive.org/web/20220627021802/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+  "archived_at": "20220627021802"
  },
- "sequence": 35,
- "restricted_count": 42,
+ "sequence": 36,
+ "restricted_count": 41,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -472,23 +473,6 @@
    },
    "total_paper_printings": 31,
    "rulings_uri": "https://api.scryfall.com/cards/ba6b6fc5-5077-4812-b8e9-906783dbaf67/rulings"
-  },
-  {
-   "name": "Regrowth",
-   "type_line": "Sorcery",
-   "mana_cost": "{1}{G}",
-   "oracle_id": "e6e4a8bd-5c40-4654-8de1-0da9afed90fd",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "214",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/b/a/badc73ec-3728-4246-90c7-5f4eb7051ed5.jpg?1783948673",
-    "scryfall_uri": "https://scryfall.com/card/lea/214/regrowth?utm_source=api"
-   },
-   "total_paper_printings": 20,
-   "rulings_uri": "https://api.scryfall.com/cards/badc73ec-3728-4246-90c7-5f4eb7051ed5/rulings"
   },
   {
    "name": "Sol Ring",

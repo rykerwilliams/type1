@@ -1454,6 +1454,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 36,
+   "date": "2013-05-02",
+   "date_precision": "day",
+   "effective": "2013-05-02",
+   "announced": "2013-04-22",
+   "era": 94,
+   "era_name": "The Burning Oath Moment",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+    "label": "Banned & Restricted List Update April 22, 2013",
+    "archived": "http://web.archive.org/web/20220627021802/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+    "archived_at": "20220627021802"
+   },
+   "actions": [
+    {
+     "card": "Regrowth",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
