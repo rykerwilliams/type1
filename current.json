@@ -1,19 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2013-05-02",
+ "as_of": "2015-01-22",
  "as_of_precision": "day",
- "effective": "2013-05-02",
- "announced": "2013-04-22",
- "era": 94,
- "era_name": "The Burning Oath Moment",
+ "effective": "2015-01-22",
+ "announced": "2015-01-19",
+ "era": 104,
+ "era_name": "Delver Dominates",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
-  "label": "Banned & Restricted List Update April 22, 2013",
-  "archived": "http://web.archive.org/web/20220627021802/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
-  "archived_at": "20220627021802"
+  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+  "label": "Banned & Restricted List Update January 19, 2015",
+  "archived": "http://web.archive.org/web/20220916145813/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+  "archived_at": "20220916145813"
  },
- "sequence": 36,
+ "sequence": 37,
  "restricted_count": 41,
  "restricted": [
   {
@@ -168,23 +168,6 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/63af3c26-5b1f-46f6-9aa2-036c615bf5ea/rulings"
-  },
-  {
-   "name": "Gifts Ungiven",
-   "type_line": "Instant",
-   "mana_cost": "{3}{U}",
-   "oracle_id": "58aec411-167d-4709-8560-793eaaed62c5",
-   "original_printing": {
-    "set": "CHK",
-    "set_name": "Champions of Kamigawa",
-    "released_at": "2004-10-01",
-    "collector_number": "62",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/3/2/32b91eb5-ea53-4a21-a2e5-9c545a42fa30.jpg?1783944328",
-    "scryfall_uri": "https://scryfall.com/card/chk/62/gifts-ungiven?utm_source=api"
-   },
-   "total_paper_printings": 8,
-   "rulings_uri": "https://api.scryfall.com/cards/32b91eb5-ea53-4a21-a2e5-9c545a42fa30/rulings"
   },
   {
    "name": "Imperial Seal",
@@ -607,6 +590,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887/rulings"
+  },
+  {
+   "name": "Treasure Cruise",
+   "type_line": "Sorcery",
+   "mana_cost": "{7}{U}",
+   "oracle_id": "5b6bdf5a-2742-4851-92cd-a857a3852836",
+   "original_printing": {
+    "set": "KTK",
+    "set_name": "Khans of Tarkir",
+    "released_at": "2014-09-26",
+    "collector_number": "59",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/7/a/7a59d4b1-6cf4-44ec-8a96-1bb7094fea21.jpg?1783939083",
+    "scryfall_uri": "https://scryfall.com/card/ktk/59/treasure-cruise?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/7a59d4b1-6cf4-44ec-8a96-1bb7094fea21/rulings"
   },
   {
    "name": "Trinisphere",

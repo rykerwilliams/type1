@@ -1479,6 +1479,36 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 37,
+   "date": "2015-01-22",
+   "date_precision": "day",
+   "effective": "2015-01-22",
+   "announced": "2015-01-19",
+   "era": 104,
+   "era_name": "Delver Dominates",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+    "label": "Banned & Restricted List Update January 19, 2015",
+    "archived": "http://web.archive.org/web/20220916145813/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+    "archived_at": "20220916145813"
+   },
+   "actions": [
+    {
+     "card": "Treasure Cruise",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gifts Ungiven",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
