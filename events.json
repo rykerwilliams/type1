@@ -1509,6 +1509,41 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 38,
+   "date": "2015-10-01",
+   "date_precision": "day",
+   "effective": "2015-10-01",
+   "announced": "2015-09-28",
+   "era": 107,
+   "era_name": "Hangarback Shops Arrive",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+    "label": "Banned & Restricted List Update September 28, 2015",
+    "archived": "http://web.archive.org/web/20221110044044/https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+    "archived_at": "20221110044044"
+   },
+   "actions": [
+    {
+     "card": "Chalice of the Void",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Dig Through Time",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Thirst for Knowledge",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }

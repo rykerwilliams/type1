@@ -1,20 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2015-01-22",
+ "as_of": "2015-10-01",
  "as_of_precision": "day",
- "effective": "2015-01-22",
- "announced": "2015-01-19",
- "era": 104,
- "era_name": "Delver Dominates",
+ "effective": "2015-10-01",
+ "announced": "2015-09-28",
+ "era": 107,
+ "era_name": "Hangarback Shops Arrive",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
-  "label": "Banned & Restricted List Update January 19, 2015",
-  "archived": "http://web.archive.org/web/20220916145813/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
-  "archived_at": "20220916145813"
+  "url": "https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+  "label": "Banned & Restricted List Update September 28, 2015",
+  "archived": "http://web.archive.org/web/20221110044044/https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+  "archived_at": "20221110044044"
  },
- "sequence": 37,
- "restricted_count": 41,
+ "sequence": 38,
+ "restricted_count": 42,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -85,6 +85,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/8d42d7aa-7f53-4cfc-842a-086aab2448d1/rulings"
   },
   {
+   "name": "Chalice of the Void",
+   "type_line": "Artifact",
+   "mana_cost": "{X}{X}",
+   "oracle_id": "74027ba4-a6ba-4696-baf1-60ef0b27ee0a",
+   "original_printing": {
+    "set": "MRD",
+    "set_name": "Mirrodin",
+    "released_at": "2003-10-02",
+    "collector_number": "150",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/a/1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e.jpg?1783944526",
+    "scryfall_uri": "https://scryfall.com/card/mrd/150/chalice-of-the-void?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e/rulings"
+  },
+  {
    "name": "Channel",
    "type_line": "Sorcery",
    "mana_cost": "{G}{G}",
@@ -134,6 +151,23 @@
    },
    "total_paper_printings": 23,
    "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings"
+  },
+  {
+   "name": "Dig Through Time",
+   "type_line": "Instant",
+   "mana_cost": "{6}{U}{U}",
+   "oracle_id": "f8b17b89-26ce-4208-874a-9e1d66514640",
+   "original_printing": {
+    "set": "KTK",
+    "set_name": "Khans of Tarkir",
+    "released_at": "2014-09-26",
+    "collector_number": "36",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/5/c/5c18c2d8-995c-4736-bdef-464abcd1d31a.jpg?1783939089",
+    "scryfall_uri": "https://scryfall.com/card/ktk/36/dig-through-time?utm_source=api"
+   },
+   "total_paper_printings": 17,
+   "rulings_uri": "https://api.scryfall.com/cards/5c18c2d8-995c-4736-bdef-464abcd1d31a/rulings"
   },
   {
    "name": "Fastbond",
@@ -489,23 +523,6 @@
    },
    "total_paper_printings": 17,
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
-  },
-  {
-   "name": "Thirst for Knowledge",
-   "type_line": "Instant",
-   "mana_cost": "{2}{U}",
-   "oracle_id": "939e6f71-185e-41f2-9d54-72cce06f1dce",
-   "original_printing": {
-    "set": "MRD",
-    "set_name": "Mirrodin",
-    "released_at": "2003-10-02",
-    "collector_number": "53",
-    "rarity": "uncommon",
-    "image": "https://cards.scryfall.io/normal/front/0/f/0ff1f608-203e-4413-8753-37fc49731c87.jpg?1783944550",
-    "scryfall_uri": "https://scryfall.com/card/mrd/53/thirst-for-knowledge?utm_source=api"
-   },
-   "total_paper_printings": 16,
-   "rulings_uri": "https://api.scryfall.com/cards/0ff1f608-203e-4413-8753-37fc49731c87/rulings"
   },
   {
    "name": "Time Vault",
