@@ -1544,6 +1544,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 39,
+   "date": "2016-04-07",
+   "date_precision": "day",
+   "effective": "2016-04-07",
+   "announced": "2016-04-04",
+   "era": 110,
+   "era_name": "Inferno Oath Era",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
+    "label": "Banned & Restricted List Update April 4, 2016",
+    "archived": "http://web.archive.org/web/20220630233946/https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
+    "archived_at": "20220630233946"
+   },
+   "actions": [
+    {
+     "card": "Lodestone Golem",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
