@@ -1,20 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2016-04-07",
+ "as_of": "2017-04-27",
  "as_of_precision": "day",
- "effective": "2016-04-07",
- "announced": "2016-04-04",
- "era": 110,
- "era_name": "Inferno Oath Era",
+ "effective": "2017-04-27",
+ "announced": "2017-04-24",
+ "era": 116,
+ "era_name": "Gush Swan Song",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
-  "label": "Banned & Restricted List Update April 4, 2016",
-  "archived": "http://web.archive.org/web/20220630233946/https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
-  "archived_at": "20220630233946"
+  "url": "https://magic.wizards.com/en/articles/archive/news/april-24-2017-banned-and-restricted-announcement-2017-04-24",
+  "label": "Banned & Restricted List Update April 24, 2017"
  },
- "sequence": 39,
- "restricted_count": 43,
+ "sequence": 40,
+ "restricted_count": 45,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -202,6 +200,40 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/63af3c26-5b1f-46f6-9aa2-036c615bf5ea/rulings"
+  },
+  {
+   "name": "Gitaxian Probe",
+   "type_line": "Sorcery",
+   "mana_cost": "{U/P}",
+   "oracle_id": "1d67f5ff-1fce-45e5-b6a1-416c569351e2",
+   "original_printing": {
+    "set": "NPH",
+    "set_name": "New Phyrexia",
+    "released_at": "2011-05-13",
+    "collector_number": "35",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/9/9/995486ce-58bb-4753-a812-0ca73ef1a235.jpg?1783941320",
+    "scryfall_uri": "https://scryfall.com/card/nph/35/gitaxian-probe?utm_source=api"
+   },
+   "total_paper_printings": 5,
+   "rulings_uri": "https://api.scryfall.com/cards/995486ce-58bb-4753-a812-0ca73ef1a235/rulings"
+  },
+  {
+   "name": "Gush",
+   "type_line": "Instant",
+   "mana_cost": "{4}{U}",
+   "oracle_id": "16d8ee99-8ec8-429f-9ba7-818a74b6f910",
+   "original_printing": {
+    "set": "MMQ",
+    "set_name": "Mercadian Masques",
+    "released_at": "1999-10-04",
+    "collector_number": "82",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1783945965",
+    "scryfall_uri": "https://scryfall.com/card/mmq/82/gush?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/e755bbef-bf34-49c0-ae72-d70e3599de52/rulings"
   },
   {
    "name": "Imperial Seal",

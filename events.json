@@ -1569,6 +1569,34 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 40,
+   "date": "2017-04-27",
+   "date_precision": "day",
+   "effective": "2017-04-27",
+   "announced": "2017-04-24",
+   "era": 116,
+   "era_name": "Gush Swan Song",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/april-24-2017-banned-and-restricted-announcement-2017-04-24",
+    "label": "Banned & Restricted List Update April 24, 2017"
+   },
+   "actions": [
+    {
+     "card": "Gitaxian Probe",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Gush",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
