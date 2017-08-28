@@ -1,18 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2017-04-27",
+ "as_of": "2017-08-28",
  "as_of_precision": "day",
- "effective": "2017-04-27",
- "announced": "2017-04-24",
- "era": 116,
- "era_name": "Gush Swan Song",
+ "effective": "2017-08-28",
+ "announced": "2017-08-28",
+ "era": 118,
+ "era_name": "Mentor and Workshops Duopoly",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/april-24-2017-banned-and-restricted-announcement-2017-04-24",
-  "label": "Banned & Restricted List Update April 24, 2017"
+  "url": "https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+  "label": "Banned & Restricted List Update August 28, 2017",
+  "archived": "http://web.archive.org/web/20220128030717/https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+  "archived_at": "20220128030717"
  },
- "sequence": 40,
- "restricted_count": 45,
+ "sequence": 41,
+ "restricted_count": 46,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -405,6 +407,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f/rulings"
   },
   {
+   "name": "Monastery Mentor",
+   "type_line": "Creature \u2014 Human Monk",
+   "mana_cost": "{2}{W}",
+   "oracle_id": "3979067a-9c68-443d-a85f-d9f07be880b9",
+   "original_printing": {
+    "set": "FRF",
+    "set_name": "Fate Reforged",
+    "released_at": "2015-01-23",
+    "collector_number": "20",
+    "rarity": "mythic",
+    "image": "https://cards.scryfall.io/normal/front/a/b/abcd0e32-2e6b-419b-9e8a-af38f2b48a66.jpg?1783938710",
+    "scryfall_uri": "https://scryfall.com/card/frf/20/monastery-mentor?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/abcd0e32-2e6b-419b-9e8a-af38f2b48a66/rulings"
+  },
+  {
    "name": "Mox Emerald",
    "type_line": "Artifact",
    "mana_cost": "{0}",
@@ -574,6 +593,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
   },
   {
+   "name": "Thorn of Amethyst",
+   "type_line": "Artifact",
+   "mana_cost": "{2}",
+   "oracle_id": "0c6c5336-9233-4ab1-9d55-79f20be7ea57",
+   "original_printing": {
+    "set": "LRW",
+    "set_name": "Lorwyn",
+    "released_at": "2007-10-12",
+    "collector_number": "262",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/4/e472d4f5-add4-4de3-8718-31a47a35277c.jpg?1783942851",
+    "scryfall_uri": "https://scryfall.com/card/lrw/262/thorn-of-amethyst?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/e472d4f5-add4-4de3-8718-31a47a35277c/rulings"
+  },
+  {
    "name": "Time Vault",
    "type_line": "Artifact",
    "mana_cost": "{2}",
@@ -741,23 +777,6 @@
    },
    "total_paper_printings": 20,
    "rulings_uri": "https://api.scryfall.com/cards/2aef4608-5ba8-4636-b5e7-cac57c5c0608/rulings"
-  },
-  {
-   "name": "Yawgmoth's Bargain",
-   "type_line": "Enchantment",
-   "mana_cost": "{4}{B}{B}",
-   "oracle_id": "f7f76f39-a0de-4bda-86b6-0f291892fcec",
-   "original_printing": {
-    "set": "UDS",
-    "set_name": "Urza's Destiny",
-    "released_at": "1999-06-07",
-    "collector_number": "75",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/8/6/86901bf2-7722-43f8-b879-7a30630371fa.jpg?1783946070",
-    "scryfall_uri": "https://scryfall.com/card/uds/75/yawgmoths-bargain?utm_source=api"
-   },
-   "total_paper_printings": 1,
-   "rulings_uri": "https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa/rulings"
   },
   {
    "name": "Yawgmoth's Will",

@@ -1597,6 +1597,41 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 41,
+   "date": "2017-08-28",
+   "date_precision": "day",
+   "effective": "2017-08-28",
+   "announced": "2017-08-28",
+   "era": 118,
+   "era_name": "Mentor and Workshops Duopoly",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+    "label": "Banned & Restricted List Update August 28, 2017",
+    "archived": "http://web.archive.org/web/20220128030717/https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+    "archived_at": "20220128030717"
+   },
+   "actions": [
+    {
+     "card": "Monastery Mentor",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Thorn of Amethyst",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Yawgmoth's Bargain",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
