@@ -1,20 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2017-08-28",
+ "as_of": "2019-08-26",
  "as_of_precision": "day",
- "effective": "2017-08-28",
- "announced": "2017-08-28",
- "era": 118,
- "era_name": "Mentor and Workshops Duopoly",
+ "effective": "2019-08-26",
+ "announced": null,
+ "era": 130,
+ "era_name": "BUG Dominant",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
-  "label": "Banned & Restricted List Update August 28, 2017",
-  "archived": "http://web.archive.org/web/20220128030717/https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
-  "archived_at": "20220128030717"
+  "url": "https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03",
+  "label": "London Mulligan Formally Adopted Across All Formats"
  },
- "sequence": 41,
- "restricted_count": 46,
+ "sequence": 42,
+ "restricted_count": 49,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -170,23 +168,6 @@
    "rulings_uri": "https://api.scryfall.com/cards/5c18c2d8-995c-4736-bdef-464abcd1d31a/rulings"
   },
   {
-   "name": "Fastbond",
-   "type_line": "Enchantment",
-   "mana_cost": "{G}",
-   "oracle_id": "e27193b7-1a47-4555-865d-b1fd4c6d597f",
-   "original_printing": {
-    "set": "LEA",
-    "set_name": "Limited Edition Alpha",
-    "released_at": "1993-08-05",
-    "collector_number": "192",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/a/5/a575a9af-e1de-4a1d-91d8-440585377e4f.jpg?1783948678",
-    "scryfall_uri": "https://scryfall.com/card/lea/192/fastbond?utm_source=api"
-   },
-   "total_paper_printings": 6,
-   "rulings_uri": "https://api.scryfall.com/cards/a575a9af-e1de-4a1d-91d8-440585377e4f/rulings"
-  },
-  {
    "name": "Flash",
    "type_line": "Instant",
    "mana_cost": "{1}{U}",
@@ -221,6 +202,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/995486ce-58bb-4753-a812-0ca73ef1a235/rulings"
   },
   {
+   "name": "Golgari Grave-Troll",
+   "type_line": "Creature \u2014 Troll Skeleton",
+   "mana_cost": "{4}{G}",
+   "oracle_id": "686f4a37-b5e4-46d4-9e0e-11794b2d12cd",
+   "original_printing": {
+    "set": "RAV",
+    "set_name": "Ravnica: City of Guilds",
+    "released_at": "2005-10-07",
+    "collector_number": "167",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/f/6/f61b50e6-2166-435d-bf48-c4a0cff9999c.jpg?1783943637",
+    "scryfall_uri": "https://scryfall.com/card/rav/167/golgari-grave-troll?utm_source=api"
+   },
+   "total_paper_printings": 7,
+   "rulings_uri": "https://api.scryfall.com/cards/f61b50e6-2166-435d-bf48-c4a0cff9999c/rulings"
+  },
+  {
    "name": "Gush",
    "type_line": "Instant",
    "mana_cost": "{4}{U}",
@@ -253,6 +251,23 @@
    },
    "total_paper_printings": 5,
    "rulings_uri": "https://api.scryfall.com/cards/822e30db-40c5-4099-868b-185ad9b7c7dc/rulings"
+  },
+  {
+   "name": "Karn, the Great Creator",
+   "type_line": "Legendary Planeswalker \u2014 Karn",
+   "mana_cost": "{4}",
+   "oracle_id": "a20dd48d-d344-4db1-b0e9-a2b71c3cc9d1",
+   "original_printing": {
+    "set": "WAR",
+    "set_name": "War of the Spark",
+    "released_at": "2019-05-03",
+    "collector_number": "1",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1783933488",
+    "scryfall_uri": "https://scryfall.com/card/war/1/karn-the-great-creator?utm_source=api"
+   },
+   "total_paper_printings": 10,
+   "rulings_uri": "https://api.scryfall.com/cards/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5/rulings"
   },
   {
    "name": "Library of Alexandria",
@@ -371,6 +386,23 @@
    },
    "total_paper_printings": 2,
    "rulings_uri": "https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6/rulings"
+  },
+  {
+   "name": "Mental Misstep",
+   "type_line": "Instant",
+   "mana_cost": "{U/P}",
+   "oracle_id": "1a0770e6-b093-4439-baff-6889a50ba12e",
+   "original_printing": {
+    "set": "NPH",
+    "set_name": "New Phyrexia",
+    "released_at": "2011-05-13",
+    "collector_number": "38",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1783941319",
+    "scryfall_uri": "https://scryfall.com/card/nph/38/mental-misstep?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/61e9c6df-1c84-4eab-9076-a4feb6347c10/rulings"
   },
   {
    "name": "Merchant Scroll",
@@ -507,6 +539,23 @@
    },
    "total_paper_printings": 3,
    "rulings_uri": "https://api.scryfall.com/cards/82da0972-b17b-4600-9efd-e9430a0db04b/rulings"
+  },
+  {
+   "name": "Mystic Forge",
+   "type_line": "Artifact",
+   "mana_cost": "{4}",
+   "oracle_id": "994bc16d-fdc6-475c-96df-beeb4d5aa03e",
+   "original_printing": {
+    "set": "M20",
+    "set_name": "Core Set 2020",
+    "released_at": "2019-07-12",
+    "collector_number": "233",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/2/924a24e7-91b8-4ceb-a136-7a765d98c994.jpg?1783932941",
+    "scryfall_uri": "https://scryfall.com/card/m20/233/mystic-forge?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/924a24e7-91b8-4ceb-a136-7a765d98c994/rulings"
   },
   {
    "name": "Mystical Tutor",

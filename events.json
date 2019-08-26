@@ -1632,6 +1632,49 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 42,
+   "date": "2019-08-26",
+   "date_precision": "day",
+   "effective": "2019-08-26",
+   "announced": null,
+   "era": 130,
+   "era_name": "BUG Dominant",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03",
+    "label": "London Mulligan Formally Adopted Across All Formats"
+   },
+   "actions": [
+    {
+     "card": "Golgari Grave-Troll",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Karn, the Great Creator",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mental Misstep",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Mystic Forge",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Fastbond",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
