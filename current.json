@@ -1,18 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2019-08-26",
+ "as_of": "2019-11-14",
  "as_of_precision": "day",
- "effective": "2019-08-26",
- "announced": null,
- "era": 130,
- "era_name": "BUG Dominant",
+ "effective": "2019-11-14",
+ "announced": "2019-11-18",
+ "era": 132,
+ "era_name": "The Oko Moment",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03",
-  "label": "London Mulligan Formally Adopted Across All Formats"
+  "url": "https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement",
+  "label": "Banned & Restricted List Update November 18, 2019"
  },
- "sequence": 42,
- "restricted_count": 49,
+ "sequence": 43,
+ "restricted_count": 50,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -573,6 +573,23 @@
    },
    "total_paper_printings": 11,
    "rulings_uri": "https://api.scryfall.com/cards/5d98101f-e32a-4a4a-a649-faa920d111ee/rulings"
+  },
+  {
+   "name": "Narset, Parter of Veils",
+   "type_line": "Legendary Planeswalker \u2014 Narset",
+   "mana_cost": "{1}{U}{U}",
+   "oracle_id": "ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f",
+   "original_printing": {
+    "set": "WAR",
+    "set_name": "War of the Spark",
+    "released_at": "2019-05-03",
+    "collector_number": "61",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/8/c/8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5.jpg?1783933458",
+    "scryfall_uri": "https://scryfall.com/card/war/61/narset-parter-of-veils?utm_source=api"
+   },
+   "total_paper_printings": 12,
+   "rulings_uri": "https://api.scryfall.com/cards/8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5/rulings"
   },
   {
    "name": "Necropotence",

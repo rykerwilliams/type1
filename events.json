@@ -1675,6 +1675,29 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 43,
+   "date": "2019-11-14",
+   "date_precision": "day",
+   "effective": "2019-11-14",
+   "announced": "2019-11-18",
+   "era": 132,
+   "era_name": "The Oko Moment",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update November 18, 2019"
+   },
+   "actions": [
+    {
+     "card": "Narset, Parter of Veils",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
