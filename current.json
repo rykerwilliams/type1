@@ -1,17 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2019-11-14",
+ "as_of": "2020-05-17",
  "as_of_precision": "day",
- "effective": "2019-11-14",
- "announced": "2019-11-18",
- "era": 132,
- "era_name": "The Oko Moment",
+ "effective": "2020-05-17",
+ "announced": "2020-05-18",
+ "era": 135,
+ "era_name": "Cat Scratch Fever",
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement",
-  "label": "Banned & Restricted List Update November 18, 2019"
+  "url": "https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+  "label": "Banned & Restricted List Update May 18, 2020",
+  "archived": "http://web.archive.org/web/20221015190443/https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+  "archived_at": "20221015190443"
  },
- "sequence": 43,
+ "sequence": 44,
  "restricted_count": 50,
  "restricted": [
   {
@@ -998,6 +1000,23 @@
    },
    "total_paper_printings": 4,
    "rulings_uri": "https://api.scryfall.com/cards/bfffb65d-851d-4dc9-9233-d53abf955dcd/rulings"
+  },
+  {
+   "name": "Lurrus of the Dream-Den",
+   "type_line": "Legendary Creature \u2014 Cat Nightmare",
+   "mana_cost": "{1}{W/B}{W/B}",
+   "oracle_id": "3bc757c1-3adb-4321-8832-8e1cc9e687f7",
+   "original_printing": {
+    "set": "IKO",
+    "set_name": "Ikoria: Lair of Behemoths",
+    "released_at": "2020-04-24",
+    "collector_number": "226",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1783931010",
+    "scryfall_uri": "https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api"
+   },
+   "total_paper_printings": 9,
+   "rulings_uri": "https://api.scryfall.com/cards/5ad36fb2-c44e-4085-ba0d-54277841ad3a/rulings"
   },
   {
    "name": "Rebirth",

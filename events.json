@@ -1698,6 +1698,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 44,
+   "date": "2020-05-17",
+   "date_precision": "day",
+   "effective": "2020-05-17",
+   "announced": "2020-05-18",
+   "era": 135,
+   "era_name": "Cat Scratch Fever",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update May 18, 2020",
+    "archived": "http://web.archive.org/web/20221015190443/https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+    "archived_at": "20221015190443"
+   },
+   "actions": [
+    {
+     "card": "Lurrus of the Dream-Den",
+     "action": "ban",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
