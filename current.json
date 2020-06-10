@@ -1,19 +1,14 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2020-05-17",
+ "as_of": "2020-06-10",
  "as_of_precision": "day",
- "effective": "2020-05-17",
- "announced": "2020-05-18",
- "era": 135,
- "era_name": "Cat Scratch Fever",
- "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
-  "label": "Banned & Restricted List Update May 18, 2020",
-  "archived": "http://web.archive.org/web/20221015190443/https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
-  "archived_at": "20221015190443"
- },
- "sequence": 44,
+ "effective": "2020-06-10",
+ "announced": null,
+ "era": null,
+ "era_name": null,
+ "announcement": null,
+ "sequence": 45,
  "restricted_count": 50,
  "restricted": [
   {
@@ -917,6 +912,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/92274971-7c4a-4326-b0fe-75e2d124f718/rulings"
   },
   {
+   "name": "Cleanse",
+   "type_line": "Sorcery",
+   "mana_cost": "{2}{W}{W}",
+   "oracle_id": "a610c77c-fe31-4465-a1c1-392db4ce4ed1",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "5",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/2/f/2fbd611b-ac97-4516-bad7-cc9ee4ef74f7.jpg?1783948087",
+    "scryfall_uri": "https://scryfall.com/card/leg/5/cleanse?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/2fbd611b-ac97-4516-bad7-cc9ee4ef74f7/rulings"
+  },
+  {
    "name": "Contract from Below",
    "type_line": "Sorcery",
    "mana_cost": "{B}",
@@ -932,6 +944,23 @@
    },
    "total_paper_printings": 8,
    "rulings_uri": "https://api.scryfall.com/cards/9853b0ce-4763-4877-9741-f9145a3659c6/rulings"
+  },
+  {
+   "name": "Crusade",
+   "type_line": "Enchantment",
+   "mana_cost": "{W}{W}",
+   "oracle_id": "4692740f-be90-459f-8d90-c4ae71771595",
+   "original_printing": {
+    "set": "LEA",
+    "set_name": "Limited Edition Alpha",
+    "released_at": "1993-08-05",
+    "collector_number": "16",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/0/5/057986c7-20c0-4157-b4df-beae4ef5c66d.jpg?1783948714",
+    "scryfall_uri": "https://scryfall.com/card/lea/16/crusade?utm_source=api"
+   },
+   "total_paper_printings": 14,
+   "rulings_uri": "https://api.scryfall.com/cards/057986c7-20c0-4157-b4df-beae4ef5c66d/rulings"
   },
   {
    "name": "Darkpact",
@@ -985,6 +1014,40 @@
    "rulings_uri": "https://api.scryfall.com/cards/f2b9983e-20d4-4d12-9e2c-ec6d9a345787/rulings"
   },
   {
+   "name": "Imprison",
+   "type_line": "Enchantment \u2014 Aura",
+   "mana_cost": "{B}",
+   "oracle_id": "632de66b-2314-4299-847c-16a84bf9121f",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "107",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/2/12671381-beb7-41b8-9484-97f8aca5c981.jpg?1783948065",
+    "scryfall_uri": "https://scryfall.com/card/leg/107/imprison?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/12671381-beb7-41b8-9484-97f8aca5c981/rulings"
+  },
+  {
+   "name": "Invoke Prejudice",
+   "type_line": "Enchantment",
+   "mana_cost": "{U}{U}{U}{U}",
+   "oracle_id": "854ad486-0c59-4c57-9a76-ab1dff0ff37c",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "62",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/9/0/903d9fde-d7da-4a0e-a337-b63023c6d74b.jpg?1783948074",
+    "scryfall_uri": "https://scryfall.com/card/leg/62/invoke-prejudice?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/903d9fde-d7da-4a0e-a337-b63023c6d74b/rulings"
+  },
+  {
    "name": "Jeweled Bird",
    "type_line": "Artifact",
    "mana_cost": "{1}",
@@ -1002,6 +1065,23 @@
    "rulings_uri": "https://api.scryfall.com/cards/bfffb65d-851d-4dc9-9233-d53abf955dcd/rulings"
   },
   {
+   "name": "Jihad",
+   "type_line": "Enchantment",
+   "mana_cost": "{W}{W}{W}",
+   "oracle_id": "b18b9869-8490-4875-a5bb-484c3299f2c5",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "5",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1783948394",
+    "scryfall_uri": "https://scryfall.com/card/arn/5/jihad?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/b6c7705a-2987-4ef1-92b1-2c55d989ec6f/rulings"
+  },
+  {
    "name": "Lurrus of the Dream-Den",
    "type_line": "Legendary Creature \u2014 Cat Nightmare",
    "mana_cost": "{1}{W/B}{W/B}",
@@ -1017,6 +1097,23 @@
    },
    "total_paper_printings": 9,
    "rulings_uri": "https://api.scryfall.com/cards/5ad36fb2-c44e-4085-ba0d-54277841ad3a/rulings"
+  },
+  {
+   "name": "Pradesh Gypsies",
+   "type_line": "Creature \u2014 Human Nomad",
+   "mana_cost": "{2}{G}",
+   "oracle_id": "37c49483-bef6-47c6-9354-ead8560d48da",
+   "original_printing": {
+    "set": "LEG",
+    "set_name": "Legends",
+    "released_at": "1994-06-01",
+    "collector_number": "197",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/0/3/0370330d-83d9-44d2-a1ed-c4827edc60fd.jpg?1783948046",
+    "scryfall_uri": "https://scryfall.com/card/leg/197/pradesh-gypsies?utm_source=api"
+   },
+   "total_paper_printings": 6,
+   "rulings_uri": "https://api.scryfall.com/cards/0370330d-83d9-44d2-a1ed-c4827edc60fd/rulings"
   },
   {
    "name": "Rebirth",
@@ -1051,6 +1148,23 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/0014def3-4063-4929-ac51-76aef1bb2a68/rulings"
+  },
+  {
+   "name": "Stone-Throwing Devils",
+   "type_line": "Creature \u2014 Devil",
+   "mana_cost": "{B}",
+   "oracle_id": "124c8663-21f3-4cd8-a060-9d04be35c43f",
+   "original_printing": {
+    "set": "ARN",
+    "set_name": "Arabian Nights",
+    "released_at": "1993-12-17",
+    "collector_number": "33",
+    "rarity": "common",
+    "image": "https://cards.scryfall.io/normal/front/d/1/d1c387dd-1347-4443-91ce-b71f7ccdceba.jpg?1783948385",
+    "scryfall_uri": "https://scryfall.com/card/arn/33/stone-throwing-devils?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/d1c387dd-1347-4443-91ce-b71f7ccdceba/rulings"
   },
   {
    "name": "Tempest Efreet",

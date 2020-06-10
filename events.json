@@ -1723,6 +1723,63 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 45,
+   "date": "2020-06-10",
+   "date_precision": "day",
+   "effective": "2020-06-10",
+   "announced": null,
+   "era": null,
+   "era_name": null,
+   "announcement": null,
+   "actions": [
+    {
+     "card": "Cleanse",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Crusade",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Imprison",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Invoke Prejudice",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Jihad",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Pradesh Gypsies",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    },
+    {
+     "card": "Stone-Throwing Devils",
+     "action": "ban",
+     "resolved_from": "wotc",
+     "note": "banned as a class"
+    }
+   ],
+   "sources": [
+    "https://magic.wizards.com/en/news/announcements"
+   ]
   }
  ]
 }
