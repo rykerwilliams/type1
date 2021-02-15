@@ -1,14 +1,19 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2020-06-10",
+ "as_of": "2021-02-15",
  "as_of_precision": "day",
- "effective": "2020-06-10",
- "announced": null,
- "era": null,
- "era_name": null,
- "announcement": null,
- "sequence": 45,
+ "effective": "2021-02-15",
+ "announced": "2021-02-15",
+ "era": 140,
+ "era_name": "GolosShops Rising",
+ "announcement": {
+  "url": "https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+  "label": "Banned & Restricted List Update February 15, 2021",
+  "archived": "http://web.archive.org/web/20220930012402/https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+  "archived_at": "20220930012402"
+ },
+ "sequence": 46,
  "restricted_count": 50,
  "restricted": [
   {
@@ -1080,23 +1085,6 @@
    },
    "total_paper_printings": 1,
    "rulings_uri": "https://api.scryfall.com/cards/b6c7705a-2987-4ef1-92b1-2c55d989ec6f/rulings"
-  },
-  {
-   "name": "Lurrus of the Dream-Den",
-   "type_line": "Legendary Creature \u2014 Cat Nightmare",
-   "mana_cost": "{1}{W/B}{W/B}",
-   "oracle_id": "3bc757c1-3adb-4321-8832-8e1cc9e687f7",
-   "original_printing": {
-    "set": "IKO",
-    "set_name": "Ikoria: Lair of Behemoths",
-    "released_at": "2020-04-24",
-    "collector_number": "226",
-    "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1783931010",
-    "scryfall_uri": "https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api"
-   },
-   "total_paper_printings": 9,
-   "rulings_uri": "https://api.scryfall.com/cards/5ad36fb2-c44e-4085-ba0d-54277841ad3a/rulings"
   },
   {
    "name": "Pradesh Gypsies",

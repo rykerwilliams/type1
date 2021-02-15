@@ -1780,6 +1780,31 @@
    "sources": [
     "https://magic.wizards.com/en/news/announcements"
    ]
+  },
+  {
+   "seq": 46,
+   "date": "2021-02-15",
+   "date_precision": "day",
+   "effective": "2021-02-15",
+   "announced": "2021-02-15",
+   "era": 140,
+   "era_name": "GolosShops Rising",
+   "announcement": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update February 15, 2021",
+    "archived": "http://web.archive.org/web/20220930012402/https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+    "archived_at": "20220930012402"
+   },
+   "actions": [
+    {
+     "card": "Lurrus of the Dream-Den",
+     "action": "unban",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
