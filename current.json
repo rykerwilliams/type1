@@ -1,20 +1,20 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2021-02-15",
+ "as_of": "2024-03-11",
  "as_of_precision": "day",
- "effective": "2021-02-15",
- "announced": "2021-02-15",
- "era": 140,
- "era_name": "GolosShops Rising",
+ "effective": "2024-03-11",
+ "announced": "2024-03-11",
+ "era": 162,
+ "era_name": null,
  "announcement": {
-  "url": "https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
-  "label": "Banned & Restricted List Update February 15, 2021",
-  "archived": "http://web.archive.org/web/20220930012402/https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
-  "archived_at": "20220930012402"
+  "url": "https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+  "label": "Banned & Restricted List Update March 11, 2024",
+  "archived": "http://web.archive.org/web/20260811141440/https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+  "archived_at": "20260811141440"
  },
- "sequence": 46,
- "restricted_count": 50,
+ "sequence": 47,
+ "restricted_count": 49,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -609,23 +609,6 @@
    },
    "total_paper_printings": 10,
    "rulings_uri": "https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings"
-  },
-  {
-   "name": "Ponder",
-   "type_line": "Sorcery",
-   "mana_cost": "{U}",
-   "oracle_id": "02090581-61aa-4348-ad57-451be8ee91c2",
-   "original_printing": {
-    "set": "LRW",
-    "set_name": "Lorwyn",
-    "released_at": "2007-10-12",
-    "collector_number": "79",
-    "rarity": "common",
-    "image": "https://cards.scryfall.io/normal/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.jpg?1783942899",
-    "scryfall_uri": "https://scryfall.com/card/lrw/79/ponder?utm_source=api"
-   },
-   "total_paper_printings": 31,
-   "rulings_uri": "https://api.scryfall.com/cards/ba6b6fc5-5077-4812-b8e9-906783dbaf67/rulings"
   },
   {
    "name": "Sol Ring",

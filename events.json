@@ -1805,6 +1805,31 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 47,
+   "date": "2024-03-11",
+   "date_precision": "day",
+   "effective": "2024-03-11",
+   "announced": "2024-03-11",
+   "era": 162,
+   "era_name": null,
+   "announcement": {
+    "url": "https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update March 11, 2024",
+    "archived": "http://web.archive.org/web/20260811141440/https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+    "archived_at": "20260811141440"
+   },
+   "actions": [
+    {
+     "card": "Ponder",
+     "action": "unrestrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
