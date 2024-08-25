@@ -1,20 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2024-03-11",
+ "as_of": "2024-08-25",
  "as_of_precision": "day",
- "effective": "2024-03-11",
- "announced": "2024-03-11",
- "era": 162,
+ "effective": "2024-08-25",
+ "announced": "2024-08-26",
+ "era": 168,
  "era_name": null,
  "announcement": {
-  "url": "https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
-  "label": "Banned & Restricted List Update March 11, 2024",
-  "archived": "http://web.archive.org/web/20260811141440/https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
-  "archived_at": "20260811141440"
+  "url": "https://magic.wizards.com/en/news/announcements/august-26-2024-banned-and-restricted-announcement",
+  "label": "Banned & Restricted List Update August 26, 2024"
  },
- "sequence": 47,
- "restricted_count": 49,
+ "sequence": 48,
+ "restricted_count": 51,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -779,6 +777,22 @@
    "rulings_uri": "https://api.scryfall.com/cards/d465597a-362e-4bd0-b547-f11d8807e597/rulings"
   },
   {
+   "name": "Urza's Saga",
+   "type_line": "Enchantment Land \u2014 Urza's Saga",
+   "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
+   "original_printing": {
+    "set": "PMH2",
+    "set_name": "Modern Horizons 2 Promos",
+    "released_at": "2021-05-06",
+    "collector_number": "259s",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
+    "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+   },
+   "total_paper_printings": 8,
+   "rulings_uri": "https://api.scryfall.com/cards/1cf96437-0943-40f9-b175-31a1504028ba/rulings"
+  },
+  {
    "name": "Vampiric Tutor",
    "type_line": "Instant",
    "mana_cost": "{B}",
@@ -794,6 +808,23 @@
    },
    "total_paper_printings": 14,
    "rulings_uri": "https://api.scryfall.com/cards/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d/rulings"
+  },
+  {
+   "name": "Vexing Bauble",
+   "type_line": "Artifact",
+   "mana_cost": "{1}",
+   "oracle_id": "4514777d-0589-4631-978b-ff244167c176",
+   "original_printing": {
+    "set": "MH3",
+    "set_name": "Modern Horizons 3",
+    "released_at": "2024-06-14",
+    "collector_number": "212",
+    "rarity": "uncommon",
+    "image": "https://cards.scryfall.io/normal/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1783911242",
+    "scryfall_uri": "https://scryfall.com/card/mh3/212/vexing-bauble?utm_source=api"
+   },
+   "total_paper_printings": 1,
+   "rulings_uri": "https://api.scryfall.com/cards/29f11089-658f-42e6-aeb0-09b512ad2479/rulings"
   },
   {
    "name": "Wheel of Fortune",

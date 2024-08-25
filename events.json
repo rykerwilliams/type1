@@ -1830,6 +1830,34 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 48,
+   "date": "2024-08-25",
+   "date_precision": "day",
+   "effective": "2024-08-25",
+   "announced": "2024-08-26",
+   "era": 168,
+   "era_name": null,
+   "announcement": {
+    "url": "https://magic.wizards.com/en/news/announcements/august-26-2024-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update August 26, 2024"
+   },
+   "actions": [
+    {
+     "card": "Urza's Saga",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    },
+    {
+     "card": "Vexing Bauble",
+     "action": "restrict",
+     "resolved_from": "eternalcentral"
+    }
+   ],
+   "sources": [
+    "https://www.eternalcentral.com/timeline-of-vintage/"
+   ]
   }
  ]
 }
