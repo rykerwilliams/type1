@@ -1,18 +1,18 @@
 {
  "format": "Vintage",
  "also_known_as": "Type 1",
- "as_of": "2024-08-25",
+ "as_of": "2026-08-10",
  "as_of_precision": "day",
- "effective": "2024-08-25",
- "announced": "2024-08-26",
- "era": 168,
+ "effective": "2026-08-10",
+ "announced": "2026-08-10",
+ "era": null,
  "era_name": null,
  "announcement": {
-  "url": "https://magic.wizards.com/en/news/announcements/august-26-2024-banned-and-restricted-announcement",
-  "label": "Banned & Restricted List Update August 26, 2024"
+  "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026",
+  "label": "Banned & Restricted Announcement August 10, 2026"
  },
- "sequence": 48,
- "restricted_count": 51,
+ "sequence": 49,
+ "restricted_count": 52,
  "restricted": [
   {
    "name": "Ancestral Recall",
@@ -640,6 +640,23 @@
    },
    "total_paper_printings": 17,
    "rulings_uri": "https://api.scryfall.com/cards/e7880157-7f27-4f1b-9cdc-ab36a6252376/rulings"
+  },
+  {
+   "name": "The Fantasticar",
+   "type_line": "Legendary Artifact \u2014 Vehicle",
+   "mana_cost": "{3}",
+   "oracle_id": "9b0abb58-4e2c-45dc-99b1-61a4cb79354b",
+   "original_printing": {
+    "set": "MSC",
+    "set_name": "Marvel Super Heroes Commander",
+    "released_at": "2026-06-26",
+    "collector_number": "104",
+    "rarity": "rare",
+    "image": "https://cards.scryfall.io/normal/front/e/d/ed0beb69-8441-4104-9990-81bd82f81f9a.jpg?1786399169",
+    "scryfall_uri": "https://scryfall.com/card/msc/104/the-fantasticar?utm_source=api"
+   },
+   "total_paper_printings": 2,
+   "rulings_uri": "https://api.scryfall.com/cards/ed0beb69-8441-4104-9990-81bd82f81f9a/rulings"
   },
   {
    "name": "Thorn of Amethyst",

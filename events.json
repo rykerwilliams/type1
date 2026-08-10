@@ -1858,6 +1858,29 @@
    "sources": [
     "https://www.eternalcentral.com/timeline-of-vintage/"
    ]
+  },
+  {
+   "seq": 49,
+   "date": "2026-08-10",
+   "date_precision": "day",
+   "effective": "2026-08-10",
+   "announced": "2026-08-10",
+   "era": null,
+   "era_name": null,
+   "announcement": {
+    "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026",
+    "label": "Banned & Restricted Announcement August 10, 2026"
+   },
+   "actions": [
+    {
+     "card": "The Fantasticar",
+     "action": "restrict",
+     "resolved_from": "wotc"
+    }
+   ],
+   "sources": [
+    "https://magic.wizards.com/en/news/announcements"
+   ]
   }
  ]
 }
