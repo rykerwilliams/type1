@@ -128,6 +128,7 @@ def main():
         sky = scryfall("restricted")
     except Exception as exc:                       # offline is not a failure
         print(f"skip Scryfall check ({exc})")
+        print("RESULT: skipped-scryfall")
         return bad
     miss, extra = sorted(sky - rep_r), sorted(rep_r - sky)
     if miss or extra:
@@ -135,9 +136,16 @@ def main():
         print("FAIL against Scryfall's live list:")
         for c in miss:  print("   restricted today, not produced by replay:", c)
         for c in extra: print("   replay restricts, Scryfall does not     :", c)
+        # Scryfall has no B&R history endpoint -- it publishes only the
+        # CURRENT legality of each card, with no date of change. So a
+        # divergence here is the only automatic signal that an announcement
+        # has happened: the live list no longer matches the replay.
+        print("RESULT: scryfall-mismatch")
+        print("LIKELY: a new B&R announcement, or an error in the data")
     else:
         print(f"ok   replay reproduces Scryfall's live list exactly "
               f"({len(sky)} restricted)")
+        print("RESULT: ok" if not bad else "RESULT: local-failure")
     return bad
 
 

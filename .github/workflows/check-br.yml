@@ -1,0 +1,119 @@
+name: Check for a new B&R announcement
+
+# Scryfall publishes only the CURRENT legality of each card -- there is no
+# endpoint for B&R history, no change dates, and nothing in its bulk data
+# about announcements. Wizards publishes no feed either (the old RSS URLs are
+# all 404 now).
+#
+# So the signal is divergence: this repository can replay every announcement
+# since 1994 into today's list, and script/verify.py compares that to
+# Scryfall's live list. If the two stop matching, something was announced --
+# or the data here is wrong. Either way a person needs to look.
+#
+# Announcements land on a Monday, so this runs on Tuesdays.
+
+on:
+  schedule:
+    - cron: "17 14 * * 2"     # Tuesdays, 14:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - "events.json"
+      - "current.json"
+      - "archive/**"
+      - "script/verify.py"
+  pull_request:
+    paths:
+      - "events.json"
+      - "current.json"
+      - "archive/**"
+      - "script/verify.py"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Replay the history and compare with Scryfall
+        id: verify
+        run: |
+          set +e
+          python3 script/verify.py > result.txt 2>&1
+          echo "exit=$?" >> "$GITHUB_OUTPUT"
+          cat result.txt
+          {
+            echo "verdict=$(grep -oP '(?<=^RESULT: ).*' result.txt | tail -1)"
+          } >> "$GITHUB_OUTPUT"
+          {
+            echo "## B&R check"
+            echo '```'
+            cat result.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Could not reach Scryfall
+        if: steps.verify.outputs.verdict == 'skipped-scryfall'
+        run: |
+          echo "::warning::Scryfall was unreachable, so the live-list check did not run."
+          echo "The local checks passed. Nothing is known to be wrong."
+
+      - name: Open or update an issue when the list has moved
+        if: steps.verify.outputs.verdict == 'scryfall-mismatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          body=$(mktemp)
+          {
+            echo "The replay no longer reproduces Scryfall's live Vintage list."
+            echo
+            echo "That usually means a **new B&R announcement** has landed and"
+            echo "this repository has not caught up. It can also mean the data"
+            echo "here is wrong. The difference:"
+            echo
+            echo '```'
+            cat result.txt
+            echo '```'
+            echo
+            echo "### To bring it up to date"
+            echo
+            echo "1. Find the announcement on"
+            echo "   [magic.wizards.com](https://magic.wizards.com/en/news/announcements)"
+            echo "   and note its date, its effective date, and its URL."
+            echo "2. Append the change to \`events.json\` as a new announcement,"
+            echo "   dated by when it takes **effect**, with \`announced\` set to"
+            echo "   the announcement date."
+            echo "3. Rebuild \`current.json\` and the \`archive/\` snapshot, and"
+            echo "   commit it backdated to the effective date so the history"
+            echo "   stays the timeline."
+            echo "4. \`python3 script/verify.py\` must pass all four checks."
+            echo
+            echo "_Raised automatically by \`.github/workflows/check-br.yml\`._"
+          } > "$body"
+
+          existing=$(gh issue list --state open --label br-drift \
+                       --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file "$body"
+            echo "commented on existing issue #$existing"
+          else
+            gh label create br-drift \
+              --description "The replay no longer matches Scryfall's live list" \
+              --color B60205 2>/dev/null || true
+            gh issue create --title "B&R list has moved: the replay no longer matches Scryfall" \
+                            --label br-drift --body-file "$body"
+          fi
+
+      - name: Fail the run if anything is wrong
+        if: steps.verify.outputs.exit != '0'
+        run: |
+          echo "::error::verify.py reported a problem (see the summary)."
+          exit 1
