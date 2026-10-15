@@ -1,0 +1,3305 @@
+{
+ "source": {
+  "title": "Timeline of Vintage",
+  "author": "Steve Menendian",
+  "url": "https://www.eternalcentral.com/timeline-of-vintage/",
+  "note": "Transcribed from the era chart. Facts only -- dates, card names, era names and citations. The article's prose is the author's and is not reproduced here."
+ },
+ "change_kinds": {
+  "banned_restricted": "a card was restricted, unrestricted, banned or unbanned",
+  "errata": "a card's wording was changed, which can alter the format without any B&R action",
+  "rules": "a rules or policy change, such as a mulligan rule",
+  "format": "the format itself changed -- renamed, or a set made legal",
+  "set_release": "new cards entered the pool"
+ },
+ "eras": [
+  {
+   "era": 1,
+   "range_text": "August - December 1993",
+   "start": null,
+   "start_precision": null,
+   "end": "1993-12",
+   "end_precision": "month",
+   "boundaries": "Limited Edition Alpha - Arabian Nights",
+   "name": "Wild Era",
+   "changes": "No Mandatory Banned and Restricted List, Only Alpha/Beta/Unlimited and first expansion set, Arabian Nights.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/original-magic-rulebook-2004-12-25",
+    "label": "Original Magic Rule Book",
+    "archived": "http://web.archive.org/web/20220330032154/https://magic.wizards.com/en/articles/archive/original-magic-rulebook-2004-12-25",
+    "archived_at": "20220330032154"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 2,
+   "range_text": "December 1993 - January 25, 1994",
+   "start": "1993-12",
+   "start_precision": "month",
+   "end": "1994-01-25",
+   "end_precision": "day",
+   "boundaries": "Arabian Nights - 1st B&R List Introduced",
+   "name": "Degenerate Era",
+   "changes": "First Mandatory Banned and Restricted List Announced January 26, 1994 and format dubbed \"Constructed decks.\"",
+   "citation": {
+    "url": "https://web.archive.org/web/20150609044735/http://www.wizards.com/dci/downloads/firstdcifloorrules.txt",
+    "label": "First DCI Floor Rules January 26, 1994",
+    "archived": "https://web.archive.org/web/20150609044735/http://www.wizards.com/dci/downloads/firstdcifloorrules.txt"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "format"
+   ]
+  },
+  {
+   "era": 3,
+   "range_text": "January 26 - March 4, 1994",
+   "start": "1994-01-26",
+   "start_precision": "day",
+   "end": "1994-03-04",
+   "end_precision": "day",
+   "boundaries": "1st B&R List Introduced - Antiquities",
+   "name": "Constructed Magic Begins",
+   "changes": "Orcish Oriflame & Rukh Egg unrestricted in February and issued errata.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "errata"
+   ]
+  },
+  {
+   "era": 4,
+   "range_text": "March 5 - March 23, 1994",
+   "start": "1994-03-05",
+   "start_precision": "day",
+   "end": "1994-03-23",
+   "end_precision": "day",
+   "boundaries": "Antiquities - B&R Update",
+   "name": "Antiquities Arrives",
+   "changes": "Channel, Copy Artifact, Demonic Tutor, Regrowth, and Wheel of Fortune restricted. Time Vault banned. Icy Manipulator unrestricted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 5,
+   "range_text": "March 24 - May 2, 1994",
+   "start": "1994-03-24",
+   "start_precision": "day",
+   "end": "1994-05-02",
+   "end_precision": "day",
+   "boundaries": "B&R Update - B&R Update",
+   "name": "Library of Alexandria Era",
+   "changes": "Library of Alexandria, Feldon's Cane, Ivory Tower, and Candleabra of Tawnos restricted. Bronze Tablet banned. Dingus Egg and Gauntlet of Might unrestricted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 6,
+   "range_text": "May 3 - June 10/13, 1994",
+   "start": "1994-05-03",
+   "start_precision": "day",
+   "end": "1994-06-13",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Legends; B&R Update",
+   "name": "Mind Twist Metagame",
+   "changes": "Mishra's Workshop restricted June 13, Legends legal June 10.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 7,
+   "range_text": "June 10/13 - August 1/8, 1994",
+   "start": null,
+   "start_precision": null,
+   "end": "1994-08-08",
+   "end_precision": "day",
+   "boundaries": "Legends; B&R Update - The Dark; B&R Update",
+   "name": "Creatureless Era Begins",
+   "changes": "All-land/no-land Mulligan rule adopted. Chaos Orb, Falling Star, Mind Twist, Mirror Universe, Recall, Sword of the Ages, and Underworld Dream restricted. Divine Intervention and Tempest Efreet banned. First US National Championship held at Origins July 7-10.",
+   "citation": {
+    "url": "https://groups.google.com/forum/#!msg/rec.games.deckmaster/_eDtnxy4_mQ/KWwx5bRfMdgJ",
+    "label": "Duelists' Convocation Rules Update June 13, 1994",
+    "archived": "http://web.archive.org/web/20261012110737/https://groups.google.com/forum/",
+    "archived_at": "20261012110737"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "rules"
+   ]
+  },
+  {
+   "era": 9,
+   "range_text": "August 9 - October 10, 1994",
+   "start": "1994-08-09",
+   "start_precision": "day",
+   "end": "1994-10-10",
+   "end_precision": "day",
+   "boundaries": "The Dark; B&R Update - Maze of Ith Restricted",
+   "name": "Creatureless Era Apogee",
+   "changes": "",
+   "citation": {
+    "url": "https://groups.google.com/forum/#!msg/rec.games.deckmaster/WfVDycRy4yU/OwnruW4xwFYJ",
+    "label": "Duelists' Convocation Rules Update October 10, 1994",
+    "archived": "http://web.archive.org/web/20261012110737/https://groups.google.com/forum/",
+    "archived_at": "20261012110737"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 10,
+   "range_text": "October 11 - November 1, 1994",
+   "start": "1994-10-11",
+   "start_precision": "day",
+   "end": "1994-11-01",
+   "end_precision": "day",
+   "boundaries": "Maze of Ith Restricted - Fallen Empires",
+   "name": "\"93/94\" Magic",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 11,
+   "range_text": "November 2, 1994 - April 19, 1995",
+   "start": "1994-11-02",
+   "start_precision": "day",
+   "end": "1995-04-19",
+   "end_precision": "day",
+   "boundaries": "Fallen Empires - Balance & Fork Restricted",
+   "name": "Golden Age of Type 1",
+   "changes": "\"Constructed deck\" format rebranded as \"Type 1\" on January 10, 1995.",
+   "citation": {
+    "url": "https://groups.google.com/forum/#!msg/rec.games.deckmaster/MymOFRYudwU/0FuCZ_bXMnIJ",
+    "label": "Duelists' Convocation Rules Update January 10, 1995"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "format"
+   ]
+  },
+  {
+   "era": 12,
+   "range_text": "April 20 - Early June, 1995",
+   "start": "1995-04-20",
+   "start_precision": "day",
+   "end": "1995-06-01",
+   "end_precision": "day",
+   "boundaries": "Balance & Fork Restricted - Ice Age",
+   "name": "\"The Deck\" Dominates",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Necropotence",
+    "Brainstorm",
+    "Jester's Cap",
+    "Demonic Consultation",
+    "Mystic Remora. Mana Crypt book promo redemption now possible"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 13,
+   "range_text": "June 10 - October 14, 1995",
+   "start": "1995-06-10",
+   "start_precision": "day",
+   "end": "1995-10-14",
+   "end_precision": "day",
+   "boundaries": "Ice Age - Homelands",
+   "name": "Ice Age Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Merchant Scroll"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 14,
+   "range_text": "October 15 - October 31, 1995",
+   "start": "1995-10-15",
+   "start_precision": "day",
+   "end": "1995-10-31",
+   "end_precision": "day",
+   "boundaries": "Homelands - Bannings",
+   "name": "Prelude to Bannings",
+   "changes": "Chaos Orb and Channel banned.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 15,
+   "range_text": "November 1, 1995 - January 31, 1996",
+   "start": "1995-11-01",
+   "start_precision": "day",
+   "end": "1996-01-31",
+   "end_precision": "day",
+   "boundaries": "Bannings - B&R Update",
+   "name": "Necro Winter",
+   "changes": "Mind Twist banned. Black Vise restricted.",
+   "citation": {
+    "url": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3",
+    "label": "Duelists' Convocation Rules Update January 1, 1995",
+    "archived": "https://web.archive.org/web/20140802034045/http:/oracle.wizards.com/scripts/wa.exe?A2=ind9601C&L=MTG-L&P=R6502&I=-3"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 16,
+   "range_text": "February 1 - March 31, 1996",
+   "start": "1996-02-01",
+   "start_precision": "day",
+   "end": "1996-03-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - B&R Update",
+   "name": "Type II Havoc",
+   "changes": "Ali from Cairo, Black Vise, and Sword of the Ages unresticted. Time Vault unbanned and errated.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "errata"
+   ]
+  },
+  {
+   "era": 17,
+   "range_text": "April 1, 1996 - June 9, 1996",
+   "start": "1996-04-01",
+   "start_precision": "day",
+   "end": "1996-06-09",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Alliances",
+   "name": "Late Ice Age Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Force of Will",
+    "Gorilla Shaman"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 18,
+   "range_text": "June 10 - September 30, 1996",
+   "start": "1996-06-10",
+   "start_precision": "day",
+   "end": "1996-09-30",
+   "end_precision": "day",
+   "boundaries": "Alliances - B&R Update",
+   "name": "Force of Will Era Begins",
+   "changes": "Fastbond restricted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 19,
+   "range_text": "October 1 - October 31, 1996",
+   "start": "1996-10-01",
+   "start_precision": "day",
+   "end": "1996-10-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Mirage",
+   "name": "Age of Storms",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Lion's Eye Diamond",
+    "Mystical Tutor",
+    "Flash",
+    "Phyrexian Dreadnought"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 20,
+   "range_text": "November 1, 1996 - March 4, 1997",
+   "start": "1996-11-01",
+   "start_precision": "day",
+   "end": "1997-03-04",
+   "end_precision": "day",
+   "boundaries": "Mirage - Visions",
+   "name": "Zoo Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Vampiric Tutor",
+    "Prosperity"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 21,
+   "range_text": "March 5, 1997 - June 30, 1997",
+   "start": "1997-03-05",
+   "start_precision": "day",
+   "end": "1997-06-30",
+   "end_precision": "day",
+   "boundaries": "Visions - Weatherlight; B&R Update",
+   "name": "Prosperty Combo Era",
+   "changes": "Black Vise re-restricted.",
+   "citation": null,
+   "notable_printings": [
+    "Null Rod",
+    "Ophidian",
+    "Doomsday"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 22,
+   "range_text": "July 1 - September 30, 1997",
+   "start": "1997-07-01",
+   "start_precision": "day",
+   "end": "1997-09-30",
+   "end_precision": "day",
+   "boundaries": "B&R Update - B&R Update",
+   "name": "Inquest Summer",
+   "changes": "Paris Mulligan adopted. Mishra's Workshop, Candelabra of Tawnos, Copy Artifact, Feldon's Cane, and Zuran Orb are unrestricted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "rules"
+   ]
+  },
+  {
+   "era": 23,
+   "range_text": "October 1 - 31, 1997",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "B&R Update - Tempest",
+   "name": "O'Brien School Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Wasteland",
+    "Lotus Petal"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 24,
+   "range_text": "November 1, 1997 - January 1, 1998",
+   "start": "1997-11-01",
+   "start_precision": "day",
+   "end": "1998-01-01",
+   "end_precision": "day",
+   "boundaries": "Tempest - B&R Update",
+   "name": "Blue Zoo Moment",
+   "changes": "Strip Mine restricted.",
+   "citation": {
+    "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+    "label": "Banned & Restricted List Update January 1, 1998",
+    "archived": "http://web.archive.org/web/20250814090652/https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/BSJWPznsuY8/m/f7fVggCYszIJ?pli=1",
+    "archived_at": "20250814090652"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 25,
+   "range_text": "January 1 - March 31, 1998",
+   "start": "1998-01-01",
+   "start_precision": "day",
+   "end": "1998-03-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Stronghold",
+   "name": "Green Zoo Metagame",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Mox Diamond"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 26,
+   "range_text": "April 1 - June 30, 1998",
+   "start": "1998-04-01",
+   "start_precision": "day",
+   "end": "1998-06-30",
+   "end_precision": "day",
+   "boundaries": "Stronghold - Exodus",
+   "name": "TurboZvi Arrives",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Oath of Druids",
+    "Survival of the Fittist",
+    "Sphere of Resistence"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 27,
+   "range_text": "July 1 - October 31, 1998",
+   "start": "1998-07-01",
+   "start_precision": "day",
+   "end": "1998-10-31",
+   "end_precision": "day",
+   "boundaries": "Exodus - Urza's Saga",
+   "name": "Oath Emergent",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Tolarian Academy",
+    "Windfall",
+    "Yawgmoth's Will",
+    "Smokestack",
+    "Voltaic Key",
+    "Show",
+    "Tell",
+    "Morphling"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 28,
+   "range_text": "November 1, 1998 - January 1, 1999",
+   "start": "1998-11-01",
+   "start_precision": "day",
+   "end": "1999-01-01",
+   "end_precision": "day",
+   "boundaries": "Urza's Saga - B&R Update",
+   "name": "Type 1 is Broken: Combo Rising",
+   "changes": "Tolarian Academy, Windfall, and Stroke of Genius restricted",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 29,
+   "range_text": "January 1 - February 28, 1999",
+   "start": "1999-01-01",
+   "start_precision": "day",
+   "end": "1999-02-28",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Urza's Legacy",
+   "name": "Combo Winter",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Defense Grid",
+    "Memory Jar",
+    "Grim Monolith",
+    "Goblin Welder"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 30,
+   "range_text": "March 1 - April 1, 1999",
+   "start": "1999-03-01",
+   "start_precision": "day",
+   "end": "1999-04-01",
+   "end_precision": "day",
+   "boundaries": "Urza's Legacy - B&R Update",
+   "name": "A Jarring Month",
+   "changes": "Memory Jar and Time Spiral restricted, Maze of Ith unrestricted.",
+   "citation": {
+    "url": "http://members.tripod.com/blue_midget/Gossip/banned.htm",
+    "label": "Banned & Restricted List Update March 1, 1999"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 31,
+   "range_text": "April 1 - May 31, 1999",
+   "start": "1999-04-01",
+   "start_precision": "day",
+   "end": "1999-05-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Sixth Edition Rules Update",
+   "name": "Academy Adjusts",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "rules"
+   ]
+  },
+  {
+   "era": 32,
+   "range_text": "June 1 - June 30, 1999",
+   "start": "1999-06-01",
+   "start_precision": "day",
+   "end": "1999-06-30",
+   "end_precision": "day",
+   "boundaries": "Sixth Edition Rules Update - Urza's Destiny",
+   "name": "Introducing the Stack",
+   "changes": "",
+   "citation": {
+    "url": "https://web.archive.org/web/20050301045851/https://www.wizards.com/magic/advanced/6e/6e_letter.asp",
+    "label": "Sixth Edition Rules Update",
+    "archived": "https://web.archive.org/web/20050301045851/https://www.wizards.com/magic/advanced/6e/6e_letter.asp"
+   },
+   "notable_printings": [
+    "Academy Rector",
+    "Yawgmoth's Bargain",
+    "Masticore",
+    "Metalworker"
+   ],
+   "change_kinds": [
+    "rules",
+    "set_release"
+   ]
+  },
+  {
+   "era": 33,
+   "range_text": "July 1 - September 30, 1999",
+   "start": "1999-07-01",
+   "start_precision": "day",
+   "end": "1999-09-30",
+   "end_precision": "day",
+   "boundaries": "Urza's Destiny - B&R Update",
+   "name": "Academy's Swan Song",
+   "changes": "18 cards restricted. Divine Intervention and Shahrazad unbanned. Ivory Tower, Mirror Universe, and Underworld Dreams unrestricted.",
+   "citation": {
+    "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-990901.txt",
+    "label": "Banned & Restricted List Update September 1, 1999"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 34,
+   "range_text": "October 1 - October 31, 1999",
+   "start": "1999-10-01",
+   "start_precision": "day",
+   "end": "1999-10-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Mercadian Masques",
+   "name": "Format Reset",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Misdirection",
+    "Gush",
+    "Unmask",
+    "Squee",
+    "Goblin Nabob"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 35,
+   "range_text": "November 1, 1999 - February 29, 2000",
+   "start": "1999-11-01",
+   "start_precision": "day",
+   "end": "2000-02-29",
+   "end_precision": "day",
+   "boundaries": "Mercadian Masques - Nemesis",
+   "name": "Alternative Casting Cost Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Tangle Wire",
+    "Accumulated Knowledge"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 36,
+   "range_text": "March 1 - June 31, 2000",
+   "start": "2000-03-01",
+   "start_precision": "day",
+   "end": "2000-06-31",
+   "end_precision": "day",
+   "boundaries": "Nemesis - Prophecy",
+   "name": "Trix Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 37,
+   "range_text": "July 1 - September 30, 2000",
+   "start": "2000-07-01",
+   "start_precision": "day",
+   "end": "2000-09-30",
+   "end_precision": "day",
+   "boundaries": "Prophecy - B&R Update",
+   "name": "Trix Dominant",
+   "changes": "Channel & Mind Twist Unbanned. Demonic Consultation and Necropotence restricted.",
+   "citation": {
+    "url": "http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+    "label": "Banned & Restricted List Update September 1, 2000",
+    "archived": "http://web.archive.org/web/20250823045431/http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt",
+    "archived_at": "20250823045431"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 38,
+   "range_text": "October 1 - October 31, 2000",
+   "start": "2000-10-01",
+   "start_precision": "day",
+   "end": "2000-10-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Invasion",
+   "name": "Keeper's Return",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Fact or Fiction"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 39,
+   "range_text": "November 1, 2000 - February 28, 2001",
+   "start": "2000-11-01",
+   "start_precision": "day",
+   "end": "2001-02-28",
+   "end_precision": "day",
+   "boundaries": "Invasion; B&R Update - Planeshift",
+   "name": "Keeper's Swan Song",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Quirion Dryad"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 40,
+   "range_text": "March 1, 2001 - June 30, 2001",
+   "start": "2001-03-01",
+   "start_precision": "day",
+   "end": "2001-06-30",
+   "end_precision": "day",
+   "boundaries": "Planeshift - Apocalypse",
+   "name": "Fact or Fiction Dominates",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Pernicious Deed",
+    "Fire/Ice"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 41,
+   "range_text": "July 1 - July 23, 2001",
+   "start": "2001-07-01",
+   "start_precision": "day",
+   "end": "2001-07-23",
+   "end_precision": "day",
+   "boundaries": "Apocalypse - Illusionary Mask Errata",
+   "name": "Accelerated Blue on Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "errata"
+   ]
+  },
+  {
+   "era": 42,
+   "range_text": "July 23 - October 31, 2001",
+   "start": "2001-07-23",
+   "start_precision": "day",
+   "end": "2001-10-31",
+   "end_precision": "day",
+   "boundaries": "Illusionary Mask Errata - Odyssey",
+   "name": "Fact or Fiction Dominates",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Psychatog",
+    "Standstill"
+   ],
+   "change_kinds": [
+    "errata",
+    "set_release"
+   ]
+  },
+  {
+   "era": 43,
+   "range_text": "November 1, 2001 - January 1, 2002",
+   "start": "2001-11-01",
+   "start_precision": "day",
+   "end": "2002-01-01",
+   "end_precision": "day",
+   "boundaries": "Odyssey - B&R Update",
+   "name": "The Final Chapter on Fact or Fiction",
+   "changes": "Fact or Fiction restricted.",
+   "citation": {
+    "url": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201",
+    "label": "Banned & Restricted List Update December 1, 2001",
+    "archived": "https://web.archive.org/web/20171023054948/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_1201"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 44,
+   "range_text": "January 1 - February 28, 2002",
+   "start": "2002-01-01",
+   "start_precision": "day",
+   "end": "2002-02-28",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Torment",
+   "name": "Tools 'N' Tubbies Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Basking Rootwalla",
+    "Deep Analysis"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 45,
+   "range_text": "March 1 - June 30, 2002",
+   "start": "2002-03-01",
+   "start_precision": "day",
+   "end": "2002-06-30",
+   "end_precision": "day",
+   "boundaries": "Torment - Judgment",
+   "name": "Miracle Grow Moment",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Cabal Therapy",
+    "Burning Wish",
+    "Worldgorger Dragon",
+    "Cunning Wish",
+    "Wonder",
+    "Anger",
+    "Krosan Reclamation"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 46,
+   "range_text": "July 1 - October 31, 2002",
+   "start": "2002-07-01",
+   "start_precision": "day",
+   "end": "2002-10-31",
+   "end_precision": "day",
+   "boundaries": "Judgment - Onslaught",
+   "name": "The Last Dance (Before Fetchlands)",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Polluted Delta",
+    "Flooded Strand",
+    "Bloodstained Mire",
+    "Wooded Foothills",
+    "Windswept Heath"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 47,
+   "range_text": "November 1, 2002 - February 28, 2003",
+   "start": "2002-11-01",
+   "start_precision": "day",
+   "end": "2003-02-28",
+   "end_precision": "day",
+   "boundaries": "Onslaught - Legions",
+   "name": "GrowATog Arises",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 48,
+   "range_text": "March 1 - March 31, 2003",
+   "start": "2003-03-01",
+   "start_precision": "day",
+   "end": "2003-03-31",
+   "end_precision": "day",
+   "boundaries": "Legions - B&R Update",
+   "name": "1st Gush Era",
+   "changes": "Earthcraft and Entomb restricted. Hurkyl's Recall, Berserk, and Recall unrestricted.",
+   "citation": {
+    "url": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303",
+    "label": "Banned & Restricted List Update March 1, 2003",
+    "archived": "https://web.archive.org/web/20120229232252/http://www.wizards.com/dci/main.asp?x=Banned_Restricted_List_0303"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 49,
+   "range_text": "April 1 - June 30, 2003",
+   "start": "2003-04-01",
+   "start_precision": "day",
+   "end": "2003-06-30",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Scourge; B&R Update",
+   "name": "1st Gush Era Continues",
+   "changes": "Gush and Mind's Desire restricted.",
+   "citation": {
+    "url": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a",
+    "label": "Banned & Restricted List Update June 1, 2003",
+    "archived": "https://web.archive.org/web/20060626133553/http://www.wizards.com/default.asp?x=dci/announce/dci20030529a"
+   },
+   "notable_printings": [
+    "Tendrils of Agony",
+    "Mind's Desire",
+    "Brain Freeze"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 50,
+   "range_text": "July 1 - October 19, 2003",
+   "start": "2003-07-01",
+   "start_precision": "day",
+   "end": "2003-10-19",
+   "end_precision": "day",
+   "boundaries": "Scourge; B&R Update - Mirrodin",
+   "name": "Psychatog Triumphant!",
+   "changes": "",
+   "citation": {
+    "url": "https://web.archive.org/web/20031002235227/http://www.starcitygames.com/coverage.php?Event=T1WORLDCHAMPS",
+    "label": "Vintage Champs 2003 Coverage",
+    "archived": "https://web.archive.org/web/20031002235227/http://www.starcitygames.com/coverage.php?Event=T1WORLDCHAMPS"
+   },
+   "notable_printings": [
+    "Thirst for Knolwedge",
+    "Thoughtcast",
+    "Chalice of the Void",
+    "Chrome Mox",
+    "Goblin Charbelcher",
+    "Mindslaver",
+    "Sculpting Steel"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 51,
+   "range_text": "October 20 - December 31, 2003",
+   "start": "2003-10-20",
+   "start_precision": "day",
+   "end": "2003-12-31",
+   "end_precision": "day",
+   "boundaries": "Mirrodin - B&R Update",
+   "name": "Burning Tendrils Flames Out",
+   "changes": "Lion's Eye Diamond, Burning Wish and Chrome Mox restricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01",
+    "label": "Banned & Restricted List Update December 1, 2003"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 52,
+   "range_text": "January 1 - February 19, 2004",
+   "start": "2004-01-01",
+   "start_precision": "day",
+   "end": "2004-02-19",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Darksteel",
+   "name": "Control Slaver Emerges",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Trinisphere",
+    "Arcbound Ravager",
+    "Serum Powder",
+    "Darksteel Colossus",
+    "Skullclamp"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 53,
+   "range_text": "February 20 - June 19, 2004",
+   "start": "2004-02-20",
+   "start_precision": "day",
+   "end": "2004-06-19",
+   "end_precision": "day",
+   "boundaries": "Darksteel - Fifth Dawn",
+   "name": "TriniStax Arrives",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Crucible of Worlds",
+    "Auriok Salvagers",
+    "Engineered Exposives"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 54,
+   "range_text": "June 20 - October 19, 2004",
+   "start": "2004-06-20",
+   "start_precision": "day",
+   "end": "2004-10-19",
+   "end_precision": "day",
+   "boundaries": "Fifth Dawn - B&R Update; Champions of Kamigawa",
+   "name": "The End of Type 1",
+   "changes": "\"Type 1\" is rebranded \"Vintage.\" Doomsday, Fork, Braingesyer, and Earthcraft unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+    "label": "Banned & Restricted List Update September 3, 2004",
+    "archived": "http://web.archive.org/web/20220807213330/https://magic.wizards.com/en/articles/archive/latest-developments/september-br-list-update-2003-09-03",
+    "archived_at": "20220807213330"
+   },
+   "notable_printings": [
+    "Forbidden Orchard",
+    "Gifts Ungiven",
+    "Sensei's Divining Top"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "format",
+    "set_release"
+   ]
+  },
+  {
+   "era": 55,
+   "range_text": "October 20, 2004 - February 19, 2005",
+   "start": "2004-10-20",
+   "start_precision": "day",
+   "end": "2005-02-19",
+   "end_precision": "day",
+   "boundaries": "B&R Update; Champions of Kamigawa - B&R Update; Betrayers of Kamigawa",
+   "name": "Oath on Top",
+   "changes": "Stroke of Genius unrestricted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 56,
+   "range_text": "February 20 - March 19, 2005",
+   "start": "2005-02-20",
+   "start_precision": "day",
+   "end": "2005-03-19",
+   "end_precision": "day",
+   "boundaries": "B&R Update; Betrayers of Kamigawa - B&R Update",
+   "name": "Trinisphere's Last Stand",
+   "changes": "In addition to Trinisphere's restriction, it is announced that Imperial Seal and Personal tutor will be restricted 6 months later, and that Portal, Portal Second Age, Portal Three Kingdoms, and Starter (1999 and 2000) will become legal for sanctioned play in the Vintage.",
+   "citation": {
+    "url": "http://www.wizards.com/default.asp?x=dci/announce/dci20050301a",
+    "label": "Banned & Restricted List Update March 1, 2005"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "format"
+   ]
+  },
+  {
+   "era": 57,
+   "range_text": "March 20 - June 19, 2005",
+   "start": "2005-03-20",
+   "start_precision": "day",
+   "end": "2005-06-19",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Saviors of Kamigawa",
+   "name": "Gifts on the Rise",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Pithing Needle",
+    "Kataki War's Wage"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 58,
+   "range_text": "June 20 - October 19, 2005",
+   "start": "2005-06-20",
+   "start_precision": "day",
+   "end": "2005-10-19",
+   "end_precision": "day",
+   "boundaries": "Saviors of Kamigawa - Ravnica, Portal, Starter; B&R Update",
+   "name": "Meandeck Gifts",
+   "changes": "Portal and Starter sets legalized in Vintage. Imperial Seal and Personal Tutor restricted. Mind Over Matter unrestricted.",
+   "citation": {
+    "url": "http://www.wizards.com/default.asp?x=dci/announce/dci20050901a",
+    "label": "Banned & Restricted List Update September 1, 2005"
+   },
+   "notable_printings": [
+    "Dredge mechanic",
+    "Golgari Grave-Troll",
+    "Stinkweed Imp",
+    "Dark Confidant. Legendary rules change"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "format",
+    "set_release"
+   ]
+  },
+  {
+   "era": 59,
+   "range_text": "October 20, 2005 - February 19, 2006",
+   "start": "2005-10-20",
+   "start_precision": "day",
+   "end": "2006-02-19",
+   "end_precision": "day",
+   "boundaries": "Ravnica, Portal, Starter; B&R Update - Guildpact",
+   "name": "The Most Diverse Vintage Format Ever?",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Leyline of the Void",
+    "Shattering Spree",
+    "Repeal"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 60,
+   "range_text": "February 20 - April 20, 2006",
+   "start": "2006-02-20",
+   "start_precision": "day",
+   "end": "2006-04-20",
+   "end_precision": "day",
+   "boundaries": "Guildpact - Time Vault Errata",
+   "name": "Dredge Emerges",
+   "changes": "Time Vault receives errata, neutering combination with Flame Fusillade.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/ask-wizards-april-2006-2006-04-03",
+    "label": "Ask Wizards April 2006 With Time Vault Discussion"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "errata"
+   ]
+  },
+  {
+   "era": 61,
+   "range_text": "April 21 - May 19, 2006",
+   "start": "2006-04-21",
+   "start_precision": "day",
+   "end": "2006-05-19",
+   "end_precision": "day",
+   "boundaries": "Time Vault Errata - Dissension",
+   "name": "Time Vault Wars",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Trygon Predator",
+    "Spell Snare",
+    "Research/Development"
+   ],
+   "change_kinds": [
+    "errata",
+    "set_release"
+   ]
+  },
+  {
+   "era": 62,
+   "range_text": "May 20 - July 13, 2006",
+   "start": "2006-05-20",
+   "start_precision": "day",
+   "end": "2006-07-13",
+   "end_precision": "day",
+   "boundaries": "Dissension - Power Level Errata Policy Change",
+   "name": "Pitch Long Emerges",
+   "changes": "Wizards Announces Policy Change, and Removal of Power-Level Errata.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/power-level-errata-b-gone-2006-07-14",
+    "label": "Power Level Errata B Gone",
+    "archived": "http://web.archive.org/web/20220518122601/https://magic.wizards.com/en/articles/archive/latest-developments/power-level-errata-b-gone-2006-07-14",
+    "archived_at": "20220518122601"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "errata",
+    "rules"
+   ]
+  },
+  {
+   "era": 63,
+   "range_text": "July 14 - Aug 19, 2006",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Power Level Errata Policy Change - Coldsnap",
+   "name": "Meandeck Gifts & Pitch Long Metagame",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Dark Depths",
+    "Counterbalance"
+   ],
+   "change_kinds": [
+    "errata",
+    "rules",
+    "set_release"
+   ]
+  },
+  {
+   "era": 64,
+   "range_text": "August 20 - October 19, 2006",
+   "start": "2006-08-20",
+   "start_precision": "day",
+   "end": "2006-10-19",
+   "end_precision": "day",
+   "boundaries": "Coldsnap - Time Spiral",
+   "name": "Meandeck Gifts Triumphant",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/events/coverage/2006-vintage-championship-c-c-combos-acomin",
+    "label": "Vintage Championship 2006 Coverage"
+   },
+   "notable_printings": [
+    "Ancient Grudge",
+    "Empty the Warrens",
+    "Dread Return",
+    "Sudden Shock"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 65,
+   "range_text": "October 20, 2006 - February 19, 2007",
+   "start": "2006-10-20",
+   "start_precision": "day",
+   "end": "2007-02-19",
+   "end_precision": "day",
+   "boundaries": "Time Spiral - Planar Chaos",
+   "name": "Manaless Dredge Arrives",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Simian Spirit Guide",
+    "Urborg",
+    "Tomb of Yawgmoth",
+    "Extirpate"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 66,
+   "range_text": "February 20 - May 19, 2007",
+   "start": "2007-02-20",
+   "start_precision": "day",
+   "end": "2007-05-19",
+   "end_precision": "day",
+   "boundaries": "Planar Chaos - Future Sight; B&R Update",
+   "name": "The Mean Deck Metagame",
+   "changes": "Flash is issued errata with the Oracle update for Future Sight (5/15/2007).",
+   "citation": {
+    "url": "https://www.yawgatog.com/resources/oracle-changes/plc-fut/",
+    "label": "Magic Oracle Changes",
+    "archived": "http://web.archive.org/web/20251129123128/https://yawgatog.com/resources/oracle-changes/plc-fut/",
+    "archived_at": "20251129123128"
+   },
+   "notable_printings": [
+    "Narcomoeba",
+    "Bridge From Below",
+    "Pact of Negation",
+    "Street Wraith",
+    "Yixlid Jailer",
+    "Tarmogoyf",
+    "Summoner's Pact",
+    "Dakmor Salvage",
+    "Dryad Arbor"
+   ],
+   "change_kinds": [
+    "errata",
+    "set_release"
+   ]
+  },
+  {
+   "era": 67,
+   "range_text": "May 20 - June 19, 2007",
+   "start": "2007-05-20",
+   "start_precision": "day",
+   "end": "2007-06-19",
+   "end_precision": "day",
+   "boundaries": "Future Sight; B&R Update - B&R Update",
+   "name": "Flash Breaks Out",
+   "changes": "Gifts Ungiven Restricted. Gush, Black Vise, Mind Twist, and Voltaic Key unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+    "label": "Banned & Restricted List Update June 1, 2007",
+    "archived": "http://web.archive.org/web/20220626121913/https://magic.wizards.com/en/articles/archive/latest-developments/gone-flash-2007-06-01",
+    "archived_at": "20220626121913"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 68,
+   "range_text": "June 20 - October 19, 2007",
+   "start": "2007-06-20",
+   "start_precision": "day",
+   "end": "2007-10-19",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Lorwyn",
+   "name": "2nd Gush Era Begins",
+   "changes": "Shahrazad banned in September.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+    "label": "Vintage Champs 2007 Coverage",
+    "archived": "http://web.archive.org/web/20220122080155/https://magic.wizards.com/en/articles/archive/week-was/eternals-2007-08-31",
+    "archived_at": "20220122080155"
+   },
+   "notable_printings": [
+    "Thorn of Amythyst",
+    "Ponder",
+    "Ingot Chewer",
+    "Gaddock Teeg",
+    "Thoughtseize"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 69,
+   "range_text": "October 20, 2007 - January 31, 2008",
+   "start": "2007-10-20",
+   "start_precision": "day",
+   "end": "2008-01-31",
+   "end_precision": "day",
+   "boundaries": "Lorwyn - Morningtide",
+   "name": "Ravager MUD Bashes Vintage",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Reveillark"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 70,
+   "range_text": "February 1 - May 1, 2008",
+   "start": "2008-02-01",
+   "start_precision": "day",
+   "end": "2008-05-01",
+   "end_precision": "day",
+   "boundaries": "Morningtide - Shadowmoor",
+   "name": "Flash Spooks Vintage",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Painter's Servant"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 71,
+   "range_text": "May 2 - June 19, 2008",
+   "start": "2008-05-02",
+   "start_precision": "day",
+   "end": "2008-06-19",
+   "end_precision": "day",
+   "boundaries": "Shadowmoor - B&R Update",
+   "name": "End of the 2nd Gush Era",
+   "changes": "Brainstorm, Gush, Merchant Scroll, Flash and Ponder restricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/why-are-dual-lands-usually-allied-colored-2008-06-13",
+    "label": "Banned & Restricted List Update June 13, 2008"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 72,
+   "range_text": "June 20 - July 24, 2008",
+   "start": "2008-06-20",
+   "start_precision": "day",
+   "end": "2008-07-24",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Eventide",
+   "name": "TPS on Top",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/event-coverage/feature-vintage-championship-top-8-coverage-2008-07-14",
+    "label": "Vintage Championship 2008 Coverage",
+    "archived": "http://web.archive.org/web/20211024225112/https://magic.wizards.com/en/articles/archive/event-coverage/feature-vintage-championship-top-8-coverage-2008-07-14",
+    "archived_at": "20211024225112"
+   },
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 73,
+   "range_text": "July 25 - October 1, 2008",
+   "start": "2008-07-25",
+   "start_precision": "day",
+   "end": "2008-10-01",
+   "end_precision": "day",
+   "boundaries": "Eventide - Shards of Alara; Time Vault Errata; B&R Update",
+   "name": "The Storm Before the Tezzeret",
+   "changes": "Time Vault errataed and restored to its original ruled functionality. Chrome Mox, Dream Halls, Mox Diamond, Personal Tutor, Time Spiral unrestricted. Time Vault restricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+    "label": "Banned & Restricted List Update September 24, 2008",
+    "archived": "http://web.archive.org/web/20220128155037/https://magic.wizards.com/en/articles/archive/news/september-2008-update-bulletin-2008-09-24",
+    "archived_at": "20220128155037"
+   },
+   "notable_printings": [
+    "Tezzeret the Seeker",
+    "Ad Nauseum",
+    "Relic of Progenitus",
+    "Ethersworn Canonist"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "errata",
+    "set_release"
+   ]
+  },
+  {
+   "era": 74,
+   "range_text": "October 2, 2008 - February 2, 2009",
+   "start": "2008-10-02",
+   "start_precision": "day",
+   "end": "2009-02-02",
+   "end_precision": "day",
+   "boundaries": "Shards of Alara; Time Vault Errata; B&R Update - Conflux",
+   "name": "Tezzerett Rises",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Inkwell Leviathan",
+    "Noble Hierarch"
+   ],
+   "change_kinds": [
+    "errata",
+    "set_release"
+   ]
+  },
+  {
+   "era": 75,
+   "range_text": "February 3 - April 30, 2009",
+   "start": "2009-02-03",
+   "start_precision": "day",
+   "end": "2009-04-30",
+   "end_precision": "day",
+   "boundaries": "Conflux - Alara Reborn",
+   "name": "Tezzeret Dominates",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Sphinx of the Steel Wind",
+    "Qasali Pridemage"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 76,
+   "range_text": "May 1 - June 18, 2009",
+   "start": "2009-05-01",
+   "start_precision": "day",
+   "end": "2009-06-18",
+   "end_precision": "day",
+   "boundaries": "Alara Reborn - B&R Update",
+   "name": "Tezzeret's Final Straw",
+   "changes": "Thirst for Knowledge restricted. Crop Rotation, Enlightened Tutor, Entomb, and Grim Monolith unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/latest-developments/crafting-vintage-2009-06-26",
+    "label": "Crafting a Vintage"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 77,
+   "range_text": "June 19 - July 10, 2009",
+   "start": "2009-06-19",
+   "start_precision": "day",
+   "end": "2009-07-10",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Magic 2010 Rules Change",
+   "name": "Confidant Tezzeret Era",
+   "changes": "Magic 2010 Rules Changes neuter many Vintage cards, like Research/Development and Wish cycle.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/magic-2010-rules-changes-2009-06-10",
+    "label": "Magic 2010 Rules Changes"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "rules",
+    "format"
+   ]
+  },
+  {
+   "era": 78,
+   "range_text": "July 11 - October 1, 2009",
+   "start": "2009-07-11",
+   "start_precision": "day",
+   "end": "2009-10-01",
+   "end_precision": "day",
+   "boundaries": "M10 Rules - Zendikar",
+   "name": "Vintage Champs - Ito Victorious!",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Enemy Fetchlands",
+    "Mindbreak Trap",
+    "Spell Pierce",
+    "Ravenous Trap",
+    "Iona Shield of Emeria",
+    "Bloodghast",
+    "Vampire Hexmage",
+    "Lotus Cobra"
+   ],
+   "change_kinds": [
+    "rules",
+    "set_release"
+   ]
+  },
+  {
+   "era": 79,
+   "range_text": "October 2, 2009 - February 4, 2010",
+   "start": "2009-10-02",
+   "start_precision": "day",
+   "end": "2010-02-04",
+   "end_precision": "day",
+   "boundaries": "Zendikar - Worldwake",
+   "name": "Zendikar's Priceless Treasures",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Lodestone Golem",
+    "Jace",
+    "The Mind Sculptor",
+    "Eye of Ugin"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 80,
+   "range_text": "February 5 - April 22, 2010",
+   "start": "2010-02-05",
+   "start_precision": "day",
+   "end": "2010-04-22",
+   "end_precision": "day",
+   "boundaries": "Worldwake - Rise of the Eldrazi",
+   "name": "Lodestone & Jace Era begins",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Eldrazi Temple",
+    "Emrakul the Aeons Torn"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 81,
+   "range_text": "April 23 - July 16, 2010",
+   "start": "2010-04-23",
+   "start_precision": "day",
+   "end": "2010-07-16",
+   "end_precision": "day",
+   "boundaries": "Rise of the Eldrazi - Magic 2011",
+   "name": "Jace Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Preordain",
+    "Leyline of Sanctity",
+    "Inferno Titan"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 82,
+   "range_text": "July 17 - September 30, 2010",
+   "start": "2010-07-17",
+   "start_precision": "day",
+   "end": "2010-09-30",
+   "end_precision": "day",
+   "boundaries": "Magic 2011 - Scars of Mirrodin; B&R Update",
+   "name": "Jace Controls Format",
+   "changes": "Gush and Frantic Search unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20",
+    "label": "Banned & Restricted List Update September 20, 2010"
+   },
+   "notable_printings": [
+    "Mox Opal",
+    "Rachet Bomb",
+    "Nihil Spellbomb",
+    "Memnite",
+    "Steel Hellkite",
+    "Myr Battlesphere",
+    "Kuldotha Forgemaster",
+    "Wurmcoil Engine",
+    "Precursor Golem"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 83,
+   "range_text": "October 1, 2010-February 3, 2011",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Scars of Mirrodin; B&R Update - Mirrodin Besieged",
+   "name": "Dredge Triumphant; 3rd Gush Era Begins",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Blightsteel Colossus",
+    "Phyrexian Revoker",
+    "Green Sun's Zenith"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 84,
+   "range_text": "February 4 - May 12, 2011",
+   "start": "2011-02-04",
+   "start_precision": "day",
+   "end": "2011-05-12",
+   "end_precision": "day",
+   "boundaries": "Mirrodin Besieged - New Phyrexia",
+   "name": "Kuldotha MUD Smashes Vintage",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Gitaxian Probe",
+    "Mental Misstep",
+    "Surgical Extraction",
+    "Dismember",
+    "Phyrexian Metamorph"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 85,
+   "range_text": "May 13 - June 17, 2011",
+   "start": "2011-05-13",
+   "start_precision": "day",
+   "end": "2011-06-17",
+   "end_precision": "day",
+   "boundaries": "New Phyrexia - Commander",
+   "name": "Phyrexian Mana & TurboTezzeret",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Flusterstorm",
+    "Scavenging Ooze"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 86,
+   "range_text": "June 18 - July 14, 2011",
+   "start": "2011-06-18",
+   "start_precision": "day",
+   "end": "2011-07-14",
+   "end_precision": "day",
+   "boundaries": "Commander - Magic 2012",
+   "name": "East Coast Wins",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 87,
+   "range_text": "July 15 - September 29/30, 2011",
+   "start": "2011-07-15",
+   "start_precision": "day",
+   "end": "2011-09-30",
+   "end_precision": "day",
+   "boundaries": "Magic 2012 - Innistrad; B&R Update",
+   "name": "Grudging the Metagame",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20",
+    "label": "Banned & Restricted List Update September 20, 2011"
+   },
+   "notable_printings": [
+    "Snapcaster Mage",
+    "Delver of Secrets",
+    "Stony Silence",
+    "Laboratory Maniac. Fact or Fiction unrestricted"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 88,
+   "range_text": "October 1, 2011 - February 2, 2012",
+   "start": "2011-10-01",
+   "start_precision": "day",
+   "end": "2012-02-02",
+   "end_precision": "day",
+   "boundaries": "Innistrad; B&R Update - Dark Ascension",
+   "name": "Innistrad Arrives",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Grafdigger's Cage",
+    "Thalia",
+    "Guardian of Thraben"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 89,
+   "range_text": "February 3 - May 3, 2012",
+   "start": "2012-02-03",
+   "start_precision": "day",
+   "end": "2012-05-03",
+   "end_precision": "day",
+   "boundaries": "Dark Ascension - Avacyn Restored",
+   "name": "\"Noble\" Vintage",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Cavern of Souls",
+    "Griselbrand"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 90,
+   "range_text": "May 4 - May 31, 2012",
+   "start": "2012-05-04",
+   "start_precision": "day",
+   "end": "2012-05-31",
+   "end_precision": "day",
+   "boundaries": "Avacyn Restored - Planechase 2012",
+   "name": "Griselbrand Oath Arrives",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Baleful Strix"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 91,
+   "range_text": "June 1 - July 12, 2012",
+   "start": "2012-06-01",
+   "start_precision": "day",
+   "end": "2012-07-12",
+   "end_precision": "day",
+   "boundaries": "Planechase 2012 - Magic 2013",
+   "name": "Baleful Control Eeks it Out",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Omniscience"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 92,
+   "range_text": "July 13 - September 30/October 4, 2012",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Magic 2013 - Return to Ravnica; B&R Update",
+   "name": "RUG Xerox Emerges",
+   "changes": "",
+   "citation": {
+    "url": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a",
+    "label": "Banned & Restricted List Update September 20, 2012",
+    "archived": "https://web.archive.org/web/20120921122107/http:/www.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/other/09202012a"
+   },
+   "notable_printings": [
+    "Deathrite Shaman",
+    "Abrupt Decay",
+    "Rest in Peace",
+    "Niv-Mizzet",
+    "Supreme Verdict. Burning Wish unrestricted"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 93,
+   "range_text": "October 5, 2012 - January 31, 2013",
+   "start": "2012-10-05",
+   "start_precision": "day",
+   "end": "2013-01-31",
+   "end_precision": "day",
+   "boundaries": "Return to Ravnica; B&R Update - Gatecrash",
+   "name": "Grixis Snapcaster Control On Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Thespian's Stage"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 94,
+   "range_text": "February 1 - May 2, 2013",
+   "start": "2013-02-01",
+   "start_precision": "day",
+   "end": "2013-05-02",
+   "end_precision": "day",
+   "boundaries": "Gatecrash - Dragon's Maze; B&R Update",
+   "name": "The Burning Oath Moment",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+    "label": "Banned & Restricted List Update April 22, 2013",
+    "archived": "http://web.archive.org/web/20220627021802/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0",
+    "archived_at": "20220627021802"
+   },
+   "notable_printings": [
+    "Notion Thief",
+    "Wear/Tear. Regrowth is unrestricted"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 95,
+   "range_text": "May 3 - July 12, 2013",
+   "start": "2013-05-03",
+   "start_precision": "day",
+   "end": "2013-07-12",
+   "end_precision": "day",
+   "boundaries": "Dragon's Maze; B&R Update - Magic 2014",
+   "name": "BUG Control Answers Workshops",
+   "changes": "",
+   "citation": {
+    "url": "http://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23",
+    "label": "Magic 2014 Rules Changes"
+   },
+   "notable_printings": [
+    "Young Pyromancer. Legend rule change"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 96,
+   "range_text": "July 13 - September 26, 2013",
+   "start": "2013-07-13",
+   "start_precision": "day",
+   "end": "2013-09-26",
+   "end_precision": "day",
+   "boundaries": "Magic 2014 - Theros",
+   "name": "Pyromancer Xerox Emerges",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Ashen Rider"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 97,
+   "range_text": "September 27 - October 21, 2013",
+   "start": "2013-09-27",
+   "start_precision": "day",
+   "end": "2013-10-21",
+   "end_precision": "day",
+   "boundaries": "Theros - Commander 2013",
+   "name": "GrowAMancer Clips Vintage",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Toxic Deluge",
+    "True-Name Nemesis"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 98,
+   "range_text": "Novembe 1, 2013 - February 6, 2014",
+   "start": null,
+   "start_precision": null,
+   "end": "2014-02-06",
+   "end_precision": "day",
+   "boundaries": "Commander 2013 - Born of the Gods",
+   "name": "Merfolk Wins",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/content/2013-vintage-championship",
+    "label": "Vintage Champs 2013 Coverage"
+   },
+   "notable_printings": [
+    "Spirit of the Labyrinth"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 99,
+   "range_text": "February 7 - May 1, 2014",
+   "start": "2014-02-07",
+   "start_precision": "day",
+   "end": "2014-05-01",
+   "end_precision": "day",
+   "boundaries": "Born of the Gods - Journey into Nyx",
+   "name": "Delver Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Mana Confluence"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 100,
+   "range_text": "May 2 - June 5, 2014",
+   "start": "2014-05-02",
+   "start_precision": "day",
+   "end": "2014-06-05",
+   "end_precision": "day",
+   "boundaries": "Journey into Nyx - Conspiracy",
+   "name": "Delver On Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Dack Fayden"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 101,
+   "range_text": "June 6 - July 17, 2014",
+   "start": "2014-06-06",
+   "start_precision": "day",
+   "end": "2014-07-17",
+   "end_precision": "day",
+   "boundaries": "Conspiracy - Magic 2015",
+   "name": "Dack Changes Metagame",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 102,
+   "range_text": "July 18 - September 25, 2014",
+   "start": "2014-07-18",
+   "start_precision": "day",
+   "end": "2014-09-25",
+   "end_precision": "day",
+   "boundaries": "Magic 2015 - Khans of Tarkir",
+   "name": "Calm Before Khans",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Treasure Cruise",
+    "Dig Through Time"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 103,
+   "range_text": "September 26 - November 6, 2014",
+   "start": "2014-09-26",
+   "start_precision": "day",
+   "end": "2014-11-06",
+   "end_precision": "day",
+   "boundaries": "Khans of Tarkir - Commander 2014",
+   "name": "Delver Dominates",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Containment Priest"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 104,
+   "range_text": "November 7, 2014 - January 22, 2015",
+   "start": "2014-11-07",
+   "start_precision": "day",
+   "end": "2015-01-22",
+   "end_precision": "day",
+   "boundaries": "Commander 2014 - Fate Reforged; B&R Update",
+   "name": "Delver Dominates",
+   "changes": "Treasure Cruise Restricted, Gifts Ungiven Unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+    "label": "Banned & Restricted List Update January 19, 2015",
+    "archived": "http://web.archive.org/web/20220916145813/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19",
+    "archived_at": "20220916145813"
+   },
+   "notable_printings": [
+    "Monastery Mentor"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 105,
+   "range_text": "January 23 - March 26, 2015",
+   "start": "2015-01-23",
+   "start_precision": "day",
+   "end": "2015-03-26",
+   "end_precision": "day",
+   "boundaries": "Fate Reforged; B&R Update - Dragons of Tarkir",
+   "name": "Mentor Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Dragonlord Dromoka"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 106,
+   "range_text": "March 27 - July 16, 2015",
+   "start": "2015-03-27",
+   "start_precision": "day",
+   "end": "2015-07-16",
+   "end_precision": "day",
+   "boundaries": "Dragons of Tarkir - Magic Origins",
+   "name": "Grixis Therapy Moment",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Jace",
+    "Vryn's Prodigy",
+    "Dark Petition",
+    "Hangarback Walker"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 107,
+   "range_text": "July 17 - October 1, 2015",
+   "start": "2015-07-17",
+   "start_precision": "day",
+   "end": "2015-10-01",
+   "end_precision": "day",
+   "boundaries": "Magic Origins - Battle for Zendikar; B&R Update",
+   "name": "Hangarback Shops Arrive",
+   "changes": "Chalice of the Void, Dig Through Time restricted. Thirst for Knowledge unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+    "label": "Banned & Restricted List Update September 28, 2015",
+    "archived": "http://web.archive.org/web/20221110044044/https://magic.wizards.com/en/articles/archive/news/september-28-2015-banned-and-restricted-announcement-2015-09-28",
+    "archived_at": "20221110044044"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 108,
+   "range_text": "October 2 - November 12, 2015",
+   "start": "2015-10-02",
+   "start_precision": "day",
+   "end": "2015-11-12",
+   "end_precision": "day",
+   "boundaries": "Battle for Zendikar; B&R Update - Commander 2015",
+   "name": "The Magic Online Power Nine Challenge Begins",
+   "changes": "Vancouver Mulligan adopted.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "rules"
+   ]
+  },
+  {
+   "era": 109,
+   "range_text": "November 13, 2015 - January 21, 2016",
+   "start": "2015-11-13",
+   "start_precision": "day",
+   "end": "2016-01-21",
+   "end_precision": "day",
+   "boundaries": "Commander 2015 - Oath of the Gatewatch",
+   "name": "DPS Moment",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Thought-Knot Seer",
+    "Reality Smasher",
+    "Eldrazi Displacer"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 110,
+   "range_text": "January 22 - April 7, 2016",
+   "start": "2016-01-22",
+   "start_precision": "day",
+   "end": "2016-04-07",
+   "end_precision": "day",
+   "boundaries": "Oath of the Gatewatch - Shadows over Innistrad; B&R Update",
+   "name": "Inferno Oath Era",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
+    "label": "Banned & Restricted List Update April 4, 2016",
+    "archived": "http://web.archive.org/web/20220630233946/https://magic.wizards.com/en/articles/archive/news/banned-and-restricted-announcement-2016-04-04",
+    "archived_at": "20220630233946"
+   },
+   "notable_printings": [
+    "Prized Amalgam. Lodestone Golem restricted"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 111,
+   "range_text": "April 8 - July 21, 2016",
+   "start": "2016-04-08",
+   "start_precision": "day",
+   "end": "2016-07-21",
+   "end_precision": "day",
+   "boundaries": "Shadows Over Innistrad; B&R Update - Eldritch Moon",
+   "name": "Gush Dominates; Eldrazi Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Thalia",
+    "Heretic Cathar"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 112,
+   "range_text": "July 22 - August 25, 2016",
+   "start": "2016-07-22",
+   "start_precision": "day",
+   "end": "2016-08-25",
+   "end_precision": "day",
+   "boundaries": "Eldritch Moon - Conspiracy: Take the Crown",
+   "name": "Eldrazi and Jeskai Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Leovold",
+    "Emisarry of Trest"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 113,
+   "range_text": "August 26 - September 29, 2016",
+   "start": "2016-08-26",
+   "start_precision": "day",
+   "end": "2016-09-29",
+   "end_precision": "day",
+   "boundaries": "Conspiracy: Take the Crown - Kaladesh",
+   "name": "Mentor Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Paradoxical Outcome",
+    "Fragmentize",
+    "Foundry Inspector"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 114,
+   "range_text": "September 30 - November 10, 2016",
+   "start": "2016-09-30",
+   "start_precision": "day",
+   "end": "2016-11-10",
+   "end_precision": "day",
+   "boundaries": "Kaladesh - Commander 2016",
+   "name": "Mentor Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 115,
+   "range_text": "November 11, 2016 - January 19, 2017",
+   "start": "2016-11-11",
+   "start_precision": "day",
+   "end": "2017-01-19",
+   "end_precision": "day",
+   "boundaries": "Commander 2016 - Aether Revolt",
+   "name": "Mentor Era",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Walking Ballista"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 116,
+   "range_text": "January 20 - April 24/27 2017",
+   "start": "2017-01-20",
+   "start_precision": "day",
+   "end": "2017-04-27",
+   "end_precision": "day",
+   "boundaries": "Aether Revolt - Amonkhet; B&R Update",
+   "name": "Gush Swan Song",
+   "changes": "Gush and Gitaxian Probe restricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/april-24-2017-banned-and-restricted-announcement-2017-04-24",
+    "label": "Banned & Restricted List Update April 24, 2017"
+   },
+   "notable_printings": [
+    "By Force"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 117,
+   "range_text": "April 28 - July 13, 2017",
+   "start": "2017-04-28",
+   "start_precision": "day",
+   "end": "2017-07-13",
+   "end_precision": "day",
+   "boundaries": "Amonkhet; B&R Update - Hour of Devastation",
+   "name": "Mentor and Workshops Dominate",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Hollow One",
+    "Ramunap Excavator",
+    "Abrade"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 118,
+   "range_text": "July 14 - August 24/28, 2017",
+   "start": "2017-07-14",
+   "start_precision": "day",
+   "end": "2017-08-28",
+   "end_precision": "day",
+   "boundaries": "Hour of Devastation - Commander 2017; B&R Update",
+   "name": "Mentor and Workshops Duopoly",
+   "changes": "Thorn of Amethyst and Monastery Mentor restricted. Yawgmoth's Bargain unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+    "label": "Banned & Restricted List Update August 28, 2017",
+    "archived": "http://web.archive.org/web/20220128030717/https://magic.wizards.com/en/articles/archive/august-28-2017-banned-and-restricted-announcement-2017-08-28",
+    "archived_at": "20220128030717"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 119,
+   "range_text": "August 25 - September 28, 2017",
+   "start": "2017-08-25",
+   "start_precision": "day",
+   "end": "2017-09-28",
+   "end_precision": "day",
+   "boundaries": "Commander 2017; B&R Update - Ixalan",
+   "name": "Transition",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Sorcerous Spyglass"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 120,
+   "range_text": "September 29, 2017 - January 18, 2018",
+   "start": "2017-09-29",
+   "start_precision": "day",
+   "end": "2018-01-18",
+   "end_precision": "day",
+   "boundaries": "Ixalan - Rivals of Ixalan",
+   "name": "Workshops & Oath Metagame",
+   "changes": "5 Workshop + 3 Oath decks in Top 8 at NA Vintage Champs. Planeswalker rule change.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/ixalan-update-bulletin-2017-09-28",
+    "label": "Ixalan Rules Update Bulletin",
+    "archived": "http://web.archive.org/web/20221104052543/https://magic.wizards.com/en/articles/archive/news/ixalan-update-bulletin-2017-09-28",
+    "archived_at": "20221104052543"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "rules",
+    "format"
+   ]
+  },
+  {
+   "era": 121,
+   "range_text": "January 19 - April 26, 2018",
+   "start": "2018-01-19",
+   "start_precision": "day",
+   "end": "2018-04-26",
+   "end_precision": "day",
+   "boundaries": "Rivals of Ixalan - Dominaria",
+   "name": "Big Three Era: Outcome, Workshops, and Turbo Xerox",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Karn",
+    "Scion of Urza"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 122,
+   "range_text": "April 27 - June 7, 2018",
+   "start": "2018-04-27",
+   "start_precision": "day",
+   "end": "2018-06-07",
+   "end_precision": "day",
+   "boundaries": "Dominaria - Battlebond",
+   "name": "Dredge's Big Month",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 123,
+   "range_text": "June 8 - July 12, 2018",
+   "start": "2018-06-08",
+   "start_precision": "day",
+   "end": "2018-07-12",
+   "end_precision": "day",
+   "boundaries": "Battlebond - Magic 2019",
+   "name": "A Month of Balance",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 124,
+   "range_text": "July 13 - August 9, 2018",
+   "start": "2018-07-13",
+   "start_precision": "day",
+   "end": "2018-08-09",
+   "end_precision": "day",
+   "boundaries": "Magic 2019 - Commander 2018",
+   "name": "Workshops Rise Again",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 125,
+   "range_text": "August 10 - October 4, 2018",
+   "start": "2018-08-10",
+   "start_precision": "day",
+   "end": "2018-10-04",
+   "end_precision": "day",
+   "boundaries": "Commander 2018 - Guilds of Ravnica",
+   "name": "Survival Breaks Out",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Assassin's Trophy. Survival wins the Asian Vintage Championship"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 126,
+   "range_text": "October 5, 2018 - January 24, 2019",
+   "start": "2018-10-05",
+   "start_precision": "day",
+   "end": "2019-01-24",
+   "end_precision": "day",
+   "boundaries": "Guilds of Ravnica - Ravnica Allegiance",
+   "name": "Outcome Peaks",
+   "changes": "",
+   "citation": {
+    "url": "https://www.eternalcentral.com/vintagechamps2018/",
+    "label": "North America Vintage Champs 2018 Coverage, Decklists, and Results",
+    "archived": "http://web.archive.org/web/20260523135154/https://www.eternalcentral.com/vintagechamps2018/",
+    "archived_at": "20260523135154"
+   },
+   "notable_printings": [
+    "Lavinia",
+    "Azorious Guildmage"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 127,
+   "range_text": "January 25 - May 2, 2019",
+   "start": "2019-01-25",
+   "start_precision": "day",
+   "end": "2019-05-02",
+   "end_precision": "day",
+   "boundaries": "Ravnica Allegiance - War of the Spark",
+   "name": "Outcome Test Drives the London Mulligan",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-march-2019-03-19#London%20Mulligan",
+    "label": "London Mulligan Tested for 3 Weeks on MTGO",
+    "archived": "http://web.archive.org/web/20220517122434/https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-march-2019-03-19",
+    "archived_at": "20220517122434"
+   },
+   "notable_printings": [
+    "Karn the Great Creator",
+    "Narset Parter of Veils",
+    "Dreadhorde Arcanist"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 128,
+   "range_text": "May 3 - June 12, 2019",
+   "start": "2019-05-03",
+   "start_precision": "day",
+   "end": "2019-06-12",
+   "end_precision": "day",
+   "boundaries": "War of Spark - Modern Horizons",
+   "name": "Karn Combo Moment",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Force of Vigor",
+    "Collector's Ouphe",
+    "Hogaak Arisen Necropolis",
+    "Force of Negation"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 129,
+   "range_text": "June 13 - July 1, 2019",
+   "start": "2019-06-13",
+   "start_precision": "day",
+   "end": "2019-07-01",
+   "end_precision": "day",
+   "boundaries": "Modern Horizons - Core Set 2020",
+   "name": "The Dredge Show; BUG Rises",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Mystic Forge"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 130,
+   "range_text": "July 2 - August 22/6, 2019",
+   "start": "2019-07-02",
+   "start_precision": "day",
+   "end": "2019-08-26",
+   "end_precision": "day",
+   "boundaries": "Core Set 2020 - Commander 2019; B&R Update",
+   "name": "BUG Dominant",
+   "changes": "London mulligan adopted. Mystic Forge, Karn the Great Creator, Golgari Grave-Troll, and Mental Misstep restricted. Fastbond unrestricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03",
+    "label": "London Mulligan Formally Adopted Across All Formats"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted",
+    "rules"
+   ]
+  },
+  {
+   "era": 131,
+   "range_text": "August 23/6 - October 1, 2019",
+   "start": null,
+   "start_precision": null,
+   "end": "2019-10-01",
+   "end_precision": "day",
+   "boundaries": "Commander 2019; B&R Update - Throne of Eldraine",
+   "name": "Jeskai Rebounds",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/august-26-2019-banned-and-restricted-announcement-2019-08-26",
+    "label": "Banned & Restricted List Update August 26, 2019",
+    "archived": "http://web.archive.org/web/20220913152504/https://magic.wizards.com/en/articles/archive/news/august-26-2019-banned-and-restricted-announcement-2019-08-26",
+    "archived_at": "20220913152504"
+   },
+   "notable_printings": [
+    "Once Upon a Time",
+    "Defeaning Silence",
+    "Oko",
+    "Thief of Crowns",
+    "Stonecoil Serpant",
+    "Mystic Sanctuary",
+    "Brazen Borrower",
+    "Emry",
+    "Lurker of the Loch"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 132,
+   "range_text": "October 2 - November 14, 2019",
+   "start": "2019-10-02",
+   "start_precision": "day",
+   "end": "2019-11-14",
+   "end_precision": "day",
+   "boundaries": "Throne of Eldraine - B&R Update",
+   "name": "The Oko Moment",
+   "changes": "Narset, Parter of the Veil restricted.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update November 18, 2019"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 133,
+   "range_text": "November 15, 2019 - January 24, 2020",
+   "start": "2019-11-15",
+   "start_precision": "day",
+   "end": "2020-01-24",
+   "end_precision": "day",
+   "boundaries": "B&R Update - Theros: Beyond Death",
+   "name": "The Trifecta Format (Outcome, Dredge, and BUG)",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Soul-Guide Lantern",
+    "Thassa's Oracle",
+    "Underworld Breach"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 134,
+   "range_text": "January 25, 2020 - April 15, 2020 (online)",
+   "start": "2020-01-25",
+   "start_precision": "day",
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Theros: Beyond Death - Ikoria: Lair of Behemoths",
+   "name": "Breach Breaks Out",
+   "changes": "Notable Printin: Lurrus of the Dream Den, Zirda, the Dawnwaker, Lutri, The Spellchaser, Sprite Dragon.",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 135,
+   "range_text": "April 16, 2020 - May 17, 2020",
+   "start": "2020-04-16",
+   "start_precision": "day",
+   "end": "2020-05-17",
+   "end_precision": "day",
+   "boundaries": "Ikoria: Lair of Behemoths - B&R Update; Commander 2020",
+   "name": "Cat Scratch Fever",
+   "changes": "Lurrus of the Dream-Den banned.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update May 18, 2020",
+    "archived": "http://web.archive.org/web/20221015190443/https://magic.wizards.com/en/articles/archive/news/may-18-2020-banned-and-restricted-announcement",
+    "archived_at": "20221015190443"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 136,
+   "range_text": "May 17, 2020 - May 31, 2020",
+   "start": "2020-05-17",
+   "start_precision": "day",
+   "end": "2020-05-31",
+   "end_precision": "day",
+   "boundaries": "B&R Update; Commander 2020 - Companion Rule Change/ Inclusiveness Bans",
+   "name": "Post Lurrus Metagame",
+   "changes": "Companion Rules Overhauled.",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/june-1-2020-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update June 1, 2020",
+    "archived": "http://web.archive.org/web/20220802213056/https://magic.wizards.com/en/articles/archive/news/june-1-2020-banned-and-restricted-announcement",
+    "archived_at": "20220802213056"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "rules"
+   ]
+  },
+  {
+   "era": 137,
+   "range_text": "June 1, 2020 - July 2 2020",
+   "start": "2020-06-01",
+   "start_precision": "day",
+   "end": "2020-07-02",
+   "end_precision": "day",
+   "boundaries": "Companion Rule Change/Inclusiveness Bans - Core 2021/Jumpstart",
+   "name": "Post-Companion Metagame",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": [
+    "rules"
+   ]
+  },
+  {
+   "era": 138,
+   "range_text": "July 3, 2020 - September 24, 2020",
+   "start": "2020-07-03",
+   "start_precision": "day",
+   "end": "2020-09-24",
+   "end_precision": "day",
+   "boundaries": "Core 2021/Jumpstart - Zendikar Rising/Secret Lair Drop Series: The Walking Dead",
+   "name": "HollowVine Evolves",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 139,
+   "range_text": "September 25, 2020 - November 19, 2020",
+   "start": "2020-09-25",
+   "start_precision": "day",
+   "end": "2020-11-19",
+   "end_precision": "day",
+   "boundaries": "Zendikar Rising/SLDS: The Walking Dead - Commander Legends",
+   "name": "Doomsday Dominant",
+   "changes": "Noteable Printings: Hullbreacher, Opposition Agent, Archon of Emeria",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 140,
+   "range_text": "November 20, 2020 - February 4th/14th, 2021",
+   "start": "2020-11-20",
+   "start_precision": "day",
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Commander Legends - Kaldheim/B&R Change",
+   "name": "GolosShops Rising",
+   "changes": "Lurrus unbanned",
+   "citation": {
+    "url": "https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update February 15, 2021",
+    "archived": "http://web.archive.org/web/20220930012402/https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement",
+    "archived_at": "20220930012402"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 141,
+   "range_text": "February 15, 2021-April 22, 2021",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "B&R update-Strixhaven/Commander 2021",
+   "name": "Breach Back On Top",
+   "changes": "Noteable Printing: Sedgemoor Witch, Expressive Iteration",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 142,
+   "range_text": "April 23, 2021 - June 3, 2021",
+   "start": "2021-04-23",
+   "start_precision": "day",
+   "end": "2021-06-03",
+   "end_precision": "day",
+   "boundaries": "Strixhaven/Commander 2021 - Modern Horizons 2",
+   "name": "A Witches World",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Urza's Saga",
+    "Grief",
+    "Endurance",
+    "Fury",
+    "Ragavan",
+    "Blazing Rootwalla",
+    "Dress Down",
+    "Nettlecyst",
+    "Master of Death"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 143,
+   "range_text": "June 4, 2021-July 23, 2021",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Modern Horizons 2 - Dungeons & Dragons: Adventures in the Forgotten Realms",
+   "name": "Urza Rising",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 144,
+   "range_text": "July 24, 2021-September 24, 2021",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Dungeons & Dragons: Adventures in the Forgotten Realms - Innistrad: Midnight Hunt",
+   "name": "Shops Back on Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 145,
+   "range_text": "September 25, 2021 - November 18, 2021",
+   "start": "2021-09-25",
+   "start_precision": "day",
+   "end": "2021-11-18",
+   "end_precision": "day",
+   "boundaries": "Innistrad: Midnight Hunt - Innistrad: Crimson Vow",
+   "name": "Big Blue Ascends",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 146,
+   "range_text": "November 19, 2021 - February 17, 2022",
+   "start": "2021-11-19",
+   "start_precision": "day",
+   "end": "2022-02-17",
+   "end_precision": "day",
+   "boundaries": "Innistrad: Crimson Vow - Kamigawa: Neon Dynasty",
+   "name": "Big Blue Surge",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Boseiju",
+    "Who Endures",
+    "Patchwork Automaton"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 147,
+   "range_text": "February 18, 2022 - April 28, 2022",
+   "start": "2022-02-18",
+   "start_precision": "day",
+   "end": "2022-04-28",
+   "end_precision": "day",
+   "boundaries": "Kamigawa: Neon Dynasty - Streets of New Capenna",
+   "name": "Big Blue on Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 148,
+   "range_text": "April 28, 2022 - June 09, 2022",
+   "start": "2022-04-28",
+   "start_precision": "day",
+   "end": "2022-06-09",
+   "end_precision": "day",
+   "boundaries": "Streets of New Capenna - Commander Legends: Battle for Baldur's Gate",
+   "name": "Big Blue Falls off a Cliff; Doomsday & Hogaak Rise",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Seasoned Dungeoneer",
+    "White Plume Adventurer"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 149,
+   "range_text": "June 10, 2022 - September 8, 2022",
+   "start": "2022-06-10",
+   "start_precision": "day",
+   "end": "2022-09-08",
+   "end_precision": "day",
+   "boundaries": "Commander Legends: Battle for Baldur's Gate - Dominaria United",
+   "name": "",
+   "changes": "Sheoldred",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 150,
+   "range_text": "September 9, 2022 - October 6, 2022",
+   "start": "2022-09-09",
+   "start_precision": "day",
+   "end": "2022-10-06",
+   "end_precision": "day",
+   "boundaries": "Dominaria United - Warhammer 40,000 Commander/Unfinity",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 151,
+   "range_text": "October 7, 2022 - November 17, 2022",
+   "start": "2022-10-07",
+   "start_precision": "day",
+   "end": "2022-11-17",
+   "end_precision": "day",
+   "boundaries": "Warhammer 40,000 Commander/Unfinity - The Brothers' War",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 152,
+   "range_text": "Novermber 18, 2022 - December 1, 2022",
+   "start": null,
+   "start_precision": null,
+   "end": "2022-12-01",
+   "end_precision": "day",
+   "boundaries": "The Brothers' War - Jumpstart 2022",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 153,
+   "range_text": "December 2, 2022 - February 9, 2023",
+   "start": "2022-12-02",
+   "start_precision": "day",
+   "end": "2023-02-09",
+   "end_precision": "day",
+   "boundaries": "Jumpstart 2022 - Phryexia: All Will Be One",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Atraxa"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 154,
+   "range_text": "February 10, 2022 - April 20, 2023",
+   "start": "2022-02-10",
+   "start_precision": "day",
+   "end": "2023-04-20",
+   "end_precision": "day",
+   "boundaries": "Phyrexia: All Will Be One - March of the Machine",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Phyrexian Censor"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 155,
+   "range_text": "April 21, 2023 - May 11, 2023",
+   "start": "2023-04-21",
+   "start_precision": "day",
+   "end": "2023-05-11",
+   "end_precision": "day",
+   "boundaries": "March of the Machine - March of the Machine: the Aftermath",
+   "name": "Shops Surges Again",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 156,
+   "range_text": "May 12, 2023 - June 22, 2023",
+   "start": "2023-05-12",
+   "start_precision": "day",
+   "end": "2023-06-22",
+   "end_precision": "day",
+   "boundaries": "March of the Machine: the Aftermath - The Lord of the Rings: Tales of Middle-earth",
+   "name": "CounterVine Responds",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "The One Ring",
+    "Orcish Bowmaster",
+    "Lorien Revealed"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 157,
+   "range_text": "June 23, 2023 - September 7, 2023",
+   "start": "2023-06-23",
+   "start_precision": "day",
+   "end": "2023-09-07",
+   "end_precision": "day",
+   "boundaries": "The Lord of the Rings: Tales of Middle-earth - Wilds of Eldraine",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Beseech the Mirror"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 158,
+   "range_text": "September 8, 2023 - October 12, 2023",
+   "start": "2023-09-08",
+   "start_precision": "day",
+   "end": "2023-10-12",
+   "end_precision": "day",
+   "boundaries": "Wilds of Eldraine - Doctor Who Commander",
+   "name": "Rise of Lurrus Saga",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 159,
+   "range_text": "October 13, 2023 - November 16, 2023",
+   "start": "2023-10-13",
+   "start_precision": "day",
+   "end": "2023-11-16",
+   "end_precision": "day",
+   "boundaries": "Doctor Who Commander - The Lost Caverns of Ixalan/Jurassic World",
+   "name": "Lurrus Reigns",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 160,
+   "range_text": "November 17, 2023 - February 8, 2024",
+   "start": "2023-11-17",
+   "start_precision": "day",
+   "end": "2024-02-08",
+   "end_precision": "day",
+   "boundaries": "The Lost Caverns of Ixalan/Jurassic World - Murders at Karlov Manor",
+   "name": "Oath Responds and Jewel Shops Wins US EW",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Undercity Sewers"
+   ],
+   "change_kinds": [
+    "set_release"
+   ]
+  },
+  {
+   "era": 161,
+   "range_text": "February 9, 2023 - February 22, 2024",
+   "start": "2023-02-09",
+   "start_precision": "day",
+   "end": "2024-02-22",
+   "end_precision": "day",
+   "boundaries": "Murders at Karlov Manor - Ravnica: Clue Edition",
+   "name": "Jewel Shops on Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 162,
+   "range_text": "February 23, 2024 - March 8/11, 2024",
+   "start": "2024-02-23",
+   "start_precision": "day",
+   "end": "2024-03-11",
+   "end_precision": "day",
+   "boundaries": "Ravnica: Clue Edition - Fallout/B&R Update",
+   "name": "",
+   "changes": "Ponder is unrestricted",
+   "citation": {
+    "url": "https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update March 11, 2024",
+    "archived": "http://web.archive.org/web/20260811141440/https://magic.wizards.com/en/news/announcements/march-11-2024-banned-and-restricted-announcement",
+    "archived_at": "20260811141440"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 163,
+   "range_text": "March 8/11, 2024 - April 18, 2024",
+   "start": "2024-03-11",
+   "start_precision": "day",
+   "end": "2024-04-18",
+   "end_precision": "day",
+   "boundaries": "Fallout/B&R Update - Outlaws of Thunder Junction",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 164,
+   "range_text": "April 19, 2024 - May 12, 2024",
+   "start": "2024-04-19",
+   "start_precision": "day",
+   "end": "2024-05-12",
+   "end_precision": "day",
+   "boundaries": "Outlaws of Thunder Junction - Sticker/Attraction Cards Banned",
+   "name": "",
+   "changes": "",
+   "citation": {
+    "url": "https://magic.wizards.com/en/news/announcements/may-13-2024-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update May 13, 2024",
+    "archived": "http://web.archive.org/web/20261005171739/https://magic.wizards.com/en/news/announcements/may-13-2024-banned-and-restricted-announcement",
+    "archived_at": "20261005171739"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 165,
+   "range_text": "May 13, 2024 - June 13, 2024",
+   "start": "2024-05-13",
+   "start_precision": "day",
+   "end": "2024-06-13",
+   "end_precision": "day",
+   "boundaries": "Sticker/Attraction Cards Banned - Modern Horizons 3",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [
+    "Vexing Bauble",
+    "Psychic Frog",
+    "Consign to Memory",
+    "Sink into Stupor"
+   ],
+   "change_kinds": [
+    "banned_restricted",
+    "set_release"
+   ]
+  },
+  {
+   "era": 166,
+   "range_text": "June 14, 2024 - July 4, 2024",
+   "start": "2024-06-14",
+   "start_precision": "day",
+   "end": "2024-07-04",
+   "end_precision": "day",
+   "boundaries": "Modern Horizons 3 - Assassin's Creed",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 167,
+   "range_text": "July 5, 2024 - August 1, 2024",
+   "start": "2024-07-05",
+   "start_precision": "day",
+   "end": "2024-08-01",
+   "end_precision": "day",
+   "boundaries": "Assassin's Creed - Bloomburrow",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 168,
+   "range_text": "August 2, 2024 - August 25, 2024",
+   "start": "2024-08-02",
+   "start_precision": "day",
+   "end": "2024-08-25",
+   "end_precision": "day",
+   "boundaries": "Bloomburrow - B&R Update",
+   "name": "",
+   "changes": "Vexing Bauble and Urza's Saga Restricted",
+   "citation": {
+    "url": "https://magic.wizards.com/en/news/announcements/august-26-2024-banned-and-restricted-announcement",
+    "label": "Banned & Restricted List Update August 26, 2024"
+   },
+   "notable_printings": [],
+   "change_kinds": [
+    "banned_restricted"
+   ]
+  },
+  {
+   "era": 169,
+   "range_text": "August 26, 2024 - September 26. 2024",
+   "start": "2024-08-26",
+   "start_precision": "day",
+   "end": null,
+   "end_precision": null,
+   "boundaries": "B&R Update - Duskmourn: House of Horror",
+   "name": "Esper Lurrus On Top",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 170,
+   "range_text": "September 27, 2024 - November 3, 2024",
+   "start": "2024-09-27",
+   "start_precision": "day",
+   "end": "2024-11-03",
+   "end_precision": "day",
+   "boundaries": "Duskmourn: House of Horror - Secret Lair Drop Series: Marvel Superdrop",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 171,
+   "range_text": "November 4, 2024 - November 13, 2024",
+   "start": "2024-11-04",
+   "start_precision": "day",
+   "end": "2024-11-13",
+   "end_precision": "day",
+   "boundaries": "Secret Lair Drop Series: Marvel Superdrop - Magic: The Gathering Foundations",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  },
+  {
+   "era": 172,
+   "range_text": "November 14, 2024 -",
+   "start": null,
+   "start_precision": null,
+   "end": null,
+   "end_precision": null,
+   "boundaries": "Magic: The Gathering Foundations - TBD",
+   "name": "",
+   "changes": "",
+   "citation": null,
+   "notable_printings": [],
+   "change_kinds": []
+  }
+ ]
+}
