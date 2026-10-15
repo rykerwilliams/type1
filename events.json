@@ -1882,5 +1882,10 @@
     "https://magic.wizards.com/en/news/announcements"
    ]
   }
- ]
+ ],
+ "credit": {
+  "primary": "Steve Menendian, Timeline of Vintage, Eternal Central",
+  "url": "https://www.eternalcentral.com/timeline-of-vintage/",
+  "note": "Dates, era names and announcement citations are derived from that chart. This repository only replays them."
+ }
 }
