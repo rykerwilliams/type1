@@ -1,0 +1,1783 @@
+{
+ "event": "Pro Tour-Dallas Classic (Type I) Championship",
+ "label": "Pro Tour Dallas",
+ "date": "1996-11-22",
+ "location": "Dallas, TX",
+ "players": 95,
+ "source": {
+  "url": "https://archive.org/details/duelist-sideboard-issue-5-february-1997",
+  "label": "The Duelist Sideboard #5 (Feb 1997), 'A Day at the Classic Zoo', top 2 decklists, p. 9"
+ },
+ "partial": true,
+ "notes": [
+  {
+   "text": "Placings, seeds (place after seven Swiss rounds) and the 95-player standings from Wizards' Pro Tour-Dallas Day 1 results page. Quarterfinals: Johns def. Guevin 2-1, Fleischman def. Kuta 2-1, Shwe def. Ferker 2-0, O'Mahoney-Schwartz def. Cargilo 2-0; semifinals Johns def. O'Mahoney-Schwartz 2-1, Shwe def. Fleischman 2-0; final Johns def. Shwe 2-1.",
+   "url": "https://web.archive.org/web/19961219100028/http://www.wizards.com:80/ProTour/PTDallas/Dallas_Day1.html"
+  },
+  {
+   "text": "Played Friday 22 November 1996, before the Pro Tour's Standard event; $40,000 purse. The Wizards results page and Sideboard #5 agree on all eight names and finishes.",
+   "url": "https://web.archive.org/web/19961219074155/http://www.wizards.com:80/ProTour/Dallas_Update.html"
+  },
+  {
+   "text": "Sideboard #5 prints only the top two lists. Fleischman and O'Mahoney-Schwartz played the same deck, described but not listed (18 lands, five colorless; all five Moxen, Sol Ring, Black Lotus; Serendib Efreets and Erhnam Djinns; four Birds of Paradise in the sideboard). The Dojo's 'NY Zoo, Nov '96 - Jul '97' (which MTG Wiki gives as O'Mahoney-Schwartz's Dallas list) is a Neutral Ground group deck with Patrick Johnson's comments, not identified as the Dallas list, and has 19 lands and three Birds; it is not used.",
+   "url": "https://www.classicdojo.org/history/gunzoo.html"
+  }
+ ],
+ "decks": [
+  {
+   "finish": "1",
+   "seed": 8,
+   "player": "Scott Johns",
+   "archetype": "The Zoo",
+   "main": [
+    {
+     "count": 1,
+     "name": "Ancestral Recall",
+     "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "47",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/7/0/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b.jpg?1783948708",
+      "scryfall_uri": "https://scryfall.com/card/lea/47/ancestral-recall?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Balance",
+     "oracle_id": "17fa98cd-ed8f-483f-9525-7e989a82ebb2",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "3",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f9ea46a-411f-40ce-a873-a905180093f4.jpg?1783948717",
+      "scryfall_uri": "https://scryfall.com/card/lea/3/balance?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Black Lotus",
+     "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "232",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Black Vise",
+     "oracle_id": "de7839fb-7040-48ab-a6d4-d1952972943d",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "233",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/7/6/76ac72f8-5b1e-4d67-a796-ef69cde27424.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/233/black-vise?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Diminishing Returns",
+     "oracle_id": "f9b02a7c-c122-4282-90e2-81fcfa663193",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "26",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/a/3/a375ec24-4841-4792-ad58-f29cdf0d1bbb.jpg?1783947195",
+      "scryfall_uri": "https://scryfall.com/card/all/26/diminishing-returns?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Disenchant",
+     "oracle_id": "a7e97fa9-4b72-4548-b854-5be5f18a6f1a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "18",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/2/7/2722d7e2-61c6-4934-9c21-875ee78fd06c.jpg?1783948713",
+      "scryfall_uri": "https://scryfall.com/card/lea/18/disenchant?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Gorilla Shaman",
+     "oracle_id": "9f53b691-da24-4264-a2a0-d0b95a385963",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "72a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
+      "scryfall_uri": "https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Incinerate",
+     "oracle_id": "d8fd7a34-8418-4e98-b79b-119c4348c667",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "194",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/9/c/9c3f00af-010d-4485-b8b7-47400d99c496.jpg?1783947487",
+      "scryfall_uri": "https://scryfall.com/card/ice/194/incinerate?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Kird Ape",
+     "oracle_id": "fbbc3acb-c917-44ff-ac6f-9dd6ebe3f4ad",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "40",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebe8845e-df1c-481c-949c-aab84af99a05.jpg?1783948383",
+      "scryfall_uri": "https://scryfall.com/card/arn/40/kird-ape?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Lightning Bolt",
+     "oracle_id": "4457ed35-7c10-48c8-9776-456485fdf070",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "161",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684",
+      "scryfall_uri": "https://scryfall.com/card/lea/161/lightning-bolt?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Pearl",
+     "oracle_id": "824597b8-c89a-47ec-8526-7efc6e24ef0e",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "263",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8ebe4be7-e12a-4596-a899-fbd5b152e879.jpg?1783948663",
+      "scryfall_uri": "https://scryfall.com/card/lea/263/mox-pearl?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Ruby",
+     "oracle_id": "ed85fa82-e4fa-434b-92a8-36b6075708d1",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "264",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/9/8945585f-4773-493d-a0fe-d707db910b38.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/264/mox-ruby?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Mystical Tutor",
+     "oracle_id": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "80",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5d98101f-e32a-4a4a-a649-faa920d111ee.jpg?1783947105",
+      "scryfall_uri": "https://scryfall.com/card/mir/80/mystical-tutor?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Psionic Blast",
+     "oracle_id": "7f221ad6-7ec4-483d-a6b5-1456c95c1cad",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "74",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/a/6/a6a86e6e-bfff-46af-9d36-c912901fea92.jpg?1783948702",
+      "scryfall_uri": "https://scryfall.com/card/lea/74/psionic-blast?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Regrowth",
+     "oracle_id": "e6e4a8bd-5c40-4654-8de1-0da9afed90fd",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "214",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/a/badc73ec-3728-4246-90c7-5f4eb7051ed5.jpg?1783948673",
+      "scryfall_uri": "https://scryfall.com/card/lea/214/regrowth?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Savannah Lions",
+     "oracle_id": "60ba93eb-39e6-4af2-9c66-cd38f72daff2",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "38",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/d/0/d05b92bd-797e-413f-a8b0-32e0937a1ee0.jpg?1783948710",
+      "scryfall_uri": "https://scryfall.com/card/lea/38/savannah-lions?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Swords to Plowshares",
+     "oracle_id": "b1544f21-7e98-461b-aed5-e748b0168c52",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709",
+      "scryfall_uri": "https://scryfall.com/card/lea/40/swords-to-plowshares?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Time Walk",
+     "oracle_id": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "83",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701",
+      "scryfall_uri": "https://scryfall.com/card/lea/83/time-walk?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Timetwister",
+     "oracle_id": "c823e687-6311-4c99-974b-fd77d204141a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "84",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a49dc44-616e-4bdd-8220-0bb71eccc512.jpg?1783948700",
+      "scryfall_uri": "https://scryfall.com/card/lea/84/timetwister?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Wheel of Fortune",
+     "oracle_id": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "183",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679",
+      "scryfall_uri": "https://scryfall.com/card/lea/183/wheel-of-fortune?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "City of Brass",
+     "oracle_id": "f25351e3-539b-4bbc-b92d-6480acf4d722",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "71",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1783948376",
+      "scryfall_uri": "https://scryfall.com/card/arn/71/city-of-brass?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Library of Alexandria",
+     "oracle_id": "2111588d-9af5-4a33-989e-b074d83f0463",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1783948374",
+      "scryfall_uri": "https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Plateau",
+     "oracle_id": "c7a15ca4-085f-4d92-8387-c3711c04c8fa",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "279",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6eafa00b-c628-40f6-86eb-88e1361fc7a0.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/279/plateau?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Savannah",
+     "oracle_id": "703243f0-8cb3-420f-958f-5fd4bde30293",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "280",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/4/94f7e24c-2546-41b6-81ad-5e920b07e64e.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/280/savannah?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Strip Mine",
+     "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "82a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+      "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Taiga",
+     "oracle_id": "22e3cf1d-3559-4ce1-954c-8dc815342979",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "282",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/0/60df6592-0b3b-4b87-aeb2-8fa94b4fb7be.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/282/taiga?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Tropical Island",
+     "oracle_id": "74b7fe23-5d3a-4092-8d78-7c0eba8f6f73",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "283",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9c6c759-aabf-44e7-ba8c-33c5df232b56.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/283/tropical-island?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Tundra",
+     "oracle_id": "02418479-9455-417f-a6a1-004356faff37",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "284",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/284/tundra?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Volcanic Island",
+     "oracle_id": "c718911c-c955-4eb9-9e16-be4bd49a4e4e",
+     "original_printing": {
+      "set": "LEB",
+      "set_name": "Limited Edition Beta",
+      "released_at": "1993-10-04",
+      "collector_number": "287",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/0/3/0324641d-af55-4c53-b4dc-c8262e967da5.jpg?1783948596",
+      "scryfall_uri": "https://scryfall.com/card/leb/287/volcanic-island?utm_source=api"
+     }
+    }
+   ],
+   "sideboard": [
+    {
+     "count": 2,
+     "name": "Disenchant",
+     "oracle_id": "a7e97fa9-4b72-4548-b854-5be5f18a6f1a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "18",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/2/7/2722d7e2-61c6-4934-9c21-875ee78fd06c.jpg?1783948713",
+      "scryfall_uri": "https://scryfall.com/card/lea/18/disenchant?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Gorilla Shaman",
+     "oracle_id": "9f53b691-da24-4264-a2a0-d0b95a385963",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "72a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
+      "scryfall_uri": "https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Guerrilla Tactics",
+     "oracle_id": "65ad90f5-4dae-494b-83fb-8052e77e0b12",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "74a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/5/1/51811f2a-7002-4ba7-98d8-5b09d887975c.jpg?1783947176",
+      "scryfall_uri": "https://scryfall.com/card/all/74a/guerrilla-tactics?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Meekstone",
+     "oracle_id": "5ba73182-30a7-4bad-9cb6-c0feecc2db33",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "260",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13a68a17-22ee-47c9-870a-83e911862b94.jpg?1783948664",
+      "scryfall_uri": "https://scryfall.com/card/lea/260/meekstone?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Whirling Dervish",
+     "oracle_id": "43f89524-4b22-4707-9aba-6eb4c01d75dc",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "211",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/b/eba294e7-7097-4bc3-b396-72e85dd4f441.jpg?1783948043",
+      "scryfall_uri": "https://scryfall.com/card/leg/211/whirling-dervish?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Zuran Orb",
+     "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "350",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+      "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "text": "Sideboard #5 prints 2 Kird Ape and 2 Savannah, a 58-card main deck (checked against the page scan). The Dojo's list of the same deck has 4 Kird Ape and 4 Savannah (62 cards). Kird Ape is corrected to 4 from the Dojo, giving 60; Savannah is left at 2 as Sideboard #5 printed it. Which count was wrong cannot be settled from these two sources; MTG Wiki has the same 60.",
+     "url": "https://www.classicdojo.org/history/gunzoo.html"
+    },
+    {
+     "text": "Sideboard #5 says he 'dubbed it the \"Turbo/Zoo\"'; its report calls the deck 'The Zoo', as does the Dojo.",
+     "url": "https://archive.org/details/duelist-sideboard-issue-5-february-1997"
+    }
+   ]
+  },
+  {
+   "finish": "2",
+   "seed": 6,
+   "player": "Huei-Saint Shwe",
+   "archetype": "Zoo",
+   "main": [
+    {
+     "count": 1,
+     "name": "Ancestral Recall",
+     "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "47",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/7/0/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b.jpg?1783948708",
+      "scryfall_uri": "https://scryfall.com/card/lea/47/ancestral-recall?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Arcane Denial",
+     "oracle_id": "ab1cc360-b9de-48d9-9983-4dfe4a7d2a37",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "22a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0c5728e-43e7-417a-ba18-5038345cec67.jpg?1783947197",
+      "scryfall_uri": "https://scryfall.com/card/all/22a/arcane-denial?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Black Lotus",
+     "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "232",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Black Vise",
+     "oracle_id": "de7839fb-7040-48ab-a6d4-d1952972943d",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "233",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/7/6/76ac72f8-5b1e-4d67-a796-ef69cde27424.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/233/black-vise?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Chain Lightning",
+     "oracle_id": "8785f42f-87b9-4a0a-89ce-ea423649ba9c",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "137",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5883762-ca0a-4932-8d2a-41a45796a5f8.jpg?1783948058",
+      "scryfall_uri": "https://scryfall.com/card/leg/137/chain-lightning?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Counterspell",
+     "oracle_id": "cc187110-1148-4090-bbb8-e205694a39f5",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "54",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0df55e3f-14de-46ef-b6b1-616618724d9e.jpg?1783948707",
+      "scryfall_uri": "https://scryfall.com/card/lea/54/counterspell?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Demonic Tutor",
+     "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696",
+      "scryfall_uri": "https://scryfall.com/card/lea/104/demonic-tutor?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Disenchant",
+     "oracle_id": "a7e97fa9-4b72-4548-b854-5be5f18a6f1a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "18",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/2/7/2722d7e2-61c6-4934-9c21-875ee78fd06c.jpg?1783948713",
+      "scryfall_uri": "https://scryfall.com/card/lea/18/disenchant?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Dwarven Miner",
+     "oracle_id": "0935377b-384f-4e4c-9fbb-8d2a7d5dc280",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "169",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/7/b7142196-c379-4932-9402-97642ad2ebdb.jpg?1783947080",
+      "scryfall_uri": "https://scryfall.com/card/mir/169/dwarven-miner?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Gorilla Shaman",
+     "oracle_id": "9f53b691-da24-4264-a2a0-d0b95a385963",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "72a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
+      "scryfall_uri": "https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Incinerate",
+     "oracle_id": "d8fd7a34-8418-4e98-b79b-119c4348c667",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "194",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/9/c/9c3f00af-010d-4485-b8b7-47400d99c496.jpg?1783947487",
+      "scryfall_uri": "https://scryfall.com/card/ice/194/incinerate?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Kird Ape",
+     "oracle_id": "fbbc3acb-c917-44ff-ac6f-9dd6ebe3f4ad",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "40",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebe8845e-df1c-481c-949c-aab84af99a05.jpg?1783948383",
+      "scryfall_uri": "https://scryfall.com/card/arn/40/kird-ape?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Lightning Bolt",
+     "oracle_id": "4457ed35-7c10-48c8-9776-456485fdf070",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "161",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684",
+      "scryfall_uri": "https://scryfall.com/card/lea/161/lightning-bolt?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Pearl",
+     "oracle_id": "824597b8-c89a-47ec-8526-7efc6e24ef0e",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "263",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8ebe4be7-e12a-4596-a899-fbd5b152e879.jpg?1783948663",
+      "scryfall_uri": "https://scryfall.com/card/lea/263/mox-pearl?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Ruby",
+     "oracle_id": "ed85fa82-e4fa-434b-92a8-36b6075708d1",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "264",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/9/8945585f-4773-493d-a0fe-d707db910b38.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/264/mox-ruby?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mystical Tutor",
+     "oracle_id": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "80",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5d98101f-e32a-4a4a-a649-faa920d111ee.jpg?1783947105",
+      "scryfall_uri": "https://scryfall.com/card/mir/80/mystical-tutor?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Regrowth",
+     "oracle_id": "e6e4a8bd-5c40-4654-8de1-0da9afed90fd",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "214",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/a/badc73ec-3728-4246-90c7-5f4eb7051ed5.jpg?1783948673",
+      "scryfall_uri": "https://scryfall.com/card/lea/214/regrowth?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Savannah Lions",
+     "oracle_id": "60ba93eb-39e6-4af2-9c66-cd38f72daff2",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "38",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/d/0/d05b92bd-797e-413f-a8b0-32e0937a1ee0.jpg?1783948710",
+      "scryfall_uri": "https://scryfall.com/card/lea/38/savannah-lions?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Stormbind",
+     "oracle_id": "78f50668-36fc-4911-84f7-93667436b0c7",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "304",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/c/2/c2d5d91b-aeb4-4d7e-b748-77f9960da55f.jpg?1783947463",
+      "scryfall_uri": "https://scryfall.com/card/ice/304/stormbind?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Swords to Plowshares",
+     "oracle_id": "b1544f21-7e98-461b-aed5-e748b0168c52",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709",
+      "scryfall_uri": "https://scryfall.com/card/lea/40/swords-to-plowshares?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Sylvan Library",
+     "oracle_id": "92eed395-62ca-4293-882b-8565c40daab5",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "207",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f486df00-7c4a-4ff0-bb0b-c8b5432ac742.jpg?1783948043",
+      "scryfall_uri": "https://scryfall.com/card/leg/207/sylvan-library?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Time Walk",
+     "oracle_id": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "83",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701",
+      "scryfall_uri": "https://scryfall.com/card/lea/83/time-walk?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Timetwister",
+     "oracle_id": "c823e687-6311-4c99-974b-fd77d204141a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "84",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a49dc44-616e-4bdd-8220-0bb71eccc512.jpg?1783948700",
+      "scryfall_uri": "https://scryfall.com/card/lea/84/timetwister?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Wheel of Fortune",
+     "oracle_id": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "183",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679",
+      "scryfall_uri": "https://scryfall.com/card/lea/183/wheel-of-fortune?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "City of Brass",
+     "oracle_id": "f25351e3-539b-4bbc-b92d-6480acf4d722",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "71",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1783948376",
+      "scryfall_uri": "https://scryfall.com/card/arn/71/city-of-brass?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Mishra's Factory",
+     "oracle_id": "5963e0ef-e0bc-4611-ad4f-813a4c0eacfb",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "80a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/a/6/a696c5b6-f216-454d-8029-74e84bbd1428.jpg?1783948355",
+      "scryfall_uri": "https://scryfall.com/card/atq/80a/mishras-factory?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Savannah",
+     "oracle_id": "703243f0-8cb3-420f-958f-5fd4bde30293",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "280",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/4/94f7e24c-2546-41b6-81ad-5e920b07e64e.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/280/savannah?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Soldevi Excavations",
+     "oracle_id": "5baa7abe-5bdf-40ce-9a83-a93b7cae71a3",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "143",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1783947158",
+      "scryfall_uri": "https://scryfall.com/card/all/143/soldevi-excavations?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Strip Mine",
+     "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "82a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+      "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Taiga",
+     "oracle_id": "22e3cf1d-3559-4ce1-954c-8dc815342979",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "282",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/0/60df6592-0b3b-4b87-aeb2-8fa94b4fb7be.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/282/taiga?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Tundra",
+     "oracle_id": "02418479-9455-417f-a6a1-004356faff37",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "284",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1783948659",
+      "scryfall_uri": "https://scryfall.com/card/lea/284/tundra?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Underground Sea",
+     "oracle_id": "4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "285",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff76ac86-8a8a-47fe-9388-8950ca3e26c3.jpg?1783948658",
+      "scryfall_uri": "https://scryfall.com/card/lea/285/underground-sea?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Volcanic Island",
+     "oracle_id": "c718911c-c955-4eb9-9e16-be4bd49a4e4e",
+     "original_printing": {
+      "set": "LEB",
+      "set_name": "Limited Edition Beta",
+      "released_at": "1993-10-04",
+      "collector_number": "287",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/0/3/0324641d-af55-4c53-b4dc-c8262e967da5.jpg?1783948596",
+      "scryfall_uri": "https://scryfall.com/card/leb/287/volcanic-island?utm_source=api"
+     }
+    }
+   ],
+   "sideboard": [
+    {
+     "count": 1,
+     "name": "Consecrate Land",
+     "oracle_id": "4627691c-4ed4-4add-9cc3-2e019be2f9fd",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2379f78-c03f-447f-b3c9-10a918d556e9.jpg?1783948716",
+      "scryfall_uri": "https://scryfall.com/card/lea/14/consecrate-land?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Disenchant",
+     "oracle_id": "a7e97fa9-4b72-4548-b854-5be5f18a6f1a",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "18",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/2/7/2722d7e2-61c6-4934-9c21-875ee78fd06c.jpg?1783948713",
+      "scryfall_uri": "https://scryfall.com/card/lea/18/disenchant?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Energy Flux",
+     "oracle_id": "7a756cd1-29a8-4edf-bb74-fbb5b4020022",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "9",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd1f624b-e8f2-462f-838a-7cb9e8fda988.jpg?1783948374",
+      "scryfall_uri": "https://scryfall.com/card/atq/9/energy-flux?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Guerrilla Tactics",
+     "oracle_id": "65ad90f5-4dae-494b-83fb-8052e77e0b12",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "74a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/5/1/51811f2a-7002-4ba7-98d8-5b09d887975c.jpg?1783947176",
+      "scryfall_uri": "https://scryfall.com/card/all/74a/guerrilla-tactics?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Hammer of Bogardan",
+     "oracle_id": "3089bdd7-87e6-4d0e-ad98-c32e6f861c30",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "181",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/f/7/f7285f52-5df0-4f90-9cf7-a57295d90fd4.jpg?1783947076",
+      "scryfall_uri": "https://scryfall.com/card/mir/181/hammer-of-bogardan?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Healing Salve",
+     "oracle_id": "8da8644c-75a1-4fe9-8e94-900d948d631c",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "22",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/e/2/e28de37e-84d5-4dc7-b36c-e14da5924729.jpg?1783948713",
+      "scryfall_uri": "https://scryfall.com/card/lea/22/healing-salve?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Hydroblast",
+     "oracle_id": "b94c0336-2ca8-4bb1-bb1f-e9babd1826ad",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "72",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/f/6/f62716f0-fde2-49ef-b8a4-c1b03f451194.jpg?1783947514",
+      "scryfall_uri": "https://scryfall.com/card/ice/72/hydroblast?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Psychic Purge",
+     "oracle_id": "6af596d2-f075-4f55-b088-a5237fcdaa51",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "68",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1103d4d-b50a-4e2c-b18a-a181bc819881.jpg?1783948073",
+      "scryfall_uri": "https://scryfall.com/card/leg/68/psychic-purge?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Pyroblast",
+     "oracle_id": "ecc435e2-deb1-420a-a79f-01dd08747314",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "213",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1783947483",
+      "scryfall_uri": "https://scryfall.com/card/ice/213/pyroblast?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Ray of Command",
+     "oracle_id": "adf41d29-403d-4936-9689-3148d103e700",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "92",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/6/3/638abe5f-2a8a-42ca-bcdf-a52a3df66946.jpg?1783947510",
+      "scryfall_uri": "https://scryfall.com/card/ice/92/ray-of-command?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Sand Golem",
+     "oracle_id": "0f9b78ca-1556-4157-a91c-55276fd78127",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "318",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84e4a955-ce9a-4386-b6ac-c00fd25de882.jpg?1783947039",
+      "scryfall_uri": "https://scryfall.com/card/mir/318/sand-golem?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Swords to Plowshares",
+     "oracle_id": "b1544f21-7e98-461b-aed5-e748b0168c52",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709",
+      "scryfall_uri": "https://scryfall.com/card/lea/40/swords-to-plowshares?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Whirling Dervish",
+     "oracle_id": "43f89524-4b22-4707-9aba-6eb4c01d75dc",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "211",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/b/eba294e7-7097-4bc3-b396-72e85dd4f441.jpg?1783948043",
+      "scryfall_uri": "https://scryfall.com/card/leg/211/whirling-dervish?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Zuran Orb",
+     "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "350",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+      "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "text": "Main deck is 65 cards as printed (checked against the page scan; legal, Type I had no maximum). No second source.",
+     "url": "https://archive.org/details/duelist-sideboard-issue-5-february-1997"
+    }
+   ]
+  },
+  {
+   "finish": "3-4",
+   "seed": 2,
+   "player": "Sean Fleischman",
+   "archetype": null,
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "Shared deck with O'Mahoney-Schwartz; described in Sideboard #5 but not listed.",
+     "url": "https://archive.org/details/duelist-sideboard-issue-5-february-1997"
+    }
+   ]
+  },
+  {
+   "finish": "3-4",
+   "seed": 4,
+   "player": "Steven O'Mahoney-Schwartz",
+   "archetype": null,
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "Shared deck with Fleischman; described in Sideboard #5 but not listed. See the event note on the Dojo 'NY Zoo'.",
+     "url": "https://archive.org/details/duelist-sideboard-issue-5-february-1997"
+    }
+   ]
+  },
+  {
+   "finish": "5-8",
+   "seed": 1,
+   "player": "Thomas Guevin",
+   "archetype": null,
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "'Thomas Guevin' on the Day 1 page and in Sideboard #5's standings; 'Tom Guevin' on the results page.",
+     "url": "https://web.archive.org/web/19961219100028/http://www.wizards.com:80/ProTour/PTDallas/Dallas_Day1.html"
+    }
+   ]
+  },
+  {
+   "finish": "5-8",
+   "seed": 3,
+   "player": "Paul Ferker",
+   "archetype": null,
+   "main": null,
+   "sideboard": null
+  },
+  {
+   "finish": "5-8",
+   "seed": 5,
+   "player": "Shane Cargilo",
+   "archetype": null,
+   "main": null,
+   "sideboard": null
+  },
+  {
+   "finish": "5-8",
+   "seed": 7,
+   "player": "Jeffrey Kuta",
+   "archetype": "B/u/r Necro",
+   "source": {
+    "url": "https://www.classicdojo.org/tourney96/ptd1.961125jku.txt",
+    "label": "Jeffrey Kuta, '[Report] PT Dallas Type I Tournament', rec.games.trading-cards.magic.misc, 25 Nov 1996 (Dojo copy)"
+   },
+   "main": [
+    {
+     "count": 4,
+     "name": "Hymn to Tourach",
+     "oracle_id": "992d9a72-d34d-47d7-96fb-37f0efb515ef",
+     "original_printing": {
+      "set": "FEM",
+      "set_name": "Fallen Empires",
+      "released_at": "1994-11-01",
+      "collector_number": "38a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/e/b/eb9273ea-9a41-42e3-8c9c-0d50b127a818.jpg?1783947903",
+      "scryfall_uri": "https://scryfall.com/card/fem/38a/hymn-to-tourach?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Stupor",
+     "oracle_id": "c19e3560-d304-4d91-aa2a-463d7dbb35bb",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "147",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/0/f/0fed2498-20ce-48ad-a56e-2c7e297c0c66.jpg?1783947086",
+      "scryfall_uri": "https://scryfall.com/card/mir/147/stupor?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Dark Ritual",
+     "oracle_id": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "98",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebb6664d-23ca-456e-9916-afcd6f26aa7f.jpg?1783948697",
+      "scryfall_uri": "https://scryfall.com/card/lea/98/dark-ritual?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Sinkhole",
+     "oracle_id": "5a46ad2a-35b1-4dd5-b7c3-fec36b7c67ab",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "129",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1783948690",
+      "scryfall_uri": "https://scryfall.com/card/lea/129/sinkhole?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Juzám Djinn",
+     "printed_as": "Juzam Djinn",
+     "oracle_id": "4e81596c-9225-43d1-bd35-798212144f2c",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "29",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31bf3f14-b5df-498b-a1bb-965885c82401.jpg?1783948387",
+      "scryfall_uri": "https://scryfall.com/card/arn/29/juz%C3%A1m-djinn?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Necropotence",
+     "oracle_id": "94a844d2-0574-45a7-b347-e0e329767c42",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "154",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1783947497",
+      "scryfall_uri": "https://scryfall.com/card/ice/154/necropotence?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Nether Void",
+     "oracle_id": "53bab610-1d27-4897-a4ad-cfecca82b811",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "113",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/2/e/2e72f8cb-5bc3-4711-9b7c-a6eea9a0beaf.jpg?1783948063",
+      "scryfall_uri": "https://scryfall.com/card/leg/113/nether-void?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Demonic Tutor",
+     "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696",
+      "scryfall_uri": "https://scryfall.com/card/lea/104/demonic-tutor?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Ancestral Recall",
+     "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "47",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/7/0/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b.jpg?1783948708",
+      "scryfall_uri": "https://scryfall.com/card/lea/47/ancestral-recall?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Time Walk",
+     "oracle_id": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "83",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701",
+      "scryfall_uri": "https://scryfall.com/card/lea/83/time-walk?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Gorilla Shaman",
+     "oracle_id": "9f53b691-da24-4264-a2a0-d0b95a385963",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "72a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
+      "scryfall_uri": "https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Juggernaut",
+     "oracle_id": "4ac9116f-36bc-4d71-b696-d6ee064e1d58",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "255",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/d/c/dcd6a291-5282-4f49-8203-d9b416083c48.jpg?1783948664",
+      "scryfall_uri": "https://scryfall.com/card/lea/255/juggernaut?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Nevinyrral's Disk",
+     "oracle_id": "96230edf-568a-47dd-b877-9d92aa58fac8",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "266",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/1/2/12926dc8-8e6f-4a47-a12b-4d674189615a.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/266/nevinyrrals-disk?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Grinning Totem",
+     "oracle_id": "fa798a3d-7797-4795-b251-a45f0429d169",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "303",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3558ddf-2bc6-4870-bd24-2467d870ffe5.jpg?1783947042",
+      "scryfall_uri": "https://scryfall.com/card/mir/303/grinning-totem?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Zuran Orb",
+     "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "350",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+      "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Black Lotus",
+     "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "232",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Jet",
+     "oracle_id": "0677f49e-f8bf-4349-af52-2ccde9287c2e",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "262",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92bcd1ce-19b1-4d78-8b09-95242ca08d76.jpg?1783948663",
+      "scryfall_uri": "https://scryfall.com/card/lea/262/mox-jet?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Sapphire",
+     "oracle_id": "d5ed1233-df87-4b90-8918-13922ec95249",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "265",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/2/82da0972-b17b-4600-9efd-e9430a0db04b.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/265/mox-sapphire?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Ruby",
+     "oracle_id": "ed85fa82-e4fa-434b-92a8-36b6075708d1",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "264",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/9/8945585f-4773-493d-a0fe-d707db910b38.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/264/mox-ruby?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Sol Ring",
+     "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "269",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661",
+      "scryfall_uri": "https://scryfall.com/card/lea/269/sol-ring?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Library of Alexandria",
+     "oracle_id": "2111588d-9af5-4a33-989e-b074d83f0463",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "76",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee266113-34ce-4189-84e7-ee2c86a2722c.jpg?1783948374",
+      "scryfall_uri": "https://scryfall.com/card/arn/76/library-of-alexandria?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "City of Brass",
+     "oracle_id": "f25351e3-539b-4bbc-b92d-6480acf4d722",
+     "original_printing": {
+      "set": "ARN",
+      "set_name": "Arabian Nights",
+      "released_at": "1993-12-17",
+      "collector_number": "71",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1783948376",
+      "scryfall_uri": "https://scryfall.com/card/arn/71/city-of-brass?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Strip Mine",
+     "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "82a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+      "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Underground Sea",
+     "oracle_id": "4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "285",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff76ac86-8a8a-47fe-9388-8950ca3e26c3.jpg?1783948658",
+      "scryfall_uri": "https://scryfall.com/card/lea/285/underground-sea?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Badlands",
+     "oracle_id": "13ff3222-91cb-4796-a34e-899ed817694c",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "277",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/7/1/717f6d10-9144-4ade-9ac6-a481cc66b875.jpg?1783948660",
+      "scryfall_uri": "https://scryfall.com/card/lea/277/badlands?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Sulfurous Springs",
+     "printed_as": "Sulphurous Springs",
+     "oracle_id": "f5c38c01-4a40-469f-91a0-7479daf4e8e7",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "360",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/2/f/2fdeab50-b45f-412b-85a3-c6cf009ce567.jpg?1783947450",
+      "scryfall_uri": "https://scryfall.com/card/ice/360/sulfurous-springs?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Swamp",
+     "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "290",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/6/1/6176936d-72e2-4205-8871-4c5a4f1cb2d8.jpg?1783948657",
+      "scryfall_uri": "https://scryfall.com/card/lea/290/swamp?utm_source=api"
+     }
+    }
+   ],
+   "sideboard": [
+    {
+     "count": 2,
+     "name": "Dystopia",
+     "oracle_id": "d0e6203b-cef2-470f-8c79-7b139290e2d5",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "47",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/5/f/5f8bb451-706d-44ff-bbad-9ddc6f9f786a.jpg?1783947188",
+      "scryfall_uri": "https://scryfall.com/card/all/47/dystopia?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Dark Banishing",
+     "oracle_id": "0df450be-9bd2-45be-ae59-fa8d19f6a391",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "119",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/f/7/f7dc2716-ed62-4797-ad2b-227eca5408d0.jpg?1783947504",
+      "scryfall_uri": "https://scryfall.com/card/ice/119/dark-banishing?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Contagion",
+     "oracle_id": "433e86ce-df04-4182-bb63-ad2607d67dbd",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "45",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/0/0/00c8f94a-7690-47f5-b664-61411a32ab74.jpg?1783947189",
+      "scryfall_uri": "https://scryfall.com/card/all/45/contagion?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Shatter",
+     "oracle_id": "84d32e68-72b9-432d-a023-7bc6a26b8ad0",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "173",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/5/0/50dc7fc1-cb6a-4c68-b993-1a25cf16226e.jpg?1783948682",
+      "scryfall_uri": "https://scryfall.com/card/lea/173/shatter?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Gorilla Shaman",
+     "oracle_id": "9f53b691-da24-4264-a2a0-d0b95a385963",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "72a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
+      "scryfall_uri": "https://scryfall.com/card/all/72a/gorilla-shaman?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Guerrilla Tactics",
+     "printed_as": "Guerilla Tactics",
+     "oracle_id": "65ad90f5-4dae-494b-83fb-8052e77e0b12",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "74a",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/5/1/51811f2a-7002-4ba7-98d8-5b09d887975c.jpg?1783947176",
+      "scryfall_uri": "https://scryfall.com/card/all/74a/guerrilla-tactics?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Sand Golem",
+     "oracle_id": "0f9b78ca-1556-4157-a91c-55276fd78127",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "318",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84e4a955-ce9a-4386-b6ac-c00fd25de882.jpg?1783947039",
+      "scryfall_uri": "https://scryfall.com/card/mir/318/sand-golem?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Nevinyrral's Disk",
+     "oracle_id": "96230edf-568a-47dd-b877-9d92aa58fac8",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "266",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/1/2/12926dc8-8e6f-4a47-a12b-4d674189615a.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/266/nevinyrrals-disk?utm_source=api"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "text": "From his own tournament report. Main deck is 62 cards as printed (his section totals 25+2+2+8+25). The Moxen are printed as '3 Moxes (Jet, Sapphire, Ruby)'.",
+     "url": "https://www.classicdojo.org/tourney96/ptd1.961125jku.txt"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "event": "Beyond Dominia Type I Tournament of Champions",
+ "label": "Beyond Dominia",
+ "date": "2000-12-31",
+ "date_precision": "year",
+ "location": "Online",
+ "players": null,
+ "source": {
+  "url": "https://articles.starcitygames.com/articles/you-can-play-type-i-47-a-memoriam-to-beyond-dominia/",
+  "label": "Oscar Tan, 'You CAN Play Type I #47: A Memoriam To Beyond Dominia', StarCityGames, 8 Jul 2002"
+ },
+ "partial": true,
+ "notes": [
+  {
+   "text": "Date not known. Stephen Menendian (Eternal Central, 2013) says the tournament 'kicked off in the final months of 2000' and the winner was crowned 'by the end of the year'; Oscar Tan dates it 2000. 31 December 2000 is a placeholder.",
+   "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
+  },
+  {
+   "text": "Played online among Beyond Dominia forum members: decklists submitted in advance, Swiss pairings posted on the forum every few days, matches arranged by the players (Menendian). Whether it had a Top 8 cut, and the field size, are not known.",
+   "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
+  },
+  {
+   "text": "Only the winner is known. The Beyond Dominia forum threads were not recovered from the Wayback Machine (the archive refused connections during this research)."
+  },
+  {
+   "text": "A B&R change took effect on 30 September 2000 (Channel and Demonic Consultation restricted, among others). The tournament 'kicked off in the final months of 2000', so it was probably played under the new list, which is the one the placeholder date selects; if it began before 30 September, decks registered in advance were built under the old one.",
+   "url": "http://web.archive.org/web/20250823045431/http://mtg.icequake.net/www.crystalkeep.com/magic/rules/dci/update-000901.txt"
+  }
+ ],
+ "decks": [
+  {
+   "finish": "1",
+   "seed": null,
+   "player": "Michael Bower",
+   "archetype": "Forbiddian",
+   "main": [
+    {
+     "count": 17,
+     "name": "Island",
+     "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "288",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/9/0/90a57c0e-fa61-45ef-955d-d296403967d5.jpg?1783948658",
+      "scryfall_uri": "https://scryfall.com/card/lea/288/island?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Wasteland",
+     "oracle_id": "09a70ae8-3859-4a09-901d-dce063fa3b5f",
+     "original_printing": {
+      "set": "TMP",
+      "set_name": "Tempest",
+      "released_at": "1997-10-14",
+      "collector_number": "330",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/9/9/99ff731b-8399-40c8-b539-ba6ba5783771.jpg?1783946594",
+      "scryfall_uri": "https://scryfall.com/card/tmp/330/wasteland?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Strip Mine",
+     "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "82a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+      "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Sapphire",
+     "oracle_id": "d5ed1233-df87-4b90-8918-13922ec95249",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "265",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/2/82da0972-b17b-4600-9efd-e9430a0db04b.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/265/mox-sapphire?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Black Lotus",
+     "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "232",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Sol Ring",
+     "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "269",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661",
+      "scryfall_uri": "https://scryfall.com/card/lea/269/sol-ring?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Counterspell",
+     "oracle_id": "cc187110-1148-4090-bbb8-e205694a39f5",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "54",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0df55e3f-14de-46ef-b6b1-616618724d9e.jpg?1783948707",
+      "scryfall_uri": "https://scryfall.com/card/lea/54/counterspell?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Mana Drain",
+     "oracle_id": "74d3277a-38e5-4732-afed-084a56148f20",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "65",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1783948074",
+      "scryfall_uri": "https://scryfall.com/card/leg/65/mana-drain?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Forbid",
+     "oracle_id": "6e26a525-2584-490d-b106-621c1a30e1fd",
+     "original_printing": {
+      "set": "EXO",
+      "set_name": "Exodus",
+      "released_at": "1998-06-15",
+      "collector_number": "35",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/2/9/29df5ef7-d679-4543-bdb7-3984155c87e0.jpg?1783946524",
+      "scryfall_uri": "https://scryfall.com/card/exo/35/forbid?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Force of Will",
+     "oracle_id": "956381ba-6d37-4a8a-846c-bad79222dbee",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "28",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1783947196",
+      "scryfall_uri": "https://scryfall.com/card/all/28/force-of-will?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Misdirection",
+     "oracle_id": "c39e5fb0-6de3-4105-ad3c-0ecb8951a1d5",
+     "original_printing": {
+      "set": "MMQ",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "collector_number": "87",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/5/8/581ad59c-29e9-4498-a6fd-33bf21e8e7c4.jpg?1783945965",
+      "scryfall_uri": "https://scryfall.com/card/mmq/87/misdirection?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Powder Keg",
+     "oracle_id": "ca1144c2-49a3-49b4-9085-3094141769ea",
+     "original_printing": {
+      "set": "UDS",
+      "set_name": "Urza's Destiny",
+      "released_at": "1999-06-07",
+      "collector_number": "136",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d9715c2-9036-4ae2-a5b4-1b190d50c963.jpg?1783946055",
+      "scryfall_uri": "https://scryfall.com/card/uds/136/powder-keg?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Nevinyrral's Disk",
+     "oracle_id": "96230edf-568a-47dd-b877-9d92aa58fac8",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "266",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/1/2/12926dc8-8e6f-4a47-a12b-4d674189615a.jpg?1783948662",
+      "scryfall_uri": "https://scryfall.com/card/lea/266/nevinyrrals-disk?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Ophidian",
+     "oracle_id": "953bdefa-4639-4524-af5c-5055d1289f40",
+     "original_printing": {
+      "set": "WTH",
+      "set_name": "Weatherlight",
+      "released_at": "1997-06-09",
+      "collector_number": "45",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0de0a010-76a7-460f-bb4e-a152c10c3bb7.jpg?1783946741",
+      "scryfall_uri": "https://scryfall.com/card/wth/45/ophidian?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Morphling",
+     "oracle_id": "19f233b2-8be6-4172-abf9-b132fc3393d9",
+     "original_printing": {
+      "set": "USG",
+      "set_name": "Urza's Saga",
+      "released_at": "1998-10-12",
+      "collector_number": "85",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/1/812f4d5c-aacf-4bd8-849d-80a357a7804d.jpg?1783946358",
+      "scryfall_uri": "https://scryfall.com/card/usg/85/morphling?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Merchant Scroll",
+     "oracle_id": "86cebe2a-95e7-4f22-99cc-e805aeaf347e",
+     "original_printing": {
+      "set": "HML",
+      "set_name": "Homelands",
+      "released_at": "1995-10-01",
+      "collector_number": "33",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1783947295",
+      "scryfall_uri": "https://scryfall.com/card/hml/33/merchant-scroll?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Ancestral Recall",
+     "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "47",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/7/0/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b.jpg?1783948708",
+      "scryfall_uri": "https://scryfall.com/card/lea/47/ancestral-recall?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Time Walk",
+     "oracle_id": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "83",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701",
+      "scryfall_uri": "https://scryfall.com/card/lea/83/time-walk?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Soothsaying",
+     "oracle_id": "517b702a-2c5c-40d7-825e-6c674019b298",
+     "original_printing": {
+      "set": "MMQ",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "collector_number": "104",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/d/e/def384ff-1b6f-4c4f-8151-3c72c29b63ce.jpg?1783945960",
+      "scryfall_uri": "https://scryfall.com/card/mmq/104/soothsaying?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Zuran Orb",
+     "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "350",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+      "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+     }
+    }
+   ],
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "'mikephoen' on Beyond Dominia; Canadian. Oscar Tan calls the deck his 'trademark Forbiddian deck'; Menendian calls it 'Mono Blue Ophidian Control'.",
+     "url": "https://articles.starcitygames.com/articles/you-can-play-type-i-47-a-memoriam-to-beyond-dominia/"
+    },
+    {
+     "text": "Main deck from Oscar Tan (2002), who prints no sideboard, so sideboard is null. Menendian (2013) prints 1 Annul where Tan has 1 Merchant Scroll, and a sideboard: 4 Hydroblast, 2 Treachery, 2 Tormod's Crypt, 3 Annul, 3 Back to Basics, 1 Disrupt. Neither cites the original forum post.",
+     "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
+    }
+   ]
+  }
+ ]
+}
