@@ -88,6 +88,21 @@ legal at all: Collectors' and International Edition (1993-12-10), Astral Cards
 ever applied to them — and each is dated to the first set of its kind, because
 the exclusion means nothing before that.
 
+## Championship decklists
+
+`decks/` holds the Top 8 of every Type 1 / Vintage championship that could be
+found — 48 events from 1994 Worlds to the 2025 Eternal Weekends, North
+America, Europe and Asia — one file per event, each list cited to where it was
+first published. Cards carry the same `oracle_id` and original printing as the
+state files, so a deck can be read against the restricted list on the day it
+was played. [`decks/README.md`](decks/README.md) has the format and the rules
+the lists were copied by.
+
+```
+python3 script/resolve-decks.py --write   # card identity and printings, from Scryfall bulk data
+python3 script/check-decks.py             # deck sizes, and no restricted card twice
+```
+
 ## Verification
 
 ```
