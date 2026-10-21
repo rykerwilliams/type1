@@ -20,12 +20,16 @@
   {
    "text": "Placings follow the playoff matches on the Melee page: quarterfinals Ito def. Matsumoto 2-0, Sekikawa def. Hirasawa 2-0, Yokokawa def. Hosomi 2-0, Hori def. Yajima 2-1; semifinals Sekikawa def. Ito 2-0, Yokokawa def. Hori 2-1; final Yokokawa def. Sekikawa 2-0. mtg-jp's labels (優勝, 準優勝, Top 4, Top 8) put Matsumoto, the top Swiss seed, in the Top 4 and Ito in the Top 8, which the matches contradict; mtgtop8 and MTGGoldfish have them right.",
    "url": "https://melee.gg/Tournament/View/116325"
+  },
+  {
+   "text": "Seeds are the standings after the last Swiss round (Round 8) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
+   "url": "https://melee.gg/Tournament/View/116325"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 2,
    "player": "Yuta Yokokawa",
    "archetype": "Esper Control",
    "main": [
@@ -799,7 +803,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 5,
    "player": "Tsubasa Sekikawa",
    "archetype": "Esper Control",
    "main": [
@@ -1439,7 +1443,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 3,
    "player": "Masataka Hori",
    "archetype": "Mono-Blue Shops",
    "main": [
@@ -2070,7 +2074,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 8,
    "player": "Hiroki Ito",
    "archetype": "Doomsday",
    "main": [
@@ -2658,7 +2662,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 1,
    "player": "Kazuma Matsumoto",
    "archetype": "Sultai Tempo",
    "main": [
@@ -3328,7 +3332,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 4,
    "player": "Daisuke Hirasawa",
    "archetype": "Four-color Combo",
    "main": [
@@ -3958,7 +3962,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 6,
    "player": "Hiromichi Yajima",
    "player_native": "矢島 広道",
    "archetype": "Dimir Combo",
@@ -4579,7 +4583,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 7,
    "player": "Kyohei Hosomi",
    "archetype": "Mono-Blue Shops",
    "main": [

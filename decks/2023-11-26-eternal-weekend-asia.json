@@ -20,12 +20,16 @@
   {
    "text": "mtg-jp dates the event 25-26 November; the Top 8 profiles went up on the 26th.",
    "url": "https://mtg-jp.com/coverage/pcaichi23/article/0037436/"
+  },
+  {
+   "text": "Seeds are the standings after the last Swiss round (Round 8) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
+   "url": "https://melee.gg/Tournament/View/30338"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 1,
    "player": "Daisuke Hirasawa",
    "player_native": "ヒラサワ ダイスケ",
    "archetype": "Oath",
@@ -671,7 +675,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 7,
    "player": "Masanori Yamamoto",
    "player_native": "山本 政徳",
    "archetype": "Paradox Combo",
@@ -1293,7 +1297,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 3,
    "player": "Masaya Takei",
    "player_native": "武井 将也",
    "archetype": "Azorius Control",
@@ -1968,7 +1972,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 5,
    "player": "Yusuke Hayasaki",
    "player_native": "早崎 祐介",
    "archetype": "Dimir Control",
@@ -2628,7 +2632,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 2,
    "player": "Yuki Ota",
    "player_native": "太田 勇輝",
    "archetype": "Mono-White Initiative",
@@ -3099,7 +3103,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 4,
    "player": "Gen Shinohara",
    "player_native": "篠原 元",
    "archetype": "Dimir Storm",
@@ -3865,7 +3869,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 6,
    "player": "Kyohei Hosomi",
    "player_native": "細見 京平",
    "archetype": "Stax",
@@ -4454,7 +4458,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Tsubasa Marumo",
    "player_native": "丸茂 翼",
    "archetype": "Mono-White Initiative",
