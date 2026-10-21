@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Placings (1 to 8, as magic.gg numbers them) and archetype names are from magic.gg's Tolarian Academy Championship results table; mtgo.com names no archetypes.",
+   "text": "Placings (1 to 8, as magic.gg numbers them) are from magic.gg's Tolarian Academy Championship results table.",
    "url": "https://magic.gg/news/eternal-weekend-2020-vintage-highlights"
   },
   {
@@ -25,6 +25,10 @@
   {
    "text": "Seeds are the seeding shown in mtgo.com's Top 8 bracket.",
    "url": "https://www.mtgo.com/decklist/vintage-eternal-weekend-academy-2020-10-2412221035"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events. Kept from the earlier source where Goldfish names only colours or lists no deck: Amiracle (Goldfish: 'WUR'); Gernardi (Goldfish: 'URG'); umeck (Goldfish: 'Colorless').",
+   "url": "https://www.mtggoldfish.com/tournament/32874"
   }
  ],
  "decks": [
@@ -2438,7 +2442,7 @@
    "finish": "5",
    "seed": 5,
    "player": "MartinMedMitten",
-   "archetype": "Grixis Xerox",
+   "archetype": "Grixis Underworld Breach",
    "main": [
     {
      "count": 1,

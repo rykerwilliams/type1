@@ -22,6 +22,10 @@
   {
    "text": "Card Titan prints \"Rich Shay, Ph.D.\"; mtgtop8 has Patrick Fehling and Ibrahim \"Alridge\"; Eternal Central spells Vergo both \"Vergo\" and \"Vargo\".",
    "url": "https://web.archive.org/web/20171030205051/http://www.cardtitan.com/coverage"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/25507"
   }
  ],
  "decks": [
@@ -502,7 +506,7 @@
    "finish": "2",
    "seed": 2,
    "player": "Rich Shay",
-   "archetype": "Ravager Shops (Pirate Stompy)",
+   "archetype": "Ravager Shops",
    "main": [
     {
      "count": 4,
@@ -961,7 +965,7 @@
    "finish": "3-4",
    "seed": 3,
    "player": "Pat Fehling",
-   "archetype": "Oath of Druids",
+   "archetype": "Inferno Oath",
    "main": [
     {
      "count": 1,
@@ -2144,7 +2148,7 @@
    "finish": "5-8",
    "seed": 5,
    "player": "Ibrahim Aldridge",
-   "archetype": "Oath of Druids",
+   "archetype": "Oath",
    "main": [
     {
      "count": 1,
@@ -2868,7 +2872,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "Brian Kelly",
-   "archetype": "Inferno Titan Oath of Druids",
+   "archetype": "Inferno Oath",
    "main": [
     {
      "count": 1,

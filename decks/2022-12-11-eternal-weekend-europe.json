@@ -18,8 +18,12 @@
    "text": "MTGO lists a card once per printing (e.g. 2 Tundra and 1 Tundra); such rows are combined here."
   },
   {
-   "text": "MTGO does not name decks; archetypes are mtgtop8's. MTGGoldfish calls the winning deck \"Counter Vine\" where mtgtop8 has \"Bazaar Aggro\".",
+   "text": "MTGO does not name decks.",
    "url": "https://www.mtgtop8.com/event?e=40174&f=VI"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/41768"
   }
  ],
  "decks": [
@@ -27,7 +31,7 @@
    "finish": "1",
    "seed": 4,
    "player": "JUJUBEAN__2004",
-   "archetype": "Bazaar Aggro",
+   "archetype": "Counter Vine",
    "main": [
     {
      "count": 4,
@@ -406,7 +410,7 @@
    "finish": "2",
    "seed": 2,
    "player": "ziofrancone",
-   "archetype": "Esper Control",
+   "archetype": "Esper Tinker",
    "main": [
     {
      "count": 1,
@@ -1205,7 +1209,7 @@
    "finish": "3-4",
    "seed": 1,
    "player": "taruto1212",
-   "archetype": "Jeskai Xerox",
+   "archetype": "Jeskai Control",
    "main": [
     {
      "count": 1,
@@ -1789,7 +1793,7 @@
    "finish": "3-4",
    "seed": 3,
    "player": "LuisMJ",
-   "archetype": "Underworld Breach",
+   "archetype": "4c Underworld Breach",
    "main": [
     {
      "count": 1,
@@ -2569,7 +2573,7 @@
    "finish": "5-8",
    "seed": 5,
    "player": "Hakumei1234",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 4,
@@ -3097,7 +3101,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "MentalMisstep",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 4,
@@ -3583,7 +3587,7 @@
    "finish": "5-8",
    "seed": 7,
    "player": "KingSedris",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 1,

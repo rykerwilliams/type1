@@ -21,6 +21,10 @@
   {
    "text": "MTGGoldfish has the same Top 8 with an exact 1st-8th order and dates it 22 October, but two of its lists have impossible counts (a 59-card main deck and a 16-card sideboard), so it was not used.",
    "url": "https://www.mtggoldfish.com/tournament/22498"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/22498"
   }
  ],
  "decks": [
@@ -28,7 +32,7 @@
    "finish": "1",
    "seed": 4,
    "player": "Joan Anton Mateo",
-   "archetype": "Monastery",
+   "archetype": "Mentor Control",
    "main": [
     {
      "count": 1,
@@ -670,7 +674,7 @@
    "finish": "2",
    "seed": 7,
    "player": "Maarten Knaepen",
-   "archetype": "MUD",
+   "archetype": "Car Shops",
    "main": [
     {
      "count": 4,
@@ -1170,7 +1174,7 @@
    "finish": "3-4",
    "seed": 1,
    "player": "Jose Antonio Badia Garcia",
-   "archetype": "Eldrazi Aggro",
+   "archetype": "Eldrazi White",
    "main": [
     {
      "count": 4,
@@ -1642,7 +1646,7 @@
    "finish": "3-4",
    "seed": 6,
    "player": "Antonio Musarra",
-   "archetype": "MUD",
+   "archetype": "Phyrexian MUD",
    "main": [
     {
      "count": 1,
@@ -2586,7 +2590,7 @@
    "finish": "5-8",
    "seed": 2,
    "player": "Ladislav Loucka",
-   "archetype": "MUD",
+   "archetype": "Car Shops",
    "main": [
     {
      "count": 3,

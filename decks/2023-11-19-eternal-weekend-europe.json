@@ -24,6 +24,10 @@
   {
    "text": "Seeds are the standings after the last Swiss round (Round 7) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
    "url": "https://melee.gg/Tournament/View/38335"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/45550"
   }
  ],
  "decks": [
@@ -31,7 +35,7 @@
    "finish": "1",
    "seed": 1,
    "player": "Lukas Schwendinger",
-   "archetype": "Esper Control",
+   "archetype": "Esper Combo",
    "main": [
     {
      "count": 1,
@@ -2290,7 +2294,7 @@
    "finish": "3-4",
    "seed": 7,
    "player": "Eliott_dragon",
-   "archetype": "Bazaar Aggro",
+   "archetype": "HollowVine",
    "main": [
     {
      "count": 4,
@@ -3318,7 +3322,7 @@
    "finish": "5-8",
    "seed": 3,
    "player": "Martinho1111",
-   "archetype": "Beseech the Mirror",
+   "archetype": "Dimir Combo",
    "main": [
     {
      "count": 1,
@@ -4029,7 +4033,7 @@
    "finish": "5-8",
    "seed": 8,
    "player": "Rodmanbcn",
-   "archetype": "Beseech the Mirror",
+   "archetype": "Dimir Storm",
    "main": [
     {
      "count": 1,

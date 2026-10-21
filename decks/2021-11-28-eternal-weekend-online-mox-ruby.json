@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes; archetype names are mtgtop8's.",
+   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes.",
    "url": "https://www.mtgtop8.com/event?e=33788&f=VI"
   },
   {
@@ -25,6 +25,10 @@
   {
    "text": "Seeds are the seeding shown in mtgo.com's Top 8 bracket.",
    "url": "https://www.mtgo.com/decklist/vintage-eternal-weekend-mox-ruby-2021-11-2812359296"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/37785"
   }
  ],
  "decks": [
@@ -32,7 +36,7 @@
    "finish": "1",
    "seed": 3,
    "player": "CookieKid00",
-   "archetype": "Underworld Breach",
+   "archetype": "Grixis Underworld Breach",
    "main": [
     {
      "count": 1,
@@ -728,7 +732,7 @@
    "finish": "2",
    "seed": 1,
    "player": "VictorJudge",
-   "archetype": "Planeswalker Control",
+   "archetype": "RUG Control",
    "main": [
     {
      "count": 4,
@@ -1214,7 +1218,7 @@
    "finish": "3-4",
    "seed": 2,
    "player": "rada2222",
-   "archetype": "Paradoxical Storm",
+   "archetype": "Paradoxical Outcome",
    "main": [
     {
      "count": 1,
@@ -1938,7 +1942,7 @@
    "finish": "3-4",
    "seed": 4,
    "player": "medvedev",
-   "archetype": "MUD",
+   "archetype": "Aggro Shops",
    "main": [
     {
      "count": 4,
@@ -2480,7 +2484,7 @@
    "finish": "5-8",
    "seed": 5,
    "player": "lsv",
-   "archetype": "Underworld Breach",
+   "archetype": "Grixis Underworld Breach",
    "main": [
     {
      "count": 1,
@@ -3120,7 +3124,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "heartattackmuffin",
-   "archetype": "BUG Midrange",
+   "archetype": "Sultai Midrange",
    "main": [
     {
      "count": 1,

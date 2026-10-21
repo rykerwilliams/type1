@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes; archetype names are mtgtop8's, which has only three of these decks (abethemage, swengen, jamiewvh); the other five archetypes are null.",
+   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes.",
    "url": "https://www.mtgtop8.com/event?e=33790&f=VI"
   },
   {
@@ -25,6 +25,10 @@
   {
    "text": "Seeds are the seeding shown in mtgo.com's Top 8 bracket.",
    "url": "https://www.mtgo.com/decklist/vintage-eternal-weekend-timetwister-2021-11-2712359295"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/37777"
   }
  ],
  "decks": [
@@ -32,7 +36,7 @@
    "finish": "1",
    "seed": 4,
    "player": "abethemage",
-   "archetype": "Grixis Control",
+   "archetype": "4c Tinker",
    "main": [
     {
      "count": 1,
@@ -728,7 +732,7 @@
    "finish": "2",
    "seed": 2,
    "player": "swengen",
-   "archetype": "UR Aggro",
+   "archetype": "Izzet Tempo",
    "main": [
     {
      "count": 3,
@@ -1312,7 +1316,7 @@
    "finish": "3-4",
    "seed": 1,
    "player": "jamiewvh",
-   "archetype": "Hatebear",
+   "archetype": "Orzhov Aggro",
    "main": [
     {
      "count": 1,
@@ -1756,7 +1760,7 @@
    "finish": "3-4",
    "seed": 3,
    "player": "SentientTea",
-   "archetype": null,
+   "archetype": "Izzet Tempo",
    "main": [
     {
      "count": 1,
@@ -2298,7 +2302,7 @@
    "finish": "5-8",
    "seed": 5,
    "player": "Talisker",
-   "archetype": null,
+   "archetype": "Grixis Underworld Breach",
    "main": [
     {
      "count": 1,
@@ -2994,7 +2998,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "eggybenny",
-   "archetype": null,
+   "archetype": "WB",
    "main": [
     {
      "count": 4,
@@ -3606,7 +3610,7 @@
    "finish": "5-8",
    "seed": 7,
    "player": "NooxTom",
-   "archetype": null,
+   "archetype": "Grixis Tempo",
    "main": [
     {
      "count": 1,
@@ -4148,7 +4152,7 @@
    "finish": "5-8",
    "seed": 8,
    "player": "discoverN",
-   "archetype": null,
+   "archetype": "Doomsday",
    "main": [
     {
      "count": 3,

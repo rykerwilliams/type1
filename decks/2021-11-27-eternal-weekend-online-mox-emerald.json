@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes; archetype names are mtgtop8's.",
+   "text": "Placings are from mtgo.com (its final ranking and Top 8 bracket); there was no written coverage. mtgo.com names no archetypes.",
    "url": "https://www.mtgtop8.com/event?e=33789&f=VI"
   },
   {
@@ -25,6 +25,10 @@
   {
    "text": "Seeds are the seeding shown in mtgo.com's Top 8 bracket.",
    "url": "https://www.mtgo.com/decklist/vintage-eternal-weekend-mox-emerald-2021-11-2712359294"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/37776"
   }
  ],
  "decks": [
@@ -32,7 +36,7 @@
    "finish": "1",
    "seed": 3,
    "player": "Vivarus",
-   "archetype": "Underworld Breach",
+   "archetype": "4c Tinker",
    "main": [
     {
      "count": 1,
@@ -812,7 +816,7 @@
    "finish": "2",
    "seed": 2,
    "player": "_Pady_",
-   "archetype": "UB Control",
+   "archetype": "Esper Tinker",
    "main": [
     {
      "count": 1,
@@ -1536,7 +1540,7 @@
    "finish": "3-4",
    "seed": 1,
    "player": "Nick_Fox",
-   "archetype": "Paradoxical Storm",
+   "archetype": "Paradoxical Outcome",
    "main": [
     {
      "count": 1,
@@ -2260,7 +2264,7 @@
    "finish": "3-4",
    "seed": 4,
    "player": "Vizzerdrix",
-   "archetype": "Bazaar Aggro",
+   "archetype": "Counter Vine",
    "main": [
     {
      "count": 4,
@@ -3218,7 +3222,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "Naoto",
-   "archetype": "Planeswalker Control",
+   "archetype": "4c Tempo",
    "main": [
     {
      "count": 1,
@@ -4295,7 +4299,7 @@
    "finish": "5-8",
    "seed": 8,
    "player": "yamakiller",
-   "archetype": "Underworld Breach",
+   "archetype": "Grixis Underworld Breach",
    "main": [
     {
      "count": 1,

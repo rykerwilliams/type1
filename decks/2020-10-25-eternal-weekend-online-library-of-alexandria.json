@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Placings (1 to 8, as magic.gg numbers them) and archetype names are from magic.gg's Library of Alexandria Championship results table; mtgo.com names no archetypes.",
+   "text": "Placings (1 to 8, as magic.gg numbers them) are from magic.gg's Library of Alexandria Championship results table.",
    "url": "https://magic.gg/news/eternal-weekend-2020-vintage-highlights"
   },
   {
@@ -25,6 +25,10 @@
   {
    "text": "Seeds are the seeding shown in mtgo.com's Top 8 bracket.",
    "url": "https://www.mtgo.com/decklist/vintage-eternal-weekend-library-2020-10-2412221036"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events. Kept from the earlier source where Goldfish names only colours or lists no deck: KevinCron (Goldfish: 'WUR'); Tezzeret01 (Goldfish: 'WUBR'); stonepeanut (Goldfish: 'Colorless'); WingedHussar (Goldfish: 'WUBRG'); 0inksterthepig (Goldfish: 'URG').",
+   "url": "https://www.mtggoldfish.com/tournament/32884"
   }
  ],
  "decks": [
@@ -2868,7 +2872,7 @@
    "finish": "6",
    "seed": 6,
    "player": "IamActuallyLvL1",
-   "archetype": "Esper Paradoxical Outcome",
+   "archetype": "Paradoxical Outcome",
    "main": [
     {
      "count": 1,
