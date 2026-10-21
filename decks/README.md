@@ -76,7 +76,10 @@ adds `oracle_id` and `original_printing` to every card.
 2. Copy what the source printed. Where it is plainly wrong (a card listed
    twice, a 61st card, two of a restricted card), fix it from a second source
    and leave a note naming both.
-3. Placings come from the official coverage or the organizer, never from a
-   site that sorts by Swiss record.
+3. Placings come from the playoff itself: official coverage, the organizer's
+   bracket, match reports. Never from a site's ordering of the Top 8 alone:
+   mtgtop8 often lists it by Swiss standing, which named the wrong champion
+   for 2022 NA. On Melee, read the playoff rounds' match results, not the
+   final standings, which have the order wrong for 2023 NA and Europe.
 
 `python3 script/check-decks.py` checks every file.
