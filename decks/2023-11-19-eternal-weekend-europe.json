@@ -20,12 +20,16 @@
   },
   {
    "text": "Organized by JK Entertainment. Names differ between Melee and mtgtop8 (\"Martin Lamr\" / \"Martinho1111\", \"Fabian Weiss\" / \"Fabian Friedrich\", \"Jose Alascio\" / \"Moatzu\"); mtgtop8's are kept."
+  },
+  {
+   "text": "Seeds are the standings after the last Swiss round (Round 7) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
+   "url": "https://melee.gg/Tournament/View/38335"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 1,
    "player": "Lukas Schwendinger",
    "archetype": "Esper Control",
    "main": [
@@ -820,7 +824,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 6,
    "player": "Hans Jacob Goddik",
    "archetype": "Dimir Control",
    "main": [
@@ -1489,7 +1493,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 4,
    "player": "Moatzu",
    "archetype": "Grixis Control",
    "main": [
@@ -2284,7 +2288,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 7,
    "player": "Eliott_dragon",
    "archetype": "Bazaar Aggro",
    "main": [
@@ -2644,7 +2648,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 2,
    "player": "Justin Gennari",
    "archetype": "Oath of Druids",
    "main": [
@@ -3312,7 +3316,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 3,
    "player": "Martinho1111",
    "archetype": "Beseech the Mirror",
    "main": [
@@ -4023,7 +4027,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Rodmanbcn",
    "archetype": "Beseech the Mirror",
    "main": [
@@ -4734,7 +4738,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 5,
    "player": "Fabian Friedrich",
    "archetype": "Oath of Druids",
    "main": [

@@ -20,12 +20,16 @@
   {
    "text": "Players: 103, per Melee and mtgtop8.",
    "url": "https://melee.gg/Tournament/View/12410"
+  },
+  {
+   "text": "Seeds are the standings after the last Swiss round (Round 7) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
+   "url": "https://melee.gg/Tournament/View/12410"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 3,
    "player": "Yusuke Takakuwa",
    "archetype": "Coveted Jewel",
    "main": [
@@ -744,7 +748,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 1,
    "player": "Chris Schiber",
    "archetype": "Initiative Hatebear",
    "main": [
@@ -1261,7 +1265,7 @@
   },
   {
    "finish": "3",
-   "seed": null,
+   "seed": 5,
    "player": "Hiroki Nakatani",
    "archetype": "Dimir Control",
    "main": [
@@ -1979,7 +1983,7 @@
   },
   {
    "finish": "4",
-   "seed": null,
+   "seed": 7,
    "player": "Shota Yamaguchi",
    "archetype": "Grixis Control",
    "main": [
@@ -2831,7 +2835,7 @@
   },
   {
    "finish": "5",
-   "seed": null,
+   "seed": 2,
    "player": "Youhei Tsumori",
    "archetype": "Grixis Control",
    "main": [
@@ -3668,7 +3672,7 @@
   },
   {
    "finish": "6",
-   "seed": null,
+   "seed": 4,
    "player": "Ryo Jumonji",
    "archetype": "Underworld Breach",
    "main": [
@@ -4476,7 +4480,7 @@
   },
   {
    "finish": "7",
-   "seed": null,
+   "seed": 6,
    "player": "Kandai Sekimoto",
    "archetype": "Bazaar Aggro",
    "main": [
@@ -4888,7 +4892,7 @@
   },
   {
    "finish": "8",
-   "seed": null,
+   "seed": 8,
    "player": "Gen Shinohara",
    "archetype": "Grixis Combo",
    "main": [

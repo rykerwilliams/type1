@@ -11,12 +11,12 @@
  "partial": false,
  "notes": [
   {
-   "text": "Lists, placings, player names and archetype names copied from mtgtop8. The organizer (Card Titan) published the lists on melee.gg at https://melee.gg/Tournament/View/358605, which blocks automated fetching; they were not compared here.",
+   "text": "Lists, player names and archetype names copied from mtgtop8, which took them from the organizer's (Card Titan's) Melee page; the lists were not compared card for card against Melee.",
    "url": "https://melee.gg/Tournament/View/358605"
   },
   {
-   "text": "Seeds (Swiss standings) are not given by mtgtop8 and are left null.",
-   "url": "https://www.mtgtop8.com/event?e=74965&f=VI"
+   "text": "Placings and seeds are from the organizer's Melee page: seeds are the standings after the last Swiss round, and placings follow its playoff matches (quarterfinals: Max Gilmore def. mbatista 2-0; Chad Uzzell def. Stefan Vastek 2-1; Dave Kaplan def. andrewslafreniere 2-0; Jeremy Henry def. Greg Mitchell 2-0. Semifinals: Dave Kaplan def. Chad Uzzell 2-0; Jeremy Henry def. Max Gilmore 2-0. Final: Jeremy Henry def. Dave Kaplan 2-0). They agree with mtgtop8's at every tier.",
+   "url": "https://melee.gg/Tournament/View/358605"
   },
   {
    "text": "Swiss was played on 2025-10-10; mtgtop8 dates the event to that day. The Top 8 was played on 2025-10-11.",
@@ -26,7 +26,7 @@
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 5,
    "player": "Jeremy Henry",
    "archetype": "Hatebear",
    "main": [
@@ -471,7 +471,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 3,
    "player": "Dave Kaplan",
    "archetype": "Dimir Control",
    "main": [
@@ -1126,7 +1126,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 8,
    "player": "Max Gilmore",
    "archetype": "BUG Midrange",
    "main": [
@@ -1738,7 +1738,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 2,
    "player": "Chad Uzzell",
    "archetype": "Dredge",
    "main": [
@@ -2070,7 +2070,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 4,
    "player": "Greg Mitchell",
    "archetype": "Esper Lurrus",
    "main": [
@@ -2781,7 +2781,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 7,
    "player": "Stefan Vastek",
    "archetype": "Golos MUD",
    "main": [
@@ -3379,7 +3379,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 1,
    "player": "Mbatista",
    "archetype": "Mono Black Aggro",
    "main": [
@@ -3798,7 +3798,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 6,
    "player": "Andrewslafreniere",
    "archetype": "MUD",
    "main": [

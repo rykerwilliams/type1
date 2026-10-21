@@ -43,9 +43,13 @@ is welcome: a list, a photo of a decklist, the standings.
 
 - **2007 Gen Con**: who lost the semifinal to Richard Shay? The other five
   quarterfinalists are all listed 5–8 until that's known.
-- **2017 and 2018 NA, 2025 Europe**: places below the final rest on mtgtop8
-  alone. Official standings or coverage would settle them.
-- **2022–2025 NA**: lists not yet compared against Melee.
+- **2019 Asia**: who were the losing semifinalists? The organizer ranked the
+  playoff losers by Swiss standing, so all six non-finalists are listed 5–8.
+  A bracket photo or a player's post would settle it.
+- **2009 Gen Con**: who beat whom in three of the quarterfinals (how
+  Ducommun, Speers and Donovan went out).
+- **2022–2025 NA**: the lists are not yet compared card for card against
+  Melee. The placings are.
 - **2018 Asia**: one romanized name, Uesugi, is uncertain.
 
 **Better sources.** A list copied from a secondary site (mtgtop8, the lhc

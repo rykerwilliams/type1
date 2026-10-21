@@ -17,12 +17,16 @@
   {
    "text": "Organized by JK Entertainment. Four players appear on mtgtop8 under their Melee handles; their names here are from MTGGoldfish (each deck notes the handle).",
    "url": "https://www.mtggoldfish.com/articles/vintage-101-eu-eternal-weekend-2024"
+  },
+  {
+   "text": "Seeds are the standings after the last Swiss round (Round 8) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
+   "url": "https://melee.gg/Tournament/View/203530"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 2,
    "player": "Samuel Mistygatz",
    "archetype": "Dredge",
    "main": [
@@ -401,7 +405,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 1,
    "player": "Juan Eliso Soto",
    "archetype": "Esper Lurrus",
    "main": [
@@ -1019,7 +1023,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 6,
    "player": "Brian Coval",
    "archetype": "Esper Lurrus",
    "main": [
@@ -1651,7 +1655,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 4,
    "player": "Thilo Schramm",
    "archetype": "Initiative Hatebear",
    "main": [
@@ -2059,7 +2063,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 3,
    "player": "Oscar Basart",
    "archetype": "Coveted Jewel",
    "main": [
@@ -2658,7 +2662,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 7,
    "player": "Javier Dominguez",
    "archetype": "Dimir Control",
    "main": [
@@ -3286,7 +3290,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Stefan Schütz",
    "archetype": "Doomsday",
    "main": [
@@ -3898,7 +3902,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 5,
    "player": "Cheng Guo",
    "archetype": "Initiative Hatebear",
    "main": [
