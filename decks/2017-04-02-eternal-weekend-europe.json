@@ -24,6 +24,10 @@
   },
   {
    "text": "The winner's deck is \"Eldrazi Aggro\" on mtgtop8, \"White Eldrazi\" on the organizer's page and \"Displacer Taxes\" on MTGGoldfish."
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events. Kept from the earlier source where Goldfish names only colours or lists no deck: Sergio Matesanz Garcia (not on Goldfish).",
+   "url": "https://www.mtggoldfish.com/tournament/23947"
   }
  ],
  "decks": [
@@ -31,7 +35,7 @@
    "finish": "1",
    "seed": 1,
    "player": "Joaquín Solís",
-   "archetype": "Eldrazi Aggro",
+   "archetype": "Displacer Taxes",
    "main": [
     {
      "count": 1,
@@ -494,7 +498,7 @@
    "finish": "2",
    "seed": 3,
    "player": "Aurelio Crespo",
-   "archetype": "MUD",
+   "archetype": "Ravager Shops",
    "main": [
     {
      "count": 1,
@@ -980,7 +984,7 @@
    "finish": "3-4",
    "seed": 5,
    "player": "Javier Rodriguez Pozo",
-   "archetype": "2/1 Control",
+   "archetype": "Team Leovold",
    "main": [
     {
      "count": 1,
@@ -2106,7 +2110,7 @@
    "finish": "5-8",
    "seed": 4,
    "player": "Ruben Gonzalez Caballero",
-   "archetype": "Grixis Control",
+   "archetype": "Grixis Thieves",
    "main": [
     {
      "count": 1,
@@ -2705,7 +2709,7 @@
    "finish": "5-8",
    "seed": 8,
    "player": "Steven Martens",
-   "archetype": "Monastery",
+   "archetype": "Mystic Mentor",
    "main": [
     {
      "count": 1,
@@ -4115,7 +4119,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "Pierrick Mode",
-   "archetype": "MUD",
+   "archetype": "Hot Wheels Shops",
    "main": [
     {
      "count": 1,

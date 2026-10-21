@@ -21,6 +21,10 @@
   {
    "text": "Organized by Hareruya, who confirm Okamoto as champion; the 2nd, 3-4 and 5-8 placings are mtgtop8's and MTGGoldfish's playoff order. mtgtop8 and MTGGoldfish date the event 13 December, the UTC date of its 08:30 JST start on the 14th.",
    "url": "https://article.hareruyamtg.com/article/104780/"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/60312"
   }
  ],
  "decks": [
@@ -29,7 +33,7 @@
    "seed": 1,
    "player": "Takuma Okamoto",
    "player_native": "岡本 卓磨",
-   "archetype": "Dimir Control",
+   "archetype": "Dimir Control (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -704,7 +708,7 @@
    "seed": 6,
    "player": "Kandai Sekimoto",
    "player_native": "関本 寛大",
-   "archetype": "Doomsday",
+   "archetype": "Dimir Doomsday (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -1290,7 +1294,7 @@
    "seed": 5,
    "player": "Tomoyuki Morita",
    "player_native": "森田 朋之",
-   "archetype": "Dredge",
+   "archetype": "Colorless Dredge",
    "main": [
     {
      "count": 4,
@@ -1628,7 +1632,7 @@
    "seed": 7,
    "player": "Akinori Miura",
    "player_native": "三浦 聡徳",
-   "archetype": "Reanimator",
+   "archetype": "W-U-B-G Scam",
    "main": [
     {
      "count": 4,
@@ -2262,7 +2266,7 @@
    "seed": 9,
    "player": "Shimpei Toyota",
    "player_native": "豊田 晋平",
-   "archetype": "Dimir Control",
+   "archetype": "Dimir Standard (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -2951,7 +2955,7 @@
    "seed": 13,
    "player": "Hiromichi Yajima",
    "player_native": "矢島 広道",
-   "archetype": "Paradoxical Outcome",
+   "archetype": "Mono-Blue Paradoxical Outcome",
    "main": [
     {
      "count": 4,
@@ -3566,7 +3570,7 @@
    "seed": 14,
    "player": "Kohei Takatori",
    "player_native": "高鳥 航平",
-   "archetype": "Esper Lurrus",
+   "archetype": "Esper Control (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -4222,7 +4226,7 @@
    "seed": 15,
    "player": "Yusuke Takakuwa",
    "player_native": "高桑 雄介",
-   "archetype": "Coveted Jewel",
+   "archetype": "Mono-Blue Jewel Shops",
    "main": [
     {
      "count": 4,

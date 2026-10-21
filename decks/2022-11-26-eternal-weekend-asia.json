@@ -14,7 +14,7 @@
    "text": "Held inside Players Convention Aichi 2022, organized by BIG MAGIC. mtg-jp prints card names in Japanese (Power, duals and other old cards in English); `name` is the English name, checked against Scryfall and mtg-jp's own English export, and `printed_as` the Japanese as printed. Seven lists match mtgtop8's copy of the Melee lists card for card."
   },
   {
-   "text": "Placings 1st-8th are mtg-jp's. mtgtop8's Top 8 is wrong: it ranks Chris Schiber 1st and Youhei Tsumori 2nd, puts the champion Takakuwa in 3-4, and leaves out Gen Shinohara. The final report spells the runner-up \"Chris Schiver\". mtg-jp gives no archetypes; they are mtgtop8's.",
+   "text": "Placings 1st-8th are mtg-jp's. mtgtop8's Top 8 is wrong: it ranks Chris Schiber 1st and Youhei Tsumori 2nd, puts the champion Takakuwa in 3-4, and leaves out Gen Shinohara. The final report spells the runner-up \"Chris Schiver\".",
    "url": "https://mtg-jp.com/coverage/aew22/article/0036550/"
   },
   {
@@ -24,6 +24,10 @@
   {
    "text": "Seeds are the standings after the last Swiss round (Round 7) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
    "url": "https://melee.gg/Tournament/View/12410"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/41301"
   }
  ],
  "decks": [
@@ -31,7 +35,7 @@
    "finish": "1",
    "seed": 3,
    "player": "Yusuke Takakuwa",
-   "archetype": "Coveted Jewel",
+   "archetype": "Mono-Blue Combo",
    "main": [
     {
      "count": 1,
@@ -750,7 +754,7 @@
    "finish": "2",
    "seed": 1,
    "player": "Chris Schiber",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Aggro",
    "main": [
     {
      "count": 4,
@@ -1267,7 +1271,7 @@
    "finish": "3",
    "seed": 5,
    "player": "Hiroki Nakatani",
-   "archetype": "Dimir Control",
+   "archetype": "Dimir Combo",
    "main": [
     {
      "count": 1,
@@ -1985,7 +1989,7 @@
    "finish": "4",
    "seed": 7,
    "player": "Shota Yamaguchi",
-   "archetype": "Grixis Control",
+   "archetype": "Four-color Combo",
    "main": [
     {
      "count": 1,
@@ -2837,7 +2841,7 @@
    "finish": "5",
    "seed": 2,
    "player": "Youhei Tsumori",
-   "archetype": "Grixis Control",
+   "archetype": "Four-color Combo",
    "main": [
     {
      "count": 1,
@@ -4482,7 +4486,7 @@
    "finish": "7",
    "seed": 6,
    "player": "Kandai Sekimoto",
-   "archetype": "Bazaar Aggro",
+   "archetype": "Hogaak Vine",
    "main": [
     {
      "count": 4,

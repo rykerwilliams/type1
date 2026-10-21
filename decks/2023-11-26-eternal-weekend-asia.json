@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Held inside Players Convention Aichi 2023, organized by BIG MAGIC. mtg-jp prints card names in Japanese (Power, duals and other old cards in English); `name` is the English name, checked against Scryfall, and `printed_as` the Japanese as printed. Archetypes are translated from mtg-jp's Japanese labels; English player names are from Melee. Every list matches mtgtop8's copy of the Melee lists card for card (except mtgtop8's spelling \"Lorien Revealed\")."
+   "text": "Held inside Players Convention Aichi 2023, organized by BIG MAGIC. mtg-jp prints card names in Japanese (Power, duals and other old cards in English); `name` is the English name, checked against Scryfall, and `printed_as` the Japanese as printed. English player names are from Melee. Every list matches mtgtop8's copy of the Melee lists card for card (except mtgtop8's spelling \"Lorien Revealed\")."
   },
   {
    "text": "Placings are mtg-jp's (Winner, Runner-up, Top 4, Top 8), confirmed by the playoff matches on the Melee page, entered there after the event: quarterfinals Hirasawa def. Marumo 2-1, Hayasaki def. Shinohara 2-0, Yamamoto def. Ota 2-0, Takei def. Hosomi 2-0; semifinals Hirasawa def. Hayasaki 2-0, Yamamoto def. Takei 2-1; final Hirasawa def. Yamamoto 2-1. mtgtop8, MTGGoldfish and Melee's own final standings all order the Top 8 differently, and wrongly.",
@@ -24,6 +24,10 @@
   {
    "text": "Seeds are the standings after the last Swiss round (Round 8) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
    "url": "https://melee.gg/Tournament/View/30338"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/45612"
   }
  ],
  "decks": [
@@ -32,7 +36,7 @@
    "seed": 1,
    "player": "Daisuke Hirasawa",
    "player_native": "ヒラサワ ダイスケ",
-   "archetype": "Oath",
+   "archetype": "Oath of Druids",
    "main": [
     {
      "count": 2,
@@ -678,7 +682,7 @@
    "seed": 7,
    "player": "Masanori Yamamoto",
    "player_native": "山本 政徳",
-   "archetype": "Paradox Combo",
+   "archetype": "Mono-Blue Combo",
    "main": [
     {
      "count": 4,
@@ -3872,7 +3876,7 @@
    "seed": 6,
    "player": "Kyohei Hosomi",
    "player_native": "細見 京平",
-   "archetype": "Stax",
+   "archetype": "Golos Stax",
    "main": [
     {
      "count": 4,

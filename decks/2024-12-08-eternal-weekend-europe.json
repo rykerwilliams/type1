@@ -21,6 +21,10 @@
   {
    "text": "Seeds are the standings after the last Swiss round (Round 8) on the Melee page; they match the quarterfinal pairings (1v8, 2v7, 3v6, 4v5).",
    "url": "https://melee.gg/Tournament/View/203530"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/52847"
   }
  ],
  "decks": [
@@ -407,7 +411,7 @@
    "finish": "2",
    "seed": 1,
    "player": "Juan Eliso Soto",
-   "archetype": "Esper Lurrus",
+   "archetype": "Esper Control",
    "main": [
     {
      "count": 4,
@@ -1025,7 +1029,7 @@
    "finish": "3-4",
    "seed": 6,
    "player": "Brian Coval",
-   "archetype": "Esper Lurrus",
+   "archetype": "Esper Control",
    "main": [
     {
      "count": 2,
@@ -1657,7 +1661,7 @@
    "finish": "3-4",
    "seed": 4,
    "player": "Thilo Schramm",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 4,
@@ -2065,7 +2069,7 @@
    "finish": "5-8",
    "seed": 3,
    "player": "Oscar Basart",
-   "archetype": "Coveted Jewel",
+   "archetype": "Paradoxical Outcome",
    "main": [
     {
      "count": 4,
@@ -2664,7 +2668,7 @@
    "finish": "5-8",
    "seed": 7,
    "player": "Javier Dominguez",
-   "archetype": "Dimir Control",
+   "archetype": "Dimir Tempo",
    "main": [
     {
      "count": 1,
@@ -3904,7 +3908,7 @@
    "finish": "5-8",
    "seed": 5,
    "player": "Cheng Guo",
-   "archetype": "Initiative Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 4,

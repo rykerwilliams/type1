@@ -16,12 +16,16 @@
    "url": "https://web.archive.org/web/20161212050848/http://www.cardtitan.com/coverage"
   },
   {
-   "text": "Card Titan names no archetypes and gives no player count or Swiss standings; archetype names and the 344 players are from mtgtop8. Seeds are unknown.",
+   "text": "Card Titan names no archetypes and gives no player count or Swiss standings; the 344 players are from mtgtop8. Seeds are unknown.",
    "url": "https://www.mtgtop8.com/event?e=13958&f=VI"
   },
   {
    "text": "Swiss was played Friday 2016-10-28; the Top 8 on Sunday 2016-10-30. mtgtop8 dates the event to the Friday.",
    "url": "https://web.archive.org/web/20161212050848/http://www.cardtitan.com/coverage"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/22546"
   }
  ],
  "decks": [
@@ -29,7 +33,7 @@
    "finish": "1",
    "seed": null,
    "player": "Joseph Bogaard",
-   "archetype": "Landstill",
+   "archetype": "EmraStill",
    "main": [
     {
      "count": 1,
@@ -1101,7 +1105,7 @@
    "finish": "3",
    "seed": null,
    "player": "Hiromichi Ito",
-   "archetype": "MUD",
+   "archetype": "Car Shops",
    "main": [
     {
      "count": 1,
@@ -1601,7 +1605,7 @@
    "finish": "4",
    "seed": null,
    "player": "Joe Brennan",
-   "archetype": "Monastery",
+   "archetype": "Jeskai Mentor",
    "main": [
     {
      "count": 1,
@@ -2242,7 +2246,7 @@
    "finish": "5",
    "seed": null,
    "player": "Michael VanDyke",
-   "archetype": "Eldrazi Aggro",
+   "archetype": "White Eldrazi",
    "main": [
     {
      "count": 1,
@@ -2728,7 +2732,7 @@
    "finish": "6",
    "seed": null,
    "player": "Brian Pallas",
-   "archetype": "Monastery",
+   "archetype": "Esper Thoughtcast Mentor",
    "main": [
     {
      "count": 1,
@@ -3411,7 +3415,7 @@
    "finish": "7",
    "seed": null,
    "player": "Derek Gallacher",
-   "archetype": "Eldrazi Aggro",
+   "archetype": "JacoDrazi",
    "main": [
     {
      "count": 1,
@@ -3914,7 +3918,7 @@
    "finish": "8",
    "seed": null,
    "player": "Andrew Markiton",
-   "archetype": "Eldrazi Aggro",
+   "archetype": "TKS/Ravager Shops",
    "main": [
     {
      "count": 1,

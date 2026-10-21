@@ -60,7 +60,7 @@ Top 8 only, even where the cut was larger.
 | `decks[].finish` | `"1"`, `"2"`, `"3-4"`, `"5-8"`, or `"1"`…`"8"` where the event placed every slot |
 | `decks[].seed` | Swiss standing going into the Top 8, `null` if unknown |
 | `decks[].player` | in English; `player_native` alongside where the source wrote it otherwise (`十文字 諒`) |
-| `decks[].archetype` | as the source named it |
+| `decks[].archetype` | MTGGoldfish's name where Goldfish has the event, for consistency across events; otherwise as the source named it. Where Goldfish gives only a colour code (`WUR`, `Colorless`), the source's name is kept and the event's notes say so |
 | `decks[].source` | only where this deck came from somewhere other than the event's `source` |
 | `decks[].main`, `sideboard` | `null` when the list is not known. A known list with no sideboard printed keeps `"sideboard": null` and says so in `notes` |
 | `decks[].notes` | as for the event |

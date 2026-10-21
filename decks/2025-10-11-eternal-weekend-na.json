@@ -11,7 +11,7 @@
  "partial": false,
  "notes": [
   {
-   "text": "Lists, player names and archetype names copied from mtgtop8, which took them from the organizer's (Card Titan's) Melee page; the lists were not compared card for card against Melee.",
+   "text": "Lists and player names copied from mtgtop8, which took them from the organizer's (Card Titan's) Melee page; the lists were not compared card for card against Melee.",
    "url": "https://melee.gg/Tournament/View/358605"
   },
   {
@@ -21,6 +21,10 @@
   {
    "text": "Swiss was played on 2025-10-10; mtgtop8 dates the event to that day. The Top 8 was played on 2025-10-11.",
    "url": "https://www.mtgtop8.com/event?e=74965&f=VI"
+  },
+  {
+   "text": "Archetype names are MTGGoldfish's, for consistency across events.",
+   "url": "https://www.mtggoldfish.com/tournament/58947"
   }
  ],
  "decks": [
@@ -28,7 +32,7 @@
    "finish": "1",
    "seed": 5,
    "player": "Jeremy Henry",
-   "archetype": "Hatebear",
+   "archetype": "Mono-White Initiative",
    "main": [
     {
      "count": 1,
@@ -473,7 +477,7 @@
    "finish": "2",
    "seed": 3,
    "player": "Dave Kaplan",
-   "archetype": "Dimir Control",
+   "archetype": "Dimir (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -1128,7 +1132,7 @@
    "finish": "3-4",
    "seed": 8,
    "player": "Max Gilmore",
-   "archetype": "BUG Midrange",
+   "archetype": "Sultai Control (Lurrus)",
    "main": [
     {
      "count": 1,
@@ -1740,7 +1744,7 @@
    "finish": "3-4",
    "seed": 2,
    "player": "Chad Uzzell",
-   "archetype": "Dredge",
+   "archetype": "Colorless Dredge",
    "main": [
     {
      "count": 4,
@@ -2072,7 +2076,7 @@
    "finish": "5-8",
    "seed": 4,
    "player": "Greg Mitchell",
-   "archetype": "Esper Lurrus",
+   "archetype": "Esper Control (Lurrus)",
    "main": [
     {
      "count": 4,
@@ -2783,7 +2787,7 @@
    "finish": "5-8",
    "seed": 7,
    "player": "Stefan Vastek",
-   "archetype": "Golos MUD",
+   "archetype": "Colorless Sphere Shops",
    "main": [
     {
      "count": 4,
@@ -3381,7 +3385,7 @@
    "finish": "5-8",
    "seed": 1,
    "player": "Mbatista",
-   "archetype": "Mono Black Aggro",
+   "archetype": "Mono-Black Scam",
    "main": [
     {
      "count": 1,
@@ -3800,7 +3804,7 @@
    "finish": "5-8",
    "seed": 6,
    "player": "Andrewslafreniere",
-   "archetype": "MUD",
+   "archetype": "Colorless Raker Shops",
    "main": [
     {
      "count": 1,
