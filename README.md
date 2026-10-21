@@ -98,6 +98,10 @@ state files, so a deck can be read against the restricted list on the day it
 was played. [`decks/README.md`](decks/README.md) has the format and the rules
 the lists were copied by.
 
+Something wrong, mis-cited or missing? [`CONTRIBUTING.md`](CONTRIBUTING.md)
+says how to fix it — an issue with a source is enough — and lists the lost
+decklists still being looked for.
+
 ```
 python3 script/resolve-decks.py --write   # card identity and printings, from Scryfall bulk data
 python3 script/check-decks.py             # deck sizes, and no restricted card twice
