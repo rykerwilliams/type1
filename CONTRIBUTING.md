@@ -52,6 +52,15 @@ is welcome: a list, a photo of a decklist, the standings.
 sets on Deckbox, a forum repost) should point at its original coverage when that can
 be found, even if the list doesn't change.
 
+**Other major tournaments.** `decks/` holds the championships only, but Top 8s
+from other major Vintage events are of interest too: the big paper opens,
+invitationals, Vintage at the old Grand Prix and SCG events. They have no home
+yet, so [open an issue](https://github.com/rykerwilliams/type1/issues/new)
+rather than a pull request: name the event, link the coverage the lists come
+from, and they'll get a folder of their own, in the same format, once the
+first ones arrive. Sources are not optional here either: a Top 8 with no
+coverage to point at won't go in.
+
 ## Sending a pull request
 
 ### Decklists
@@ -98,5 +107,5 @@ checks the replay, the snapshots, and today's list against Scryfall.
 - **A counterfactual.** This records what the list was and what was played,
   not what should have been. Menendian's *Schools of Magic* is deliberately
   not a source for that reason.
-- **A Top 8 that isn't the championship.** Other events are worth recording,
-  but not in this folder.
+- **A Top 8 that isn't the championship, in `decks/`.** Other major events are
+  welcome, but in their own folder: see *Other major tournaments* above.
