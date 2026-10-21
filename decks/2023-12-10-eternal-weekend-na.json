@@ -49,13 +49,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {
@@ -220,10 +220,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -414,13 +414,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -503,10 +503,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -556,13 +556,13 @@
      "name": "Wurmcoil Engine",
      "oracle_id": "d1a60f44-7696-49ee-91fb-cab5b3102962",
      "original_printing": {
-      "set": "PSOM",
-      "set_name": "Scars of Mirrodin Promos",
-      "released_at": "2010-09-30",
-      "collector_number": "223★",
+      "set": "SOM",
+      "set_name": "Scars of Mirrodin",
+      "released_at": "2010-10-01",
+      "collector_number": "223",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/9/b9bdfa34-f608-40d4-b634-b260ad620f18.jpg?1783941749",
-      "scryfall_uri": "https://scryfall.com/card/psom/223%E2%98%85/wurmcoil-engine?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1783941691",
+      "scryfall_uri": "https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api"
      }
     },
     {
@@ -662,13 +662,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {
@@ -847,10 +847,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -1027,13 +1027,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -1127,13 +1127,13 @@
      "name": "Wurmcoil Engine",
      "oracle_id": "d1a60f44-7696-49ee-91fb-cab5b3102962",
      "original_printing": {
-      "set": "PSOM",
-      "set_name": "Scars of Mirrodin Promos",
-      "released_at": "2010-09-30",
-      "collector_number": "223★",
+      "set": "SOM",
+      "set_name": "Scars of Mirrodin",
+      "released_at": "2010-10-01",
+      "collector_number": "223",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/9/b9bdfa34-f608-40d4-b634-b260ad620f18.jpg?1783941749",
-      "scryfall_uri": "https://scryfall.com/card/psom/223%E2%98%85/wurmcoil-engine?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1783941691",
+      "scryfall_uri": "https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api"
      }
     },
     {
@@ -1275,13 +1275,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {
@@ -1488,10 +1488,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -1626,13 +1626,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -1824,13 +1824,13 @@
      "name": "Wurmcoil Engine",
      "oracle_id": "d1a60f44-7696-49ee-91fb-cab5b3102962",
      "original_printing": {
-      "set": "PSOM",
-      "set_name": "Scars of Mirrodin Promos",
-      "released_at": "2010-09-30",
-      "collector_number": "223★",
+      "set": "SOM",
+      "set_name": "Scars of Mirrodin",
+      "released_at": "2010-10-01",
+      "collector_number": "223",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/9/b9bdfa34-f608-40d4-b634-b260ad620f18.jpg?1783941749",
-      "scryfall_uri": "https://scryfall.com/card/psom/223%E2%98%85/wurmcoil-engine?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1783941691",
+      "scryfall_uri": "https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api"
      }
     }
    ]
@@ -2409,13 +2409,13 @@
      "name": "Serra's Emissary",
      "oracle_id": "7a56c6e1-0509-4783-9b29-cf3163977166",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "30s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "30",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/0/9/09283c34-b063-4290-a444-6730334324f0.jpg?1783926963",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/30s/serras-emissary?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1783926884",
+      "scryfall_uri": "https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api"
      }
     },
     {
@@ -2911,10 +2911,10 @@
       "set": "CLB",
       "set_name": "Commander Legends: Battle for Baldur's Gate",
       "released_at": "2022-06-10",
-      "collector_number": "610",
+      "collector_number": "660",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/6/4/648d9da3-5790-4d64-8b52-83141d2faf36.jpg?1783922542",
-      "scryfall_uri": "https://scryfall.com/card/clb/610/seasoned-dungeoneer?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/7/f/7fee3f76-20a8-4621-84fb-ddf79c955532.jpg?1783922514",
+      "scryfall_uri": "https://scryfall.com/card/clb/660/seasoned-dungeoneer?utm_source=api"
      }
     },
     {
@@ -3048,13 +3048,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     }
    ],
@@ -3184,13 +3184,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {
@@ -3411,10 +3411,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -3549,13 +3549,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -3733,13 +3733,13 @@
      "name": "Wurmcoil Engine",
      "oracle_id": "d1a60f44-7696-49ee-91fb-cab5b3102962",
      "original_printing": {
-      "set": "PSOM",
-      "set_name": "Scars of Mirrodin Promos",
-      "released_at": "2010-09-30",
-      "collector_number": "223★",
+      "set": "SOM",
+      "set_name": "Scars of Mirrodin",
+      "released_at": "2010-10-01",
+      "collector_number": "223",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/9/b9bdfa34-f608-40d4-b634-b260ad620f18.jpg?1783941749",
-      "scryfall_uri": "https://scryfall.com/card/psom/223%E2%98%85/wurmcoil-engine?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1783941691",
+      "scryfall_uri": "https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api"
      }
     }
    ]
@@ -4359,13 +4359,13 @@
      "name": "Serra's Emissary",
      "oracle_id": "7a56c6e1-0509-4783-9b29-cf3163977166",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "30s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "30",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/0/9/09283c34-b063-4290-a444-6730334324f0.jpg?1783926963",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/30s/serras-emissary?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1783926884",
+      "scryfall_uri": "https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api"
      }
     },
     {
@@ -5041,13 +5041,13 @@
      "name": "Serra's Emissary",
      "oracle_id": "7a56c6e1-0509-4783-9b29-cf3163977166",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "30s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "30",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/0/9/09283c34-b063-4290-a444-6730334324f0.jpg?1783926963",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/30s/serras-emissary?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1783926884",
+      "scryfall_uri": "https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api"
      }
     },
     {

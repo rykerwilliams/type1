@@ -178,13 +178,13 @@
      "name": "Sun Titan",
      "oracle_id": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
      "original_printing": {
-      "set": "PM11",
-      "set_name": "Magic 2011 Promos",
-      "released_at": "2010-07-15",
-      "collector_number": "35★",
+      "set": "M11",
+      "set_name": "Magic 2011",
+      "released_at": "2010-07-16",
+      "collector_number": "35",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/b/bb07690e-d816-46de-84e7-617149a51b18.jpg?1783941839",
-      "scryfall_uri": "https://scryfall.com/card/pm11/35%E2%98%85/sun-titan?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1783941831",
+      "scryfall_uri": "https://scryfall.com/card/m11/35/sun-titan?utm_source=api"
      }
     },
     {
@@ -1790,13 +1790,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {
@@ -2072,13 +2072,13 @@
      "name": "Phyrexian Metamorph",
      "oracle_id": "340bbe8b-e987-4c3e-ab4e-9dee63e57d4f",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "42★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "42",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/9/8903546d-4f9a-4e90-8dd8-5ab068d40907.jpg?1783941329",
-      "scryfall_uri": "https://scryfall.com/card/pnph/42%E2%98%85/phyrexian-metamorph?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
+      "scryfall_uri": "https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api"
      }
     },
     {

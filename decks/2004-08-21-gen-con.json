@@ -2430,13 +2430,13 @@
      "name": "Darksteel Ingot",
      "oracle_id": "a2529491-7389-4cfa-92d2-145eda779603",
      "original_printing": {
-      "set": "PAL04",
-      "set_name": "Arena League 2004",
-      "released_at": "2004-01-01",
-      "collector_number": "6",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/6/2/62190d2d-16fc-4d71-84fd-abdf52bb5af5.jpg?1783944458",
-      "scryfall_uri": "https://scryfall.com/card/pal04/6/darksteel-ingot?utm_source=api"
+      "set": "DST",
+      "set_name": "Darksteel",
+      "released_at": "2004-02-06",
+      "collector_number": "112",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b02b9634-77e9-48ae-a6bf-859598d12c52.jpg?1783944426",
+      "scryfall_uri": "https://scryfall.com/card/dst/112/darksteel-ingot?utm_source=api"
      }
     },
     {

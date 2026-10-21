@@ -4947,13 +4947,13 @@
      "printed_as": "ヴリンの神童、ジェイス",
      "oracle_id": "594f6881-c059-46f8-aa4e-7151d502de73",
      "original_printing": {
-      "set": "PS15",
-      "set_name": "San Diego Comic-Con 2015",
-      "released_at": "2015-07-09",
+      "set": "ORI",
+      "set_name": "Magic Origins",
+      "released_at": "2015-07-17",
       "collector_number": "60",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/e/7/e7b5705f-dc56-41af-a781-8a41aaa7c5b8.jpg?1783938373",
-      "scryfall_uri": "https://scryfall.com/card/ps15/60/jace-vryns-prodigy-jace-telepath-unbound?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/0/2/02d6d693-f1f3-4317-bcc0-c21fa8490d38.jpg?1783938353",
+      "scryfall_uri": "https://scryfall.com/card/ori/60/jace-vryns-prodigy-jace-telepath-unbound?utm_source=api"
      }
     },
     {
@@ -4992,13 +4992,13 @@
      "printed_as": "ゴブリンの熟練扇動者",
      "oracle_id": "24661b81-6bee-4ad8-b3ab-53cb65005c51",
      "original_printing": {
-      "set": "PM15",
-      "set_name": "Magic 2015 Promos",
-      "released_at": "2014-07-17",
+      "set": "M15",
+      "set_name": "Magic 2015",
+      "released_at": "2014-07-18",
       "collector_number": "145",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/0/80ef4153-256b-47b9-8d2c-262527412588.jpg?1783939210",
-      "scryfall_uri": "https://scryfall.com/card/pm15/145/goblin-rabblemaster?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee9c697e-d2c0-413b-9142-ecf5d7cf5322.jpg?1783939173",
+      "scryfall_uri": "https://scryfall.com/card/m15/145/goblin-rabblemaster?utm_source=api"
      }
     },
     {

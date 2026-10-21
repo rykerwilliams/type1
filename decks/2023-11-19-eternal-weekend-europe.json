@@ -623,13 +623,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     }
    ],
@@ -1081,13 +1081,13 @@
      "name": "Fatal Push",
      "oracle_id": "16437a83-be52-44cd-a768-a767c9347eb2",
      "original_printing": {
-      "set": "F17",
-      "set_name": "Friday Night Magic 2017",
-      "released_at": "2017-01-01",
-      "collector_number": "8",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/6/86d1119d-7585-4699-8649-e3743c02d7a9.jpg?1783936797",
-      "scryfall_uri": "https://scryfall.com/card/f17/8/fatal-push?utm_source=api"
+      "set": "AER",
+      "set_name": "Aether Revolt",
+      "released_at": "2017-01-20",
+      "collector_number": "57",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764",
+      "scryfall_uri": "https://scryfall.com/card/aer/57/fatal-push?utm_source=api"
      }
     },
     {
@@ -1208,13 +1208,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -1322,13 +1322,13 @@
      "name": "Fatal Push",
      "oracle_id": "16437a83-be52-44cd-a768-a767c9347eb2",
      "original_printing": {
-      "set": "F17",
-      "set_name": "Friday Night Magic 2017",
-      "released_at": "2017-01-01",
-      "collector_number": "8",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/8/6/86d1119d-7585-4699-8649-e3743c02d7a9.jpg?1783936797",
-      "scryfall_uri": "https://scryfall.com/card/f17/8/fatal-push?utm_source=api"
+      "set": "AER",
+      "set_name": "Aether Revolt",
+      "released_at": "2017-01-20",
+      "collector_number": "57",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764",
+      "scryfall_uri": "https://scryfall.com/card/aer/57/fatal-push?utm_source=api"
      }
     },
     {
@@ -2129,13 +2129,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     }
    ],
@@ -2321,13 +2321,13 @@
      "name": "Fury",
      "oracle_id": "fbf9f8c5-849f-45d5-8129-5fc683c21a04",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "126s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "126",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/b/bb6d2808-b75b-44b3-91c9-bb7134075b20.jpg?1783926952",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/126s/fury?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1783926844",
+      "scryfall_uri": "https://scryfall.com/card/mh2/126/fury?utm_source=api"
      }
     },
     {
@@ -2349,13 +2349,13 @@
      "name": "Master of Death",
      "oracle_id": "3a16bdda-8499-47e4-b870-b9576f4c1a83",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "205s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "205",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/8/1893cb1b-7c14-4c04-a98b-d6e4b23fe6ec.jpg?1783926941",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/205s/master-of-death?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/9/b9775175-6763-4826-afc8-dc520a235c36.jpg?1783926815",
+      "scryfall_uri": "https://scryfall.com/card/mh2/205/master-of-death?utm_source=api"
      }
     },
     {
@@ -2547,13 +2547,13 @@
      "name": "Fury",
      "oracle_id": "fbf9f8c5-849f-45d5-8129-5fc683c21a04",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "126s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "126",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/b/b/bb6d2808-b75b-44b3-91c9-bb7134075b20.jpg?1783926952",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/126s/fury?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1783926844",
+      "scryfall_uri": "https://scryfall.com/card/mh2/126/fury?utm_source=api"
      }
     },
     {
@@ -2631,13 +2631,13 @@
      "name": "Surgical Extraction",
      "oracle_id": "3bfa088c-9a47-4123-aee5-4de44e355bef",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "74★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "74",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/1/114834d8-4da5-48b9-9ac7-5e3e4b7ddf2d.jpg?1783941331",
-      "scryfall_uri": "https://scryfall.com/card/pnph/74%E2%98%85/surgical-extraction?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1783941310",
+      "scryfall_uri": "https://scryfall.com/card/nph/74/surgical-extraction?utm_source=api"
      }
     }
    ]
@@ -3257,13 +3257,13 @@
      "name": "Serra's Emissary",
      "oracle_id": "7a56c6e1-0509-4783-9b29-cf3163977166",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "30s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "30",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/0/9/09283c34-b063-4290-a444-6730334324f0.jpg?1783926963",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/30s/serras-emissary?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1783926884",
+      "scryfall_uri": "https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api"
      }
     },
     {
@@ -3408,10 +3408,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -3587,13 +3587,13 @@
      "name": "Dress Down",
      "oracle_id": "c1cbbda0-e02b-4b9c-8669-ea87ca629520",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "39s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "39",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/a/0/a0b2a429-8f74-4df5-b35c-37c5215e40dd.jpg?1783926964",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/39s/dress-down?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/0/4/04f9f061-67b8-4427-9fcb-b3ccfee8fc5d.jpg?1783926882",
+      "scryfall_uri": "https://scryfall.com/card/mh2/39/dress-down?utm_source=api"
      }
     },
     {
@@ -3840,13 +3840,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
@@ -4049,10 +4049,10 @@
       "set": "LTR",
       "set_name": "The Lord of the Rings: Tales of Middle-earth",
       "released_at": "2023-06-23",
-      "collector_number": "0",
+      "collector_number": "246",
       "rarity": "mythic",
-      "image": "https://cards.scryfall.io/normal/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1786082021",
-      "scryfall_uri": "https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038",
+      "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api"
      }
     },
     {
@@ -4284,13 +4284,13 @@
      "name": "Dress Down",
      "oracle_id": "c1cbbda0-e02b-4b9c-8669-ea87ca629520",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "39s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "39",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/a/0/a0b2a429-8f74-4df5-b35c-37c5215e40dd.jpg?1783926964",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/39s/dress-down?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/0/4/04f9f061-67b8-4427-9fcb-b3ccfee8fc5d.jpg?1783926882",
+      "scryfall_uri": "https://scryfall.com/card/mh2/39/dress-down?utm_source=api"
      }
     },
     {
@@ -4579,13 +4579,13 @@
      "name": "Urza's Saga",
      "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
      "original_printing": {
-      "set": "PMH2",
-      "set_name": "Modern Horizons 2 Promos",
-      "released_at": "2021-05-06",
-      "collector_number": "259s",
+      "set": "MH2",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "collector_number": "259",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-      "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+      "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
      }
     },
     {
