@@ -710,13 +710,13 @@
      "name": "Withered Wretch",
      "oracle_id": "29e13ec1-a239-4217-a2bd-24ff90745ec0",
      "original_printing": {
-      "set": "F03",
-      "set_name": "Friday Night Magic 2003",
-      "released_at": "2003-01-01",
-      "collector_number": "12",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/6/9/691135e8-1c41-41c4-9426-48bffe23bfd8.jpg?1783944983",
-      "scryfall_uri": "https://scryfall.com/card/f03/12/withered-wretch?utm_source=api"
+      "set": "LGN",
+      "set_name": "Legions",
+      "released_at": "2003-02-03",
+      "collector_number": "86",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/8/b8a82948-503f-4ad4-9e3c-c080c16afd63.jpg?1783944910",
+      "scryfall_uri": "https://scryfall.com/card/lgn/86/withered-wretch?utm_source=api"
      }
     },
     {
@@ -1104,13 +1104,13 @@
      "name": "Withered Wretch",
      "oracle_id": "29e13ec1-a239-4217-a2bd-24ff90745ec0",
      "original_printing": {
-      "set": "F03",
-      "set_name": "Friday Night Magic 2003",
-      "released_at": "2003-01-01",
-      "collector_number": "12",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/6/9/691135e8-1c41-41c4-9426-48bffe23bfd8.jpg?1783944983",
-      "scryfall_uri": "https://scryfall.com/card/f03/12/withered-wretch?utm_source=api"
+      "set": "LGN",
+      "set_name": "Legions",
+      "released_at": "2003-02-03",
+      "collector_number": "86",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/8/b8a82948-503f-4ad4-9e3c-c080c16afd63.jpg?1783944910",
+      "scryfall_uri": "https://scryfall.com/card/lgn/86/withered-wretch?utm_source=api"
      }
     },
     {
@@ -4249,13 +4249,13 @@
      "name": "Withered Wretch",
      "oracle_id": "29e13ec1-a239-4217-a2bd-24ff90745ec0",
      "original_printing": {
-      "set": "F03",
-      "set_name": "Friday Night Magic 2003",
-      "released_at": "2003-01-01",
-      "collector_number": "12",
-      "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/6/9/691135e8-1c41-41c4-9426-48bffe23bfd8.jpg?1783944983",
-      "scryfall_uri": "https://scryfall.com/card/f03/12/withered-wretch?utm_source=api"
+      "set": "LGN",
+      "set_name": "Legions",
+      "released_at": "2003-02-03",
+      "collector_number": "86",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/b/8/b8a82948-503f-4ad4-9e3c-c080c16afd63.jpg?1783944910",
+      "scryfall_uri": "https://scryfall.com/card/lgn/86/withered-wretch?utm_source=api"
      }
     }
    ]

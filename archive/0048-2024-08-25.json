@@ -781,13 +781,13 @@
    "type_line": "Enchantment Land \u2014 Urza's Saga",
    "oracle_id": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
    "original_printing": {
-    "set": "PMH2",
-    "set_name": "Modern Horizons 2 Promos",
-    "released_at": "2021-05-06",
-    "collector_number": "259s",
+    "set": "MH2",
+    "set_name": "Modern Horizons 2",
+    "released_at": "2021-06-18",
+    "collector_number": "259",
     "rarity": "rare",
-    "image": "https://cards.scryfall.io/normal/front/1/c/1cf96437-0943-40f9-b175-31a1504028ba.jpg?1783926931",
-    "scryfall_uri": "https://scryfall.com/card/pmh2/259s/urzas-saga?utm_source=api"
+    "image": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+    "scryfall_uri": "https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api"
    },
    "total_paper_printings": 8,
    "rulings_uri": "https://api.scryfall.com/cards/1cf96437-0943-40f9-b175-31a1504028ba/rulings"

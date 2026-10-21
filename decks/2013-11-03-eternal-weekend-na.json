@@ -2739,13 +2739,13 @@
      "name": "Surgical Extraction",
      "oracle_id": "3bfa088c-9a47-4123-aee5-4de44e355bef",
      "original_printing": {
-      "set": "PNPH",
-      "set_name": "New Phyrexia Promos",
-      "released_at": "2011-05-12",
-      "collector_number": "74★",
+      "set": "NPH",
+      "set_name": "New Phyrexia",
+      "released_at": "2011-05-13",
+      "collector_number": "74",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/1/1/114834d8-4da5-48b9-9ac7-5e3e4b7ddf2d.jpg?1783941331",
-      "scryfall_uri": "https://scryfall.com/card/pnph/74%E2%98%85/surgical-extraction?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1783941310",
+      "scryfall_uri": "https://scryfall.com/card/nph/74/surgical-extraction?utm_source=api"
      }
     },
     {
@@ -3597,13 +3597,13 @@
      "name": "Restoration Angel",
      "oracle_id": "dfbd3afc-9905-4cff-a4f4-df08a4d0a7fa",
      "original_printing": {
-      "set": "PAVR",
-      "set_name": "Avacyn Restored Promos",
-      "released_at": "2012-04-28",
-      "collector_number": "32★",
+      "set": "AVR",
+      "set_name": "Avacyn Restored",
+      "released_at": "2012-05-04",
+      "collector_number": "32",
       "rarity": "rare",
-      "image": "https://cards.scryfall.io/normal/front/c/8/c83c7429-751e-4103-b09a-f78a9617020d.jpg?1783940746",
-      "scryfall_uri": "https://scryfall.com/card/pavr/32%E2%98%85/restoration-angel?utm_source=api"
+      "image": "https://cards.scryfall.io/normal/front/c/2/c2ad8639-e586-47f4-baca-2a1af5aa281b.jpg?1783940729",
+      "scryfall_uri": "https://scryfall.com/card/avr/32/restoration-angel?utm_source=api"
      }
     },
     {

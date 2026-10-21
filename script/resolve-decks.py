@@ -22,7 +22,7 @@ Lookups go by `name`. Cards that match nothing are listed and left alone; put
 the English name in `name`, the source's spelling in `printed_as` (a Japanese
 name, say), and run it again.
 """
-import argparse, glob, gzip, io, json, os, re, sys
+import argparse, datetime, glob, gzip, io, json, os, re, sys
 import urllib.request
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -66,6 +66,36 @@ def legal_paper(p):
             and p.get("border_color") != "silver" and p.get("security_stamp") != "acorn")
 
 
+# frame treatments that make a printing a variant of the card, not the card.
+# "legendary" and the like are part of the card's own frame.
+VARIANT_FRAMES = {"showcase", "extendedart", "inverted", "etched", "borderless",
+                  "shatteredglass", "fullart"}
+# promo_types that say nothing about the printing being special
+PLAIN_PROMO_TYPES = {"universesbeyond"}
+
+
+def plain(p):
+    """The card as its set printed it for the booster: not a promo, in English,
+    and not a showcase, borderless, serialized or other alternate version.
+
+    Release date alone picks wrong. New Phyrexia's prerelease promos are dated
+    2011-05-12, a day before the set, so Phyrexian Metamorph came out as a
+    datestamped 42★; and among The One Ring's same-day LTR printings the
+    lowest collector number is 0, the serialized 1-of-1 in Elvish.
+    """
+    return (not p.get("promo") and p["set_type"] != "promo"
+            and p.get("lang", "en") == "en"
+            and not p.get("variation")
+            and not (p.get("full_art") and "Basic Land" not in p.get("type_line", ""))
+            and p.get("border_color") != "borderless"
+            and not set(p.get("frame_effects") or []) & VARIANT_FRAMES
+            and not set(p.get("promo_types") or []) - PLAIN_PROMO_TYPES)
+
+
+def days_between(a, b):
+    return (datetime.date.fromisoformat(b) - datetime.date.fromisoformat(a)).days
+
+
 def collector_key(n):
     m = re.match(r"(\d+)(.*)", n)
     return (int(m.group(1)), m.group(2)) if m else (1 << 30, n)
@@ -73,7 +103,7 @@ def collector_key(n):
 
 def load(path):
     """name -> oracle_id, and oracle_id -> its original printing."""
-    names, faces, first = {}, {}, {}
+    names, faces, first, first_plain = {}, {}, {}, {}
     with gzip.open(path, "rt", encoding="utf-8") as f:
         for line in f:
             p = json.loads(line)
@@ -84,17 +114,27 @@ def load(path):
             for face in p.get("card_faces", []):
                 faces.setdefault(face["name"], set()).add(oid)
             if legal_paper(p):
-                # a prerelease promo shares its set's release date; the set wins
-                promo = p["set_type"] == "promo" or bool(p.get("promo"))
-                key = (p["released_at"], promo, p["set"], collector_key(p["collector_number"]))
+                key = (p["released_at"], p["set"], collector_key(p["collector_number"]))
                 if oid not in first or key < first[oid][0]:
                     first[oid] = (key, p)
+                if plain(p) and (oid not in first_plain or key < first_plain[oid][0]):
+                    first_plain[oid] = (key, p)
     # "Delver of Secrets" for "Delver of Secrets // Insectile Aberration", where
     # the face names only one card
     for n, oids in faces.items():
         if n not in names and len(oids) == 1:
             names[n] = next(iter(oids))
-    return names, {oid: p for oid, (_, p) in first.items()}
+    # The plain printing is the original when it follows the earliest one
+    # within a year: that earliest one was a promo for it -- a prerelease, a
+    # release-day foil, an FNM or judge card whose date Scryfall only knows to
+    # the year. A promo that came long before any plain printing is the
+    # original in its own right: Mana Crypt was a 1995 book insert, 21 years
+    # before Eternal Masters.
+    out = {}
+    for oid, (key, p) in first.items():
+        pl = first_plain.get(oid)
+        out[oid] = pl[1] if pl and days_between(key[0], pl[0][0]) <= 365 else p
+    return names, out
 
 
 def printing(p):
