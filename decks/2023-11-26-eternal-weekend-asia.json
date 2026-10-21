@@ -14,8 +14,8 @@
    "text": "Held inside Players Convention Aichi 2023, organized by BIG MAGIC. mtg-jp prints card names in Japanese (Power, duals and other old cards in English); `name` is the English name, checked against Scryfall, and `printed_as` the Japanese as printed. Archetypes are translated from mtg-jp's Japanese labels; English player names are from Melee. Every list matches mtgtop8's copy of the Melee lists card for card (except mtgtop8's spelling \"Lorien Revealed\")."
   },
   {
-   "text": "Placings are mtg-jp's (Winner, Runner-up, Top 4, Top 8), and MTGGoldfish's report agrees on 1st and 2nd. Below that the sources disagree: MTGGoldfish has 3rd Ota and 4th Hayasaki with Takei 5th; mtgtop8 has 2nd Yuki Ota, 3-4 Takei and Shinohara, and Hosomi outside the Top 8; Melee has 2nd Gen Shinohara with 0-0-0 playoff records.",
-   "url": "https://www.mtgtop8.com/event?e=49861&f=VI"
+   "text": "Placings are mtg-jp's (Winner, Runner-up, Top 4, Top 8), confirmed by the playoff matches on the Melee page, entered there after the event: quarterfinals Hirasawa def. Marumo 2-1, Hayasaki def. Shinohara 2-0, Yamamoto def. Ota 2-0, Takei def. Hosomi 2-0; semifinals Hirasawa def. Hayasaki 2-0, Yamamoto def. Takei 2-1; final Hirasawa def. Yamamoto 2-1. mtgtop8, MTGGoldfish and Melee's own final standings all order the Top 8 differently, and wrongly.",
+   "url": "https://melee.gg/Tournament/View/30338"
   },
   {
    "text": "mtg-jp dates the event 25-26 November; the Top 8 profiles went up on the 26th.",

@@ -11,20 +11,25 @@
  "partial": false,
  "notes": [
   {
-   "text": "Run by Magic Bazar / Bazaar of Moxen; no source found names the city or venue (probably the Paris area). Placings are mtgtop8's: 1, 2, 3-4 and 5-8."
+   "text": "Run by Magic Bazar / Bazaar of Moxen; no source found names the city or venue (probably the Paris area). Placings and seeds are from the organizer's coverage, archived, and its Challonge bracket: quarterfinals Solís (1) def. Martens (8) 2-0, Rodriguez Pozo (5) def. Gonzalez Caballero (4) 2-0, Fougerouse (7) def. Matesanz Garcia (2) 2-0, Crespo (3) def. Mode (6) 2-0; semifinals Solís def. Rodriguez Pozo 2-0, Crespo def. Fougerouse 2-1; final Solís def. Crespo 2-1. They agree with mtgtop8's, which the lists are copied from.",
+   "url": "https://web.archive.org/web/20171001230446/http://www.bazaar-of-moxen.com/en/coverage,24/vintage-european-championship-2017,c383.html?event=25&evt=25"
+  },
+  {
+   "text": "The bracket, as embedded on the organizer's page.",
+   "url": "https://web.archive.org/web/20261021184133/https://challonge.com/europeanvintagechampionship2017/module"
   },
   {
    "text": "MTGGoldfish has the same Top 8 in an exact 1st-8th order that differs from mtgtop8's, but two of its lists have impossible counts (56-card main deck, 14-card sideboard), so it was not used.",
    "url": "https://www.mtggoldfish.com/tournament/23947"
   },
   {
-   "text": "The winner's deck is \"Eldrazi Aggro\" on mtgtop8 and \"Displacer Taxes\" on MTGGoldfish."
+   "text": "The winner's deck is \"Eldrazi Aggro\" on mtgtop8, \"White Eldrazi\" on the organizer's page and \"Displacer Taxes\" on MTGGoldfish."
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 1,
    "player": "Joaquín Solís",
    "archetype": "Eldrazi Aggro",
    "main": [
@@ -487,7 +492,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 3,
    "player": "Aurelio Crespo",
    "archetype": "MUD",
    "main": [
@@ -973,7 +978,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 5,
    "player": "Javier Rodriguez Pozo",
    "archetype": "2/1 Control",
    "main": [
@@ -1585,7 +1590,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 7,
    "player": "Francois Fougerouse",
    "archetype": "MUD",
    "main": [
@@ -2099,7 +2104,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 4,
    "player": "Ruben Gonzalez Caballero",
    "archetype": "Grixis Control",
    "main": [
@@ -2698,7 +2703,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Steven Martens",
    "archetype": "Monastery",
    "main": [
@@ -3467,7 +3472,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 2,
    "player": "Sergio Matesanz Garcia",
    "archetype": "Monastery",
    "main": [
@@ -4108,7 +4113,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 6,
    "player": "Pierrick Mode",
    "archetype": "MUD",
    "main": [

@@ -15,8 +15,16 @@
    "url": "https://x.com/4Tournaments/status/1994657887638229041"
   },
   {
-   "text": "Only the winner (Franco Cicchini) is confirmed elsewhere. MTGGoldfish's report lists the other seven only as \"Top 8\", and names two of the decks differently (\"Lurrus Breach\" for Luca Bastianelli and Jørgen Sørlie). The 2nd, 3-4 and 5-8 placings are mtgtop8's.",
-   "url": "https://www.mtggoldfish.com/articles/vintage-101-eternal-weekend-vintage-2025"
+   "text": "Placings are from the organizer's two VODs of the Top 8: quarterfinals Chen def. Bastianelli, Javier David def. Cioffini, Sørlie def. Ratkowski, Cicchini def. Ronkainen (recap at about 11:21:50 in part 1); semifinal Chen def. Javier David (part 1); final Cicchini def. Chen 2-0 (part 2). The other semifinal, Cicchini def. Sørlie, was not streamed and follows from the bracket. They agree with mtgtop8's. Seeds are the order of the organizer's \"TOP 8\" post, which is the Swiss standing, not the result.",
+   "url": "https://web.archive.org/web/20261021184102/https://www.youtube.com/watch?v=J2WEUcfyUz4"
+  },
+  {
+   "text": "Part 2 of the VOD: the final.",
+   "url": "https://web.archive.org/web/20261021184056/https://www.youtube.com/watch?v=VFQi54ieXkk"
+  },
+  {
+   "text": "The organizer's Top 8 post, in seed order.",
+   "url": "https://x.com/4Tournaments/status/1994515092097118378"
   },
   {
    "text": "The organizer's schedule had the Vintage Championship on Friday 28 November from 10:00; the Top 8 lists were posted at 06:41 UTC on 29 November, so the Top 8 may have finished that morning. Players: 236 per the organizer's tweet as cited by mtgtop8; MTGGoldfish says about 233.",
@@ -26,7 +34,7 @@
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 6,
    "player": "Franco Cicchini",
    "archetype": "Esper Lurrus",
    "main": [
@@ -653,7 +661,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 1,
    "player": "Shawn Chen",
    "archetype": "Paradoxical Outcome",
    "main": [
@@ -1350,7 +1358,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 5,
    "player": "Javier David",
    "archetype": "MUD",
    "main": [
@@ -1906,7 +1914,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 2,
    "player": "Jørgen Sørlie",
    "archetype": "Paradoxical Outcome",
    "main": [
@@ -2665,7 +2673,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 7,
    "player": "Eric Ratkowski",
    "archetype": "Doomsday",
    "main": [
@@ -3291,7 +3299,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 3,
    "player": "Tuomas Ronkainen",
    "archetype": "Dredge",
    "main": [
@@ -3609,7 +3617,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Luca Bastianelli",
    "archetype": "Gifts Control",
    "main": [
@@ -4348,7 +4356,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 4,
    "player": "David Cioffini",
    "archetype": "Paradoxical Outcome",
    "main": [

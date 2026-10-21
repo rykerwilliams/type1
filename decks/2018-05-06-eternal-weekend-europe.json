@@ -11,10 +11,11 @@
  "partial": false,
  "notes": [
   {
-   "text": "Organized by Bazaar of Moxen / Magic Bazar. No organizer or MTGGoldfish page was found; mtgtop8 is the only source. mtgtop8 numbers the Top 8 1st to 8th; only 1st and 2nd are certain from the playoff, so 3rd-4th and 5th-8th are given as bands."
+   "text": "Organized by Magic Bazar at the Dock Eiffel, Aubervilliers. Placings are from the organizer's article, archived: quarterfinals Alascio López def. Ramagli 2-0, Cobb def. Nieto 2-0, Zarzoso def. Giani 2-0, Storm def. Romte Vilardell 2-1; semifinals Alascio López def. Cobb 2-0, Zarzoso def. Storm 2-0; final Zarzoso def. Alascio López 2-0. They agree with mtgtop8's, which the lists are copied from.",
+   "url": "https://web.archive.org/web/20201109015609/https://www.magicbazar.fr/article/52-eternal_weekend_2018"
   },
   {
-   "text": "mtgtop8 misspells several names. The winner is \"Alfonso Zarzosa\" there and \"Zarzoso\" in the magiclibrarities prize-painting index; the spellings below are mtgtop8's.",
+   "text": "mtgtop8 misspells several names. The winner is \"Zarzoso\" in the organizer's article, the magiclibrarities prize-painting index and on TheManaDrain, and \"Zarzosa\" on mtgtop8; the organizer's spelling is used. The other spellings below are mtgtop8's.",
    "url": "https://www.magiclibrarities.net/468-rarities-vintagelegacy-championship-oversized-unique-cards-english-cards-index.html"
   }
  ],
@@ -22,7 +23,7 @@
   {
    "finish": "1",
    "seed": null,
-   "player": "Alfonso Zarzosa",
+   "player": "Alfonso Zarzoso",
    "archetype": "Silence Mentor",
    "main": [
     {

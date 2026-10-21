@@ -3,7 +3,7 @@
  "label": "Eternal Weekend Europe",
  "date": "2016-10-23",
  "location": "Charenton-le-Pont (Paris), France",
- "players": 98,
+ "players": 94,
  "source": {
   "url": "https://www.mtgtop8.com/event?e=13824&f=VI",
   "label": "mtgtop8, Eternal Weekend Europe 2016"
@@ -11,7 +11,12 @@
  "partial": false,
  "notes": [
   {
-   "text": "The organizer's own coverage (Bazaar of Moxen / Magic Bazar, bazaar-of-moxen.com) is gone, so mtgtop8 is the source. Placings are mtgtop8's: 1, 2, 3-4 and 5-8."
+   "text": "Placings and seeds are from the organizer's coverage (Bazaar of Moxen), archived, and the Challonge bracket it embeds: quarterfinals Badia Garcia (1) def. Dahinden (8) 2-1, Mateo (4) def. Storm (5) 2-1, Knaepen (7) def. Loucka (2) 2-1, Musarra (6) def. Mesotten (3) 2-1; semifinals Mateo def. Badia Garcia 2-1, Knaepen def. Musarra 2-1; final Mateo def. Knaepen 2-0. They agree with mtgtop8's, which the lists are copied from. Players: 94 per the organizer; mtgtop8 says 98.",
+   "url": "https://web.archive.org/web/20161027174446/http://www.bazaar-of-moxen.com:80/en/coverage,24/european-vintage-championship-2016-eternal-weekend,c363.html?event=23&evt=23"
+  },
+  {
+   "text": "The bracket, as embedded on the organizer's page.",
+   "url": "https://web.archive.org/web/20261021184115/https://challonge.com/iz77jggv/module"
   },
   {
    "text": "MTGGoldfish has the same Top 8 with an exact 1st-8th order and dates it 22 October, but two of its lists have impossible counts (a 59-card main deck and a 16-card sideboard), so it was not used.",
@@ -21,7 +26,7 @@
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 4,
    "player": "Joan Anton Mateo",
    "archetype": "Monastery",
    "main": [
@@ -663,7 +668,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 7,
    "player": "Maarten Knaepen",
    "archetype": "MUD",
    "main": [
@@ -1163,7 +1168,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 1,
    "player": "Jose Antonio Badia Garcia",
    "archetype": "Eldrazi Aggro",
    "main": [
@@ -1635,7 +1640,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 6,
    "player": "Antonio Musarra",
    "archetype": "MUD",
    "main": [
@@ -2135,7 +2140,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 5,
    "player": "Henrik Storm",
    "archetype": "Eldrazi",
    "main": [
@@ -2579,7 +2584,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 2,
    "player": "Ladislav Loucka",
    "archetype": "MUD",
    "main": [
@@ -3107,7 +3112,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Yves Dahinden",
    "archetype": "Oath of Druids",
    "main": [
@@ -3691,7 +3696,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 3,
    "player": "Rob Mesotten",
    "archetype": "TPS",
    "main": [

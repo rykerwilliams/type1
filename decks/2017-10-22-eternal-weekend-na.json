@@ -16,18 +16,18 @@
    "url": "https://web.archive.org/web/20171030205051/http://www.cardtitan.com/coverage"
   },
   {
-   "text": "Card Titan marks only the winner (Andy Markiton). Rich Shay as finalist is from Hipsters of the Coast's recap (an all-Shops final). Pat Fehling and Mike Kiesel as 3-4 are from mtgtop8, which ranks the eight in the same order as Card Titan's page, so 3-4 is not confirmed by the organizer.",
-   "url": "https://www.hipstersofthecoast.com/2017/10/eternal-weekend-2017-recap"
+   "text": "Placings and seeds are from Eternal Central's coverage, which prints the seeded Top 8 bracket with Card Titan's Twitch VODs: quarterfinals Markiton (1) def. Vergo (8) 2-0, Shay (2) def. Durkin (7) 2-1, Fehling (3) def. Kelly (6) 2-1, Kiesel (4) def. Aldridge (5) 2-0; semifinals Markiton def. Kiesel 2-0, Shay def. Fehling 2-0; final Markiton def. Shay 2-1. Card Titan's own page marks only the winner.",
+   "url": "https://www.eternalcentral.com/vintagechamps2017/"
   },
   {
-   "text": "No Swiss standings survive, so seeds are unknown. Card Titan prints \"Rich Shay, Ph.D.\"; mtgtop8 has Patrick Fehling and Ibrahim \"Alridge\".",
+   "text": "Card Titan prints \"Rich Shay, Ph.D.\"; mtgtop8 has Patrick Fehling and Ibrahim \"Alridge\"; Eternal Central spells Vergo both \"Vergo\" and \"Vargo\".",
    "url": "https://web.archive.org/web/20171030205051/http://www.cardtitan.com/coverage"
   }
  ],
  "decks": [
   {
    "finish": "1",
-   "seed": null,
+   "seed": 1,
    "player": "Andy Markiton",
    "archetype": "Ravager Shops",
    "main": [
@@ -500,7 +500,7 @@
   },
   {
    "finish": "2",
-   "seed": null,
+   "seed": 2,
    "player": "Rich Shay",
    "archetype": "Ravager Shops (Pirate Stompy)",
    "main": [
@@ -959,7 +959,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 3,
    "player": "Pat Fehling",
    "archetype": "Oath of Druids",
    "main": [
@@ -1641,7 +1641,7 @@
   },
   {
    "finish": "3-4",
-   "seed": null,
+   "seed": 4,
    "player": "Mike Kiesel",
    "archetype": "Ravager Shops",
    "main": [
@@ -2142,7 +2142,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 5,
    "player": "Ibrahim Aldridge",
    "archetype": "Oath of Druids",
    "main": [
@@ -2866,7 +2866,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 6,
    "player": "Brian Kelly",
    "archetype": "Inferno Titan Oath of Druids",
    "main": [
@@ -3590,7 +3590,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 7,
    "player": "Brian Durkin",
    "archetype": "Ravager Shops",
    "main": [
@@ -4049,7 +4049,7 @@
   },
   {
    "finish": "5-8",
-   "seed": null,
+   "seed": 8,
    "player": "Eric Vergo",
    "archetype": "Ravager Shops",
    "main": [
