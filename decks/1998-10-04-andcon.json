@@ -1,0 +1,32 @@
+{
+ "event": "North American Type 1 Championships",
+ "label": "AndCon",
+ "date": "1998-10-04",
+ "date_precision": "range",
+ "date_range": [
+  "1998-10-01",
+  "1998-10-04"
+ ],
+ "location": "Toledo, OH",
+ "players": null,
+ "source": {
+  "url": "http://www.andonunlimited.com:80/CONS/AND98/highlights.htm",
+  "archived": "https://web.archive.org/web/19981202062311/http://www.andonunlimited.com:80/CONS/AND98/highlights.htm",
+  "label": "Andon Unlimited, AndCon '98 highlights page"
+ },
+ "partial": true,
+ "notes": [
+  {
+   "text": "Andon's page announces the North American Type 1 Championships at AndCon '98 (October 1-4, 1998, Toledo): open, DCI sanctioned, Swiss with a final 8 single elimination, over $1000 in prizes and a trophy. The day of the event and the date of the final are not known; the date here is the last day of the convention and is not verified.",
+   "url": "https://web.archive.org/web/19981202062311/http://www.andonunlimited.com:80/CONS/AND98/highlights.htm"
+  },
+  {
+   "text": "That it was played is confirmed only by Doug Equils, who wrote on 6 Oct 1998 that he had 'just returned from the type I Nationals where I was undefeated going into the final 8' (9-2 the previous day). He does not give his finish, so he is not listed.",
+   "url": "https://www.classicdojo.org/d984/dk1.981006deq.txt"
+  },
+  {
+   "text": "No winner, Top 8 names, attendance or lists were found (Andon pages, The Duelist #24 and #30, the Dojo 1998 report index, web search). The decks list is empty."
+  }
+ ],
+ "decks": []
+}

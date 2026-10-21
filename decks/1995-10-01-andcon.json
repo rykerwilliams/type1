@@ -1,0 +1,61 @@
+{
+ "event": "1995 Magic: The Gathering Type I National Championship",
+ "label": "AndCon",
+ "date": "1995-10-01",
+ "date_precision": "range",
+ "date_range": [
+  "1995-09-28",
+  "1995-10-01"
+ ],
+ "location": "Toledo, OH",
+ "players": null,
+ "source": {
+  "url": "https://archive.org/details/the-duelist-8",
+  "label": "The Duelist #8, WotC News: 'Chip Hogan wins 1995 Type I Championship' (Beth Moursund and Jeff J. Lin)"
+ },
+ "partial": true,
+ "notes": [
+  {
+   "text": "Held at AndCon '95, Seagate Convention Center, Toledo. The Duelist gives the championship as Sept. 29-Oct. 1; the Andon press release gives the convention as Sept. 28-Oct. 1. The day of the Top 8 and final is not stated anywhere found: the date here is the last day of the convention and is not verified.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/FauF0uNF93c/m/VgWwsNbAhwsJ"
+  },
+  {
+   "text": "Its standing was disputed beforehand: on rec.games.trading-cards.magic.misc (Aug 1995) a player complains that the AndCon flyer listed a Type I National, that a Wizards customer-service rep then said there was not one, and that Andon's press release promised 'national championships'. The Duelist reported it as the Type I National Championship.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/FauF0uNF93c/m/VgWwsNbAhwsJ"
+  },
+  {
+   "text": "The Duelist mentions 'the top eight' decks (three had no basic lands) but names only the two finalists and prints no lists. No other Top 8 names, no lists, and no attendance were found. The Dojo's 'Chip Hogan Barrier deck' is his Origins '95 list, which the Dojo calls only 'quite similar' to his AndCon deck; it is not used.",
+   "url": "https://www.classicdojo.org/history/type1.html"
+  }
+ ],
+ "decks": [
+  {
+   "finish": "1",
+   "seed": null,
+   "player": "Chip Hogan",
+   "archetype": "aikido deck",
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "From Dallas, TX. Beat Bentley 3-0 in the final. The Duelist describes the deck (all colors but black, no basic lands, Counterspells, Icy Manipulators, Relic Barriers, Winter Orbs, Erhnam Djinns, Mishra's Factories, Fireballs, Glasses of Urza, Chaos Orb, Hydroblasts) but prints no list. 'Aikido deck' is Hogan's own description.",
+     "url": "https://archive.org/details/the-duelist-8"
+    }
+   ]
+  },
+  {
+   "finish": "2",
+   "seed": null,
+   "player": "Dennis Bentley",
+   "archetype": null,
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "From Rochester, NY. The Duelist describes a red/white deck with Armageddon, Balance, Blood Moon, Land Tax, Jalum Tome, Serra Angels and Juggernauts; no list.",
+     "url": "https://archive.org/details/the-duelist-8"
+    }
+   ]
+  }
+ ]
+}

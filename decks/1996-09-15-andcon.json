@@ -1,0 +1,51 @@
+{
+ "event": "1996 Type I National Championship",
+ "label": "AndCon",
+ "date": "1996-09-15",
+ "date_precision": "range",
+ "date_range": [
+  "1996-09-13",
+  "1996-09-15"
+ ],
+ "location": "Toledo, OH",
+ "players": null,
+ "source": {
+  "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/H7q2VyJhH9g/m/v8oDC4fSVR0J",
+  "label": "rec.games.trading-cards.magic.misc, 'East Coast Validation (Type I Natn'l Champ)', Rudy Edward, 16 Sep 1996"
+ },
+ "partial": true,
+ "notes": [
+  {
+   "text": "Date not verified. Posts dated Monday 16 Sep 1996 describe 'the Type 1 Nationals in Toledo this weekend'; the day of the final is not given, and AndCon '96's dates were not found in any archived Andon page. 15 Sep (the Sunday) is a placeholder.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+  },
+  {
+   "text": "Name: Usenet posters call it the 'Type I Natn'l Championship' / 'Type 1 Nationals'. No Andon or Wizards announcement for 1996 was found, so the official billing is not verified.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/H7q2VyJhH9g/m/v8oDC4fSVR0J"
+  },
+  {
+   "text": "Eric Taylor, who lost to Adams in the final 16, reports 'only about 60 people' and that the cut was meant to be a final 8 but was extended to 16. The finalist is not named (Taylor says only that Adams's final opponent played creatures such as the insect and Erhnam).",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+  },
+  {
+   "text": "Christian Pantages names 'Yan Ebyam, a top eight finisher'; that name is likely a handle ('Maybe Nay' backwards) and the finish is not given, so he is not listed.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+  }
+ ],
+ "decks": [
+  {
+   "finish": "1",
+   "seed": null,
+   "player": "David Adams",
+   "archetype": null,
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "From Chesterfield, VA. No list survives; Taylor describes blue control with Autumn Willow, Merchant Scroll, Amnesia, Demonic Tutor, Force of Will, Counterspell, Mana Drain, two main-deck Red Elemental Blasts, Library of Alexandria and Jayemdae Tome, with two Serra Angel and two Moat in the sideboard.",
+     "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+    }
+   ]
+  }
+ ]
+}
