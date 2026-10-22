@@ -4,7 +4,7 @@
  "date": "1996-09-15",
  "date_precision": "range",
  "date_range": [
-  "1996-09-13",
+  "1996-09-12",
   "1996-09-15"
  ],
  "location": "Toledo, OH",
@@ -16,8 +16,8 @@
  "partial": true,
  "notes": [
   {
-   "text": "Date not verified. Posts dated Monday 16 Sep 1996 describe 'the Type 1 Nationals in Toledo this weekend'; the day of the final is not given, and AndCon '96's dates were not found in any archived Andon page. 15 Sep (the Sunday) is a placeholder.",
-   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+   "text": "AndCon '96 ran 12-15 September 1996 (Chris Otwell's announcement of the Type 1 championship on rec.games.trading-cards.magic.misc, 21 Aug 1996). The day of the final is not given; 15 Sep (the last day) is a placeholder.",
+   "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Z7CmDeQixfs"
   },
   {
    "text": "Name: Usenet posters call it the 'Type I Natn'l Championship' / 'Type 1 Nationals'. No Andon or Wizards announcement for 1996 was found, so the official billing is not verified.",
@@ -44,6 +44,20 @@
     {
      "text": "From Chesterfield, VA. No list survives; Taylor describes blue control with Autumn Willow, Merchant Scroll, Amnesia, Demonic Tutor, Force of Will, Counterspell, Mana Drain, two main-deck Red Elemental Blasts, Library of Alexandria and Jayemdae Tome, with two Serra Angel and two Moat in the sideboard.",
      "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Sc3yv2FG7SE/m/PtybGglFVwgJ"
+    }
+   ]
+  },
+  {
+   "finish": "5-8",
+   "seed": null,
+   "player": "Greg Hunt",
+   "archetype": "U/W",
+   "main": null,
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "His own post (rec.games.trading-cards.magic.misc, 18 Sep 1996): 'I was playing u/w with helms and lions in the sideboard … I got beat in the final 8 by a really strange discard deck', with pump knights, Hippies, Gorilla Shamans, Racks, Hymns and Sceptres. His opponent is not named. 5-8 assumes 'final 8' means the quarterfinal; Eric Taylor says the cut was extended to 16.",
+     "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/MR_R5jrTzjs"
     }
    ]
   }
