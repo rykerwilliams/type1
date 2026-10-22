@@ -41,7 +41,7 @@ is welcome: a list, a photo of a decklist, the standings.
 
 **Open questions** from the original import, each noted in its file:
 
-- **2007 Gen Con**: who lost the semifinal to Richard Shay? The other five
+- **2007 Gen Con**: who lost the semifinal to Rich Shay? The other five
   quarterfinalists are all listed 5–8 until that's known.
 - **2019 Asia**: who were the losing semifinalists? The organizer ranked the
   playoff losers by Swiss standing, so all six non-finalists are listed 5–8.

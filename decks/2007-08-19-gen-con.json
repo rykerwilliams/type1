@@ -23,7 +23,7 @@
   {
    "finish": "1",
    "seed": null,
-   "player": "Steve Menendian",
+   "player": "Stephen Menendian",
    "archetype": "GAT",
    "source": {
     "url": "https://deckbox.org/sets/1710297",
@@ -629,13 +629,16 @@
     {
      "text": "mtgtop8 copy, for comparison.",
      "url": "https://www.mtgtop8.com/event?e=15&d=101647&f=VI"
+    },
+    {
+     "text": "Wizards' coverage prints \"Steve Menendian\". The Deckbox set above and the sources for his 2004 and 2011 Top 8s say Stephen; he is listed as Stephen in all three, so one person has one name."
     }
    ]
   },
   {
    "finish": "2",
    "seed": null,
-   "player": "Richard Shay",
+   "player": "Rich Shay",
    "archetype": "GAT",
    "main": [
     {
@@ -1177,6 +1180,9 @@
     {
      "text": "Wizards prints the line \"4 Duress\" twice, for 64 cards; one is removed here, giving 60. The Deckbox copy and mtgtop8 both have 4 Duress. The extra line is almost certainly the 4 Duress missing from Menendian's list.",
      "url": "https://deckbox.org/sets/1710298"
+    },
+    {
+     "text": "Wizards' coverage prints \"Richard Shay\". Menendian's report calls him Rich Shay, as the sources for his 2011, 2015, 2017 and 2018 Top 8s do; he is listed as Rich in all five, so one person has one name."
     }
    ]
   },

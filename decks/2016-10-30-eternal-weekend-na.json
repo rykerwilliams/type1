@@ -3917,7 +3917,7 @@
   {
    "finish": "8",
    "seed": null,
-   "player": "Andrew Markiton",
+   "player": "Andy Markiton",
    "archetype": "TKS/Ravager Shops",
    "main": [
     {
@@ -4383,6 +4383,11 @@
       "image": "https://cards.scryfall.io/normal/front/3/3/33672990-4860-4aa6-ac1b-f9da66f5da59.jpg?1783941691",
       "scryfall_uri": "https://scryfall.com/card/som/223/wurmcoil-engine?utm_source=api"
      }
+    }
+   ],
+   "notes": [
+    {
+     "text": "Card Titan prints \"Andrew Markiton\". He is the Andy Markiton who won the 2017 NA championship, per Rajah James of Team Serious; listed as Andy in both, the name his title was reported under, so one person has one name."
     }
    ]
   }

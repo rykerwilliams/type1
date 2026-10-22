@@ -1390,7 +1390,7 @@
   {
    "finish": "3-4",
    "seed": null,
-   "player": "Brian Demars",
+   "player": "Brian DeMars",
    "archetype": "Strategic Slaver",
    "main": [
     {
@@ -2052,6 +2052,11 @@
       "image": "https://cards.scryfall.io/normal/front/9/9/99ff731b-8399-40c8-b539-ba6ba5783771.jpg?1783946594",
       "scryfall_uri": "https://scryfall.com/card/tmp/330/wasteland?utm_source=api"
      }
+    }
+   ],
+   "notes": [
+    {
+     "text": "Wizards' coverage prints \"Demars\". Written DeMars, as the 2009 coverage spells it, so one person has one name."
     }
    ]
   },
