@@ -11,7 +11,7 @@
  "partial": true,
  "notes": [
   {
-   "text": "ecobaronen (Doomsday, seed 3) won the Top 8 on Magic Online, beating StaticGripped in the final, but was disqualified without prizes afterwards for agreeing a prize split in round 10. magic.gg's results table lists only seven players, StaticGripped 1st to mattb 7th, with everyone below ecobaronen moved up one place; placings here follow that table. ecobaronen's list is left out because the official results give him no place in the Top 8; it is on mtgo.com, which (like mtgtop8) still ranks him 1st and StaticGripped 2nd.",
+   "text": "ecobaronen (Doomsday, seed 3) won the Top 8 on Magic Online, beating StaticGripped (David Lance) in the final, but was disqualified without prizes afterwards for agreeing a prize split in round 10. magic.gg's results table lists only seven players, StaticGripped 1st to mattb 7th, with everyone below ecobaronen moved up one place; placings here follow that table. ecobaronen's list is left out because the official results give him no place in the Top 8; it is on mtgo.com, which (like mtgtop8) still ranks him 1st and StaticGripped 2nd.",
    "url": "https://magic.gg/news/eternal-weekend-2020-vintage-highlights"
   },
   {
@@ -43,8 +43,13 @@
   {
    "finish": "1",
    "seed": 4,
-   "player": "StaticGripped",
+   "player": "David Lance",
    "archetype": "Ravager Shops",
+   "notes": [
+    {
+     "text": "Played on Magic Online as StaticGripped, the name every source gives. Identified as David Lance by Rajah James, his Team Serious teammate."
+    }
+   ],
    "main": [
     {
      "count": 4,
