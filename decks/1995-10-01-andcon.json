@@ -47,13 +47,17 @@
    "finish": "2",
    "seed": null,
    "player": "Dennis Bentley",
-   "archetype": null,
+   "archetype": "White/Red Armageddon",
    "main": null,
    "sideboard": null,
    "notes": [
     {
      "text": "From Rochester, NY. The Duelist describes a red/white deck with Armageddon, Balance, Blood Moon, Land Tax, Jalum Tome, Serra Angels and Juggernauts; no list.",
      "url": "https://archive.org/details/the-duelist-8"
+    },
+    {
+     "text": "'White/Red Armageddon' is Chris Otwell's name for it, promoting the 1996 event on rec.games.trading-cards.magic.misc (21 Aug 1996): 'Chip Hogan and his slow mana deprivation deck over took Dennis Bentley in the finals after 3 rough games. Dennis's White/Red Armageddon deck was not quite enough for Chips's Erhan Djinn/Juggernault mana depreviation/permission deck.' Otwell's '3 rough games' and The Duelist's 3-0 agree on three games.",
+     "url": "https://groups.google.com/g/rec.games.trading-cards.magic.misc/c/Z7CmDeQixfs"
     }
    ]
   }

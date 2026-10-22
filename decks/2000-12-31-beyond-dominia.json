@@ -12,7 +12,7 @@
  "partial": true,
  "notes": [
   {
-   "text": "Date not known. Stephen Menendian (Eternal Central, 2013) says the tournament 'kicked off in the final months of 2000' and the winner was crowned 'by the end of the year'; Oscar Tan dates it 2000. 31 December 2000 is a placeholder.",
+   "text": "Date not known. Stephen Menendian (Eternal Central, 2013) says the tournament 'kicked off in the final months of 2000' and the winner was crowned 'by the end of the year'; Oscar Tan dates it 2000. 31 December 2000 is a placeholder. Caron's primer, with his final against Bower in it, is dated 22 December 2000, so the event was over by then.",
    "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
   },
   {
@@ -20,7 +20,8 @@
    "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
   },
   {
-   "text": "Only the winner is known. The Beyond Dominia forum threads were not recovered from the Wayback Machine (the archive refused connections during this research)."
+   "text": "Only the two finalists are known. The forum's tournament threads were deleted in 2001; Oscar Tan ('Rakso'), posting there, says 'the old tourney threads were all deleted, except for whatever I have in my hard disk'. The surviving 'T1ToC Archived Threads' folder holds only the second Tournament of Champions.",
+   "url": "https://bdominia.com/discus/messages/9/17903.shtml"
   },
   {
    "text": "A B&R change took effect on 30 September 2000 (Channel and Demonic Consultation restricted, among others). The tournament 'kicked off in the final months of 2000', so it was probably played under the new list, which is the one the placeholder date selects; if it began before 30 September, decks registered in advance were built under the old one.",
@@ -324,6 +325,379 @@
     {
      "text": "Main deck from Oscar Tan (2002), who prints no sideboard, so sideboard is null. Menendian (2013) prints 1 Annul where Tan has 1 Merchant Scroll, and a sideboard: 4 Hydroblast, 2 Treachery, 2 Tormod's Crypt, 3 Annul, 3 Back to Basics, 1 Disrupt. Neither cites the original forum post.",
      "url": "https://www.eternalcentral.com/schools-of-magic-history-of-vintage-2001/"
+    }
+   ]
+  },
+  {
+   "finish": "2",
+   "seed": null,
+   "player": "Raphaël Caron",
+   "archetype": "Deck Parfait",
+   "source": {
+    "url": "https://www.bdominia.com/discus/articles/parfait.html",
+    "label": "Raphaël Caron, 'Deck Parfait Primer', Beyond Dominia, 22 Dec 2000"
+   },
+   "main": [
+    {
+     "count": 1,
+     "name": "Jayemdae Tome",
+     "oracle_id": "39ee576a-0803-4063-9c84-f2b537e4d44c",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "254",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/c/a/cac8c421-5b92-481d-b2de-560c0231ab58.jpg?1783948664",
+      "scryfall_uri": "https://scryfall.com/card/lea/254/jayemdae-tome?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Ivory Tower",
+     "oracle_id": "d416a4ed-9f16-4a8b-8aee-03c630e1eb6c",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "53",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5f23039-45ca-4c15-af50-bfd40ea26453.jpg?1783948362",
+      "scryfall_uri": "https://scryfall.com/card/atq/53/ivory-tower?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Tormod's Crypt",
+     "oracle_id": "1573f7f9-672c-421a-b1ac-3d0d8aea59ca",
+     "original_printing": {
+      "set": "DRK",
+      "set_name": "The Dark",
+      "released_at": "1994-08-01",
+      "collector_number": "112",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/0/f/0f9668ba-d26d-4484-b4b8-6fb91fbfb617.jpg?1783947925",
+      "scryfall_uri": "https://scryfall.com/card/drk/112/tormods-crypt?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Soldevi Digger",
+     "oracle_id": "b526962e-be8a-4803-b038-57869bb96751",
+     "original_printing": {
+      "set": "ALL",
+      "set_name": "Alliances",
+      "released_at": "1996-06-10",
+      "collector_number": "131",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/5/a/5a3a0ab4-e8ef-45fd-9a73-86d1ee30cb48.jpg?1783947159",
+      "scryfall_uri": "https://scryfall.com/card/all/131/soldevi-digger?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Ivory Mask",
+     "oracle_id": "028bc726-0e86-4c53-9648-625153ae4b01",
+     "original_printing": {
+      "set": "MMQ",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "collector_number": "24",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/3/5/35ea3762-a419-412c-b2bd-0a40902d8d51.jpg?1783945980",
+      "scryfall_uri": "https://scryfall.com/card/mmq/24/ivory-mask?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Zuran Orb",
+     "oracle_id": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2",
+     "original_printing": {
+      "set": "ICE",
+      "set_name": "Ice Age",
+      "released_at": "1995-06-03",
+      "collector_number": "350",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
+      "scryfall_uri": "https://scryfall.com/card/ice/350/zuran-orb?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Enlightened Tutor",
+     "oracle_id": "c5229c17-b7be-4b05-b683-f2277edc4849",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "14",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/c/b/cbac1d27-15e2-4e2f-82ab-625a16e096cb.jpg?1783947123",
+      "scryfall_uri": "https://scryfall.com/card/mir/14/enlightened-tutor?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Abeyance",
+     "oracle_id": "6300de53-6e71-4f0e-87e1-b0acd25c59a8",
+     "original_printing": {
+      "set": "WTH",
+      "set_name": "Weatherlight",
+      "released_at": "1997-06-09",
+      "collector_number": "1",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/1/2/125a355d-bfcf-4125-aa6c-35e7dea6f63e.jpg?1783946751",
+      "scryfall_uri": "https://scryfall.com/card/wth/1/abeyance?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Argivian Find",
+     "oracle_id": "0b6c74a7-d7d3-4c05-84b1-bcb580bb476f",
+     "original_printing": {
+      "set": "WTH",
+      "set_name": "Weatherlight",
+      "released_at": "1997-06-09",
+      "collector_number": "6",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/8/9/89f23295-ad0a-4e2d-ae04-1a9c065e575d.jpg?1783946749",
+      "scryfall_uri": "https://scryfall.com/card/wth/6/argivian-find?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Sacred Mesa",
+     "oracle_id": "8776d14f-a5a2-4ef3-98d0-e1148e579e4d",
+     "original_printing": {
+      "set": "MIR",
+      "set_name": "Mirage",
+      "released_at": "1996-10-08",
+      "collector_number": "37",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/6/6622f325-6bc3-49dc-ba8e-154e70772dd5.jpg?1783947117",
+      "scryfall_uri": "https://scryfall.com/card/mir/37/sacred-mesa?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Wrath of God",
+     "oracle_id": "34515b16-c9a4-4f98-8c77-416a7a523407",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "45",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/a/2/a2788d69-6a3a-42f0-8736-cc6b57755ecd.jpg?1783948708",
+      "scryfall_uri": "https://scryfall.com/card/lea/45/wrath-of-god?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Balance",
+     "oracle_id": "17fa98cd-ed8f-483f-9525-7e989a82ebb2",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "3",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f9ea46a-411f-40ce-a873-a905180093f4.jpg?1783948717",
+      "scryfall_uri": "https://scryfall.com/card/lea/3/balance?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Moat",
+     "oracle_id": "42208fea-8c24-451f-861d-6d70c0a7a502",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "28",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1783948082",
+      "scryfall_uri": "https://scryfall.com/card/leg/28/moat?utm_source=api"
+     }
+    },
+    {
+     "count": 3,
+     "name": "Seal of Cleansing",
+     "oracle_id": "a75dbe70-7e3e-446f-9a76-9fbb414f2e7c",
+     "original_printing": {
+      "set": "NEM",
+      "set_name": "Nemesis",
+      "released_at": "2000-02-14",
+      "collector_number": "18",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af6c921e-1b82-412c-9979-adfdf83440f7.jpg?1783945844",
+      "scryfall_uri": "https://scryfall.com/card/nem/18/seal-of-cleansing?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Swords to Plowshares",
+     "oracle_id": "b1544f21-7e98-461b-aed5-e748b0168c52",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "40",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709",
+      "scryfall_uri": "https://scryfall.com/card/lea/40/swords-to-plowshares?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Planar Birth",
+     "oracle_id": "7a9d13b3-3823-463a-acd9-8b7a9d5e121f",
+     "original_printing": {
+      "set": "USG",
+      "set_name": "Urza's Saga",
+      "released_at": "1998-10-12",
+      "collector_number": "31",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7cacdff-aa83-4644-b2f0-ce8c89dddfbf.jpg?1783946371",
+      "scryfall_uri": "https://scryfall.com/card/usg/31/planar-birth?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Story Circle",
+     "oracle_id": "7071aee8-b5ca-4be5-9ba0-2df7e3af303b",
+     "original_printing": {
+      "set": "MMQ",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "collector_number": "51",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/6/7/675378bb-7dc1-4bc8-b026-27e6e8e72e18.jpg?1783945973",
+      "scryfall_uri": "https://scryfall.com/card/mmq/51/story-circle?utm_source=api"
+     }
+    },
+    {
+     "count": 2,
+     "name": "Scroll Rack",
+     "oracle_id": "648bd03d-247e-4d6f-87a9-12a67688cbf5",
+     "original_printing": {
+      "set": "TMP",
+      "set_name": "Tempest",
+      "released_at": "1997-10-14",
+      "collector_number": "308",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/5/f/5f7346d8-1aef-4618-88e6-74bd8865e0f3.jpg?1783946601",
+      "scryfall_uri": "https://scryfall.com/card/tmp/308/scroll-rack?utm_source=api"
+     }
+    },
+    {
+     "count": 4,
+     "name": "Land Tax",
+     "oracle_id": "d2d9ecea-7925-420e-98b9-2f87f41f387c",
+     "original_printing": {
+      "set": "LEG",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "collector_number": "26",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1783948083",
+      "scryfall_uri": "https://scryfall.com/card/leg/26/land-tax?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Sol Ring",
+     "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "269",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661",
+      "scryfall_uri": "https://scryfall.com/card/lea/269/sol-ring?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Diamond",
+     "oracle_id": "f3c5978a-70fa-431f-933b-b954bd0db0ea",
+     "original_printing": {
+      "set": "STH",
+      "set_name": "Stronghold",
+      "released_at": "1998-03-02",
+      "collector_number": "138",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1783946538",
+      "scryfall_uri": "https://scryfall.com/card/sth/138/mox-diamond?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Mox Pearl",
+     "oracle_id": "824597b8-c89a-47ec-8526-7efc6e24ef0e",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "263",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8ebe4be7-e12a-4596-a899-fbd5b152e879.jpg?1783948663",
+      "scryfall_uri": "https://scryfall.com/card/lea/263/mox-pearl?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Black Lotus",
+     "oracle_id": "5089ec1a-f881-4d55-af14-5d996171203b",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "232",
+      "rarity": "rare",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669",
+      "scryfall_uri": "https://scryfall.com/card/lea/232/black-lotus?utm_source=api"
+     }
+    },
+    {
+     "count": 1,
+     "name": "Strip Mine",
+     "oracle_id": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+     "original_printing": {
+      "set": "ATQ",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "collector_number": "82a",
+      "rarity": "uncommon",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1783948354",
+      "scryfall_uri": "https://scryfall.com/card/atq/82a/strip-mine?utm_source=api"
+     }
+    },
+    {
+     "count": 19,
+     "name": "Plains",
+     "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+     "original_printing": {
+      "set": "LEA",
+      "set_name": "Limited Edition Alpha",
+      "released_at": "1993-08-05",
+      "collector_number": "286",
+      "rarity": "common",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658",
+      "scryfall_uri": "https://scryfall.com/card/lea/286/plains?utm_source=api"
+     }
+    }
+   ],
+   "sideboard": null,
+   "notes": [
+    {
+     "text": "'K-Run' on Beyond Dominia. His own primer prints this list as 'Deck Parfait 2000, Beyond Dominia's Type I Tournament of Champions, second place, losing to Michael Bower's (aka Mikephoen) Forbidian'. No sideboard is printed, so sideboard is null. Mono-white control on Land Tax and Scroll Rack, winning with Sacred Mesa.",
+     "url": "https://www.bdominia.com/discus/articles/parfait.html"
+    },
+    {
+     "text": "His Beyond Dominia staff profile says the same: 'I made the finals of the first Type One Tournament Of Champions (T1TOC), losing to mikephoen.'",
+     "url": "https://www.bdominia.com/discus/articles/staff.html"
     }
    ]
   }
