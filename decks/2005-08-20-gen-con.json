@@ -2403,7 +2403,7 @@
   {
    "finish": "5-8",
    "seed": 1,
-   "player": "Brian Demars",
+   "player": "Brian DeMars",
    "archetype": "Control Slaver",
    "main": [
     {
@@ -3024,6 +3024,11 @@
       "image": "https://cards.scryfall.io/normal/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1783944884",
       "scryfall_uri": "https://scryfall.com/card/scg/52/stifle?utm_source=api"
      }
+    }
+   ],
+   "notes": [
+    {
+     "text": "Wizards' coverage prints \"Demars\". Written DeMars, as the 2009 coverage spells it, so one person has one name."
     }
    ]
   },
